@@ -1,0 +1,4 @@
+Flask 
+feedgen 
+requests 
+beautifulsoup4
