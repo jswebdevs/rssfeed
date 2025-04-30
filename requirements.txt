@@ -1,4 +1,4 @@
-Flask 
-feedgen 
-requests 
+requets
 beautifulsoup4
+FeedGenarator
+FeedGen

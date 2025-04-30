@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 
-TARGET_URL = 'https://www.todayhumor.co.kr'
+TARGET_URL = 'https://www.inven.co.kr'
 
 def fetch_articles(url):
     response = requests.get(url)
@@ -13,17 +13,12 @@ def fetch_articles(url):
     items = []
 
     # Accurate selector for humor board
-    links = soup.select('.main_table .subject a')
+    links = soup.select('.title-txt')
     for a in links:
         title = a.get_text(strip=True)
-        href = a['href']
-        full_link = 'https://www.todayhumor.co.kr' + href
-        pub_date = datetime.now(timezone.utc).isoformat()
 
         items.append({
             'title': title,
-            'link': full_link,
-            'pubDate': pub_date,
         })
 
     return items
@@ -40,11 +35,9 @@ def generate_rss(items):
     for item in items:
         fe = fg.add_entry()
         fe.title(item['title'])
-        fe.link(href=item['link'])
-        fe.pubDate(item['pubDate'])
-        fe.description(f'Read more: {item["link"]}')
 
-    fg.rss_file('custom_feed.xml')
+
+    fg.rss_file('inven.xml')
     print("✅ RSS feed created: custom_feed.xml")
 
 if __name__ == '__main__':
