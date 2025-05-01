@@ -1,4 +1,0 @@
-requets
-beautifulsoup4
-FeedGenarator
-FeedGen

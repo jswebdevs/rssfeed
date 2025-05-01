@@ -1,2 +1,0 @@
-invenco.py
-todayhumor.py
