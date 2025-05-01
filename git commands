@@ -1,0 +1,3 @@
+git add .
+git commit -m "Completed: todayhumor; testing: gorhumor"
+git push
