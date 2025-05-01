@@ -1,3 +1,9 @@
 git add .
 git commit -m "Completed: todayhumor; testing: gorhumor"
 git push
+
+Link: https://jswebdevs.github.io/rssfeed/
+
+python todayhumor.py 
+python gorhumor.py
+python gorenter.py

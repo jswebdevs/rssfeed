@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 BASE_URL = 'https://ggoorr.net'
-TARGET_URL = 'https://ggoorr.net/thisthat'
+TARGET_URL = 'https://ggoorr.net/enter'
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0 Safari/537.36'
@@ -82,8 +82,8 @@ def generate_rss(items):
         for cat in item['categories']:
             fe.category(term=cat)
 
-    fg.rss_file('gorhumor.xml')
-    print("✅ RSS feed created: gorhumor.xml")
+    fg.rss_file('gorenter.xml')
+    print("✅ RSS feed created: gorenter.xml")
 if __name__ == '__main__':
     articles = fetch_articles(TARGET_URL)
     if articles:
