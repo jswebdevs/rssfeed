@@ -3,12 +3,15 @@ python gorhumor.py
 python gorenter.py
 python gorlatest.py
 python etohumor.py
+python etoreview.py
+python etofreetalk.py
+
 
 Link: https://jswebdevs.github.io/rssfeed/
 
 
 git add .
-git commit -m "done: todayhumor, gorlatest, gorhumor, goretner, testing: etohumor.xml"
+git commit -m "done: todayhumor, gorlatest, gorhumor, goretner, testing: etoreview, etofreetalk"
 git push
 
 
