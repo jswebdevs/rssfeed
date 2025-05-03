@@ -5,13 +5,22 @@ python gorlatest.py
 python etohumor.py
 python etoreview.py
 python etofreetalk.py
+python gorhotdeals.py
+python gorai.py
 
 
-Link: https://jswebdevs.github.io/rssfeed/
+Links: 
+https://jswebdevs.github.io/rssfeed/todayhumor.py 
+https://jswebdevs.github.io/rssfeed/gorhumor.py
+https://jswebdevs.github.io/rssfeed/gorenter.py
+https://jswebdevs.github.io/rssfeed/gorlatest.py
+https://jswebdevs.github.io/rssfeed/etohumor.py
+https://jswebdevs.github.io/rssfeed/etoreview.py
+https://jswebdevs.github.io/rssfeed/etofreetalk.py
 
 
 git add .
-git commit -m "done: todayhumor, gorlatest, gorhumor, goretner, testing: etoreview, etofreetalk"
+git commit -m "done: todayhumor, gorlatest, gorhumor, goretner, etohumor, etoreview, etofreetalk;  testing: gorhotdeals, gorai"
 git push
 
 
