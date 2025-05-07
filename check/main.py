@@ -1,5 +1,3 @@
-# main.py
-
 from get_link_and_title import get_links_and_titles
 from get_full_content import get_full_content
 from feed_generation import generate_rss_feed
@@ -13,7 +11,7 @@ HEADERS = {
                   "Chrome/122.0.0.0 Safari/537.36"
 }
 START_PAGE = 1
-END_PAGE = 1
+END_PAGE = 112
 
 def main():
     all_posts = []
@@ -21,18 +19,36 @@ def main():
     for page_num in range(START_PAGE, END_PAGE + 1):
         url = TARGET_URL.format(page_number=page_num)
         log_step(f"Scraping page {page_num}: {url}")
-        posts = get_links_and_titles(url, BASE_URL, HEADERS)
+        try:
+            posts = get_links_and_titles(url, BASE_URL, HEADERS)
+        except Exception as e:
+            log_step(f"Failed to scrape page {page_num}: {str(e)}")
+            continue
 
         for post in posts:
-            content, featured_image = get_full_content(post['link'], HEADERS)
-            post['content'] = content
-            post['featured_image'] = featured_image
-            log_step(f"Added content for: {post['title']} (length: {len(content)})")
-
-        all_posts.extend(posts)
+            try:
+                content, featured_image = get_full_content(post['link'], HEADERS)
+                post['content'] = content
+                post['featured_image'] = featured_image
+                # Preprocess link to use /thisthat/ format
+                post['link'] = post['link'].replace('/main/', '/thisthat/').replace('/page/1', '')
+                log_step(f"Added content for: {post['title']} (link: {post['link']}, content length: {len(content)})")
+                all_posts.append(post)
+            except Exception as e:
+                log_step(f"Failed to process post {post.get('title', 'unknown')}: {str(e)}")
+                continue
 
     log_step(f"Total posts collected: {len(all_posts)}")
-    generate_rss_feed(all_posts)
+    
+    # Debug logging for items
+    print(f"Total items to process: {len(all_posts)}")
+    for idx, item in enumerate(all_posts):
+        print(f"Item {idx + 1}: {item}")
+
+    if all_posts:
+        generate_rss_feed(all_posts)
+    else:
+        log_step("No posts to generate RSS feed")
 
 if __name__ == "__main__":
     main()

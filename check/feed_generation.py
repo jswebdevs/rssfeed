@@ -2,14 +2,14 @@ from lxml import etree
 from datetime import datetime
 from log import log_step
 from bs4 import BeautifulSoup
-import requests
-import base64
-import mimetypes
 import re
 
 def generate_rss_feed(items, output_file="feed.xml"):
-    # Create RSS root with dc namespace
-    rss = etree.Element("rss", version="2.0", nsmap={"dc": "http://purl.org/dc/elements/1.1/"})
+    # Create RSS root with dc and content namespaces
+    rss = etree.Element("rss", version="2.0", nsmap={
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "content": "http://purl.org/rss/1.0/modules/content/"
+    })
     channel = etree.SubElement(rss, "channel")
 
     # Channel metadata
@@ -35,8 +35,15 @@ def generate_rss_feed(items, output_file="feed.xml"):
             log_step(f"Duplicate GUID detected for link {link}, using {guid}")
         seen_guids.add(guid)
 
+        # Log raw content to verify input
+        log_step(f"Raw content for item {idx + 1}: {content[:500]}{'...' if len(content) > 500 else ''}")
+
         # Modify content to match desired format
         modified_content = modify_content(content)
+
+        # Create plain text description (truncate HTML-stripped content)
+        soup = BeautifulSoup(modified_content, 'html.parser')
+        plain_text = soup.get_text(strip=True)[:200]  # First 200 chars for description
 
         # Detailed log for debugging
         log_step(
@@ -47,6 +54,7 @@ def generate_rss_feed(items, output_file="feed.xml"):
             f"guid: {guid}\n"
             f"content: {modified_content}\n"
             f"length: {len(modified_content)}\n"
+            f"plain_text: {plain_text}\n"
             f"=============="
         )
 
@@ -58,19 +66,16 @@ def generate_rss_feed(items, output_file="feed.xml"):
         etree.SubElement(item_elem, "{http://purl.org/dc/elements/1.1/}creator").text = "슈파슈파"
         etree.SubElement(item_elem, "guid", isPermaLink="true").text = guid
 
-        # Add description with unescaped HTML
+        # Add description with plain text
         description_elem = etree.SubElement(item_elem, "description")
+        description_elem.text = plain_text or ""
+
+        # Add content:encoded with full HTML in CDATA
+        content_elem = etree.SubElement(item_elem, "{http://purl.org/rss/1.0/modules/content/}encoded")
         if modified_content:
-            try:
-                # Parse the modified content as XML
-                content_tree = etree.fromstring(f"<root>{modified_content}</root>")
-                for child in content_tree:
-                    description_elem.append(child)
-            except etree.ParseError as e:
-                log_step(f"XML Parse Error for item {idx + 1}: {str(e)}")
-                description_elem.text = modified_content  # Fallback to text
+            content_elem.text = etree.CDATA(modified_content)
         else:
-            description_elem.text = ""  # Empty description for items with no content
+            content_elem.text = ""
 
     try:
         tree = etree.ElementTree(rss)
@@ -80,7 +85,7 @@ def generate_rss_feed(items, output_file="feed.xml"):
         log_step(f"Failed to write RSS feed: {str(e)}")
 
 def modify_content(content):
-    """Modify HTML content with Base64 images, video URLs, and YouTube/Vimeo embeds, no newlines."""
+    """Modify HTML content with original image URLs, video URLs, and YouTube/Vimeo embeds, no newlines."""
     soup = BeautifulSoup(content, 'html.parser')
     modified_elements = []
 
@@ -90,25 +95,12 @@ def modify_content(content):
 
     for tag in soup.find_all(['p', 'img', 'video', 'iframe', 'a']):
         if tag.name == 'p':
-            modified_elements.append(str(tag))
+            if tag.get_text(strip=True):  # Skip empty <p> tags
+                modified_elements.append(str(tag))
         elif tag.name == 'img':
-            # Convert image to Base64
+            # Use original image URL
             img_url = tag.get('src', '')
-            base64_data = get_base64_image(img_url)
-            if base64_data:
-                mime_type, _ = mimetypes.guess_type(img_url)
-                if not mime_type:
-                    mime_type = 'image/jpeg'  # Fallback
-                img_attrs = {
-                    'width': tag.get('width', ''),
-                    'height': tag.get('height', ''),
-                    'src': f"data:{mime_type};base64,{base64_data}",
-                    'alt': tag.get('alt', '')
-                }
-                img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v)}/>"
-                modified_elements.append(f'<p>{img_tag}</p>')
-            else:
-                # Fallback to original img tag
+            if img_url:
                 img_attrs = {
                     'width': tag.get('width', ''),
                     'height': tag.get('height', ''),
@@ -117,15 +109,17 @@ def modify_content(content):
                 }
                 img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v)}/>"
                 modified_elements.append(f'<p>{img_tag}</p>')
+            else:
+                log_step(f"Skipping img tag with no src: {str(tag)}")
         elif tag.name == 'video':
-            # Use original video URL
+            # Use original video URL with minimal attributes
             video_url = tag.get('src', '')
             if video_url:
                 video_attrs = {
-                    'width': tag.get('width', '560'),
-                    'height': tag.get('height', '315'),
                     'src': video_url,
-                    'controls': 'controls'
+                    'controls': 'controls',
+                    'width': tag.get('width', '560'),
+                    'height': tag.get('height', '315')
                 }
                 video_tag = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
                 modified_elements.append(f'<p>{video_tag}</p>')
@@ -159,15 +153,3 @@ def modify_content(content):
 
     # Join without newlines to prevent \n in WordPress
     return ''.join(modified_elements)
-
-def get_base64_image(url):
-    """Download image from URL and convert to Base64 string."""
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        image_data = response.content
-        base64_data = base64.b64encode(image_data).decode('utf-8')
-        return base64_data
-    except Exception as e:
-        log_step(f"Failed to convert image to Base64: {url}, error: {str(e)}")
-        return None
