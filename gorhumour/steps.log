@@ -1,0 +1,1220 @@
+[2025-05-08 03:06:57] Scraping page 1: https://ggoorr.net/main/category/17748967/page/1
+[2025-05-08 03:06:57] Raw HTML content for https://ggoorr.net/main/category/17748967/page/1: <!DOCTYPE html>
+<html lang="ko">
+<head>
+
+<!-- META -->
+<meta charset="utf-8">
+<meta name="generator" content="Rhymix">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="csrf-token" content="s4TCfbQgbJhdvfiY" />
+<meta name="keywords" content="꾸르, 꾸르넷, 알린넷, 알린" />
+<meta name="description" content="꾸르잼 꾸르 커뮤니티" />
+<meta name="document_hide_mid_list" content="" />
+
+<!-- TITLE -->
+<title>꾸르잼 - 꾸르</title>
+
+<!-- CSS -->
+<link rel="stylesheet" href="...
+[2025-05-08 03:06:57] Raw anchor tags for titles: ['<a class="lu-title lddu-title" href="/main/17869945/page/1?category=17748967">\n침펄풍이 말하는 옛날 어른들 특징\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869936/page/1?category=17748967">\nFSB, 히틀러 사망 관련 기밀 문서 공개\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869877/page/1?category=17748967">\n삼성에서 일하는 외국인이 느낀 네,왜? 문화\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869824/page/1?category=17748967">\n팀장 8년차가 말하는 일 못하는 직원 특징\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869798/page/1?category=17748967">\n옛날 코카인 중독 치료에 사용되던 기적의 약\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869795/page/1?category=17748967">\n태양 홍염의 크기 수준\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869791/page/1?category=17748967">\n박력 넘치는 어린이\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869790/page/1?category=17748967">\n엄마 앞에서 밸리댄스를 추는 2000년생\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869785/page/1?category=17748967">\n육종 개량으로 칠면조 인기가 더 하락중\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869782/page/1?category=17748967">\n인도에서 물갈이 배탈이 나는 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869779/page/1?category=17748967">\n기원전 3000년 부터 여자 화장의 변화 과정\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869706/page/1?category=17748967">\n클로드 모네 생가가 관광 명소인 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869685/page/1?category=17748967">\n조폭들 회식 직관한 썰\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869667/page/1?category=17748967">\n만수르 보다 돈이 더 많다고 알려진 부자\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869664/page/1?category=17748967">\n기독교녀가 말하는 종교 탄압\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869641/page/1?category=17748967">\n카메라를 중고로 팔면 위험한 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869634/page/1?category=17748967">\n아빠 대통령이라 구라치고 면제 받음\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869630/page/1?category=17748967">\n눈이 돌아가는 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869380/page/1?category=17748967">\n한국와서 2년 반만에 프로 자격 딴 흑인 유학생\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869376/page/1?category=17748967">\n상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층\t\t\t\t\t</a>']
+[2025-05-08 03:06:57] Found title: 침펄풍이 말하는 옛날 어른들 특징 with link: /main/17869945/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '침펄풍이 말하는 옛날 어른들 특징': ['유머']
+[2025-05-08 03:06:58] Found title: FSB, 히틀러 사망 관련 기밀 문서 공개 with link: /main/17869936/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title 'FSB, 히틀러 사망 관련 기밀 문서 공개': ['유머']
+[2025-05-08 03:06:58] Found title: 삼성에서 일하는 외국인이 느낀 네,왜? 문화 with link: /main/17869877/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '삼성에서 일하는 외국인이 느낀 네,왜? 문화': ['유머']
+[2025-05-08 03:06:58] Found title: 팀장 8년차가 말하는 일 못하는 직원 특징 with link: /main/17869824/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '팀장 8년차가 말하는 일 못하는 직원 특징': ['유머']
+[2025-05-08 03:06:58] Found title: 옛날 코카인 중독 치료에 사용되던 기적의 약 with link: /main/17869798/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '옛날 코카인 중독 치료에 사용되던 기적의 약': ['유머']
+[2025-05-08 03:06:58] Found title: 태양 홍염의 크기 수준 with link: /main/17869795/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '태양 홍염의 크기 수준': ['유머']
+[2025-05-08 03:06:58] Found title: 박력 넘치는 어린이 with link: /main/17869791/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '박력 넘치는 어린이': ['유머']
+[2025-05-08 03:06:58] Found title: 엄마 앞에서 밸리댄스를 추는 2000년생 with link: /main/17869790/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '엄마 앞에서 밸리댄스를 추는 2000년생': ['유머']
+[2025-05-08 03:06:58] Found title: 육종 개량으로 칠면조 인기가 더 하락중 with link: /main/17869785/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '육종 개량으로 칠면조 인기가 더 하락중': ['유머']
+[2025-05-08 03:06:58] Found title: 인도에서 물갈이 배탈이 나는 이유 with link: /main/17869782/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '인도에서 물갈이 배탈이 나는 이유': ['유머']
+[2025-05-08 03:06:58] Found title: 기원전 3000년 부터 여자 화장의 변화 과정 with link: /main/17869779/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '기원전 3000년 부터 여자 화장의 변화 과정': ['유머']
+[2025-05-08 03:06:58] Found title: 클로드 모네 생가가 관광 명소인 이유 with link: /main/17869706/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '클로드 모네 생가가 관광 명소인 이유': ['유머']
+[2025-05-08 03:06:58] Found title: 조폭들 회식 직관한 썰 with link: /main/17869685/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '조폭들 회식 직관한 썰': ['유머']
+[2025-05-08 03:06:58] Found title: 만수르 보다 돈이 더 많다고 알려진 부자 with link: /main/17869667/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '만수르 보다 돈이 더 많다고 알려진 부자': ['유머']
+[2025-05-08 03:06:58] Found title: 기독교녀가 말하는 종교 탄압 with link: /main/17869664/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '기독교녀가 말하는 종교 탄압': ['유머']
+[2025-05-08 03:06:58] Found title: 카메라를 중고로 팔면 위험한 이유 with link: /main/17869641/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '카메라를 중고로 팔면 위험한 이유': ['유머']
+[2025-05-08 03:06:58] Found title: 아빠 대통령이라 구라치고 면제 받음 with link: /main/17869634/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '아빠 대통령이라 구라치고 면제 받음': ['유머']
+[2025-05-08 03:06:58] Found title: 눈이 돌아가는 이유 with link: /main/17869630/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '눈이 돌아가는 이유': ['유머']
+[2025-05-08 03:06:58] Found title: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생 with link: /main/17869380/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '한국와서 2년 반만에 프로 자격 딴 흑인 유학생': ['유머']
+[2025-05-08 03:06:58] Found title: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층 with link: /main/17869376/page/1?category=17748967
+[2025-05-08 03:06:58] Categories for title '상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층': ['유머']
+[2025-05-08 03:06:58] Found 20 posts on https://ggoorr.net/main/category/17748967/page/1
+[2025-05-08 03:06:58] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869945,15464532)--><div class="document_17869945_15464532 rhymix_content xe_content"><p><img alt="침펄풍이 말하는 옛날 어른들 특징.jpg" data-cke-saved-src="/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" data-file-srl="17869946" editor_component="image_link" fetchpriority="high" height="12565" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" width=...
+[2025-05-08 03:06:58] Video URLs for post https://ggoorr.net/main/17869945/page/1?category=17748967: []
+[2025-05-08 03:06:58] ==============
+title: 침펄풍이 말하는 옛날 어른들 특징 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869945/page/1?category=17748967
+content: <p><img alt="침펄풍이 말하는 옛날 어른들 특징.jpg" height="12565" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" width="800"/></p>
+length: 171
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:06:58] Added content for: 침펄풍이 말하는 옛날 어른들 특징 (link: https://ggoorr.net/thisthat/17869945?category=17748967, content length: 171, categories: ['유머'])
+[2025-05-08 03:06:59] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869936,15464532)--><div class="document_17869936_15464532 rhymix_content xe_content"><p><img alt="001.png.jpg" data-cke-saved-src="/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" data-file-srl="17869937" editor_component="image_link" fetchpriority="high" height="412" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" width="767"/></p>
+<...
+[2025-05-08 03:06:59] Video URLs for post https://ggoorr.net/main/17869936/page/1?category=17748967: []
+[2025-05-08 03:06:59] ==============
+title: FSB, 히틀러 사망 관련 기밀 문서 공개 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869936/page/1?category=17748967
+content: <p><img alt="001.png.jpg" height="412" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" width="767"/></p><p><img alt="002.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg" width="1280"/></p><p><img alt="003.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg" width="1280"/></p><p><img alt="004.jpg" height="72...
+length: 1087
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/2ed476cad17a6ee00908f3bf8d91659d.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/ad9d22643e33d07ebe4efb7fee6b72e0.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/90467272bf7b11fc645b2ae6d3cafd34.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/6d7e190d1d1970bbe89269e7c1e64c14.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:06:59] Added content for: FSB, 히틀러 사망 관련 기밀 문서 공개 (link: https://ggoorr.net/thisthat/17869936?category=17748967, content length: 1087, categories: ['유머'])
+[2025-05-08 03:07:00] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869877,15464532)--><div class="document_17869877_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" data-file-srl="17869878" editor_component="image_link" fetchpriority="high" height="4958" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" width="780"/></p>
+<p> ...
+[2025-05-08 03:07:00] Video URLs for post https://ggoorr.net/main/17869877/page/1?category=17748967: []
+[2025-05-08 03:07:00] ==============
+title: 삼성에서 일하는 외국인이 느낀 네,왜? 문화 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869877/page/1?category=17748967
+content: <p><img alt="001.jpg" height="4958" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" width="780"/></p>
+length: 155
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:00] Added content for: 삼성에서 일하는 외국인이 느낀 네,왜? 문화 (link: https://ggoorr.net/thisthat/17869877?category=17748967, content length: 155, categories: ['유머'])
+[2025-05-08 03:07:00] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869824,15464532)--><div class="document_17869824_15464532 rhymix_content xe_content"><p><img alt="001.webp" data-cke-saved-src="/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" data-file-srl="17869825" editor_component="image_link" fetchpriority="high" height="1112" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" width="966"/></p>
+<...
+[2025-05-08 03:07:00] Video URLs for post https://ggoorr.net/main/17869824/page/1?category=17748967: []
+[2025-05-08 03:07:00] ==============
+title: 팀장 8년차가 말하는 일 못하는 직원 특징 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869824/page/1?category=17748967
+content: <p><img alt="001.webp" height="1112" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" width="966"/></p><p><img alt="002.webp" height="579" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp" width="966"/></p>
+length: 313
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp', 'https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp']
+Video URLs: []
+==============
+[2025-05-08 03:07:00] Added content for: 팀장 8년차가 말하는 일 못하는 직원 특징 (link: https://ggoorr.net/thisthat/17869824?category=17748967, content length: 313, categories: ['유머'])
+[2025-05-08 03:07:01] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869798,15464532)--><div class="document_17869798_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" data-file-srl="17869799" editor_component="image_link" fetchpriority="high" height="4780" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" width="850"/></p>
+<p><...
+[2025-05-08 03:07:01] Video URLs for post https://ggoorr.net/main/17869798/page/1?category=17748967: []
+[2025-05-08 03:07:01] ==============
+title: 옛날 코카인 중독 치료에 사용되던 기적의 약 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869798/page/1?category=17748967
+content: <p><img alt="001.jpg" height="4780" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" width="850"/></p><p><img alt="002.webp" height="171" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp" width="719"/></p>
+length: 311
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp']
+Video URLs: []
+==============
+[2025-05-08 03:07:01] Added content for: 옛날 코카인 중독 치료에 사용되던 기적의 약 (link: https://ggoorr.net/thisthat/17869798?category=17748967, content length: 311, categories: ['유머'])
+[2025-05-08 03:07:01] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869795,15464532)--><div class="document_17869795_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869796" data-saved-src="/files/attach/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" height="640" loop="" muted="" playsinline="" src="/files/attach/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video>
+<p> </p></div></div><!--AfterDocument(17869795,15464532)--...
+[2025-05-08 03:07:01] Video URLs for post https://ggoorr.net/main/17869795/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4']
+[2025-05-08 03:07:01] ==============
+title: 태양 홍염의 크기 수준 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869795/page/1?category=17748967
+content: <p><video controls="controls" height="640" poster="" src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4']
+==============
+[2025-05-08 03:07:01] Added content for: 태양 홍염의 크기 수준 (link: https://ggoorr.net/thisthat/17869795?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:07:02] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869791,15464532)--><div class="document_17869791_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869792" data-saved-src="/files/attach/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" height="746" loop="" muted="" playsinline="" src="/files/attach/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video>
+<p> </p>
+<p>ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p>
+<p> </p>
+...
+[2025-05-08 03:07:02] Video URLs for post https://ggoorr.net/main/17869791/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4']
+[2025-05-08 03:07:02] ==============
+title: 박력 넘치는 어린이 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869791/page/1?category=17748967
+content: <p><video controls="controls" height="746" poster="" src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4']
+==============
+[2025-05-08 03:07:02] Added content for: 박력 넘치는 어린이 (link: https://ggoorr.net/thisthat/17869791?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:07:03] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869790,15464532)--><div class="document_17869790_15464532 rhymix_content xe_content"><p><a href="https://www.youtube.com/shorts/Awlm5N6s6Nw?feature=share" target="_blank">https://www.youtube.com/shorts/Awlm5N6s6Nw?feature=share</a></p>
+<div class="youtube-div-shorts"><iframe allowfullscreen="" frameborder="0" loading="lazy" src="https://www.youtube.com/embed/Awlm5N6s6Nw?enablejsapi=1"></iframe></div>
+<p> </p></div></div><!--Aft...
+[2025-05-08 03:07:03] Video URLs for post https://ggoorr.net/main/17869790/page/1?category=17748967: []
+[2025-05-08 03:07:03] ==============
+title: 엄마 앞에서 밸리댄스를 추는 2000년생 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869790/page/1?category=17748967
+content: 
+length: 0
+Featured Image: None
+Image URLs: []
+Video URLs: []
+==============
+[2025-05-08 03:07:03] Added content for: 엄마 앞에서 밸리댄스를 추는 2000년생 (link: https://ggoorr.net/thisthat/17869790?category=17748967, content length: 0, categories: ['유머'])
+[2025-05-08 03:07:03] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869785,15464532)--><div class="document_17869785_15464532 rhymix_content xe_content"><p><img alt="육종 개량으로 칠면조 인기가 더 하락중.jpg" data-cke-saved-src="/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" data-file-srl="17869786" editor_component="image_link" fetchpriority="high" height="3943" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" widt...
+[2025-05-08 03:07:03] Video URLs for post https://ggoorr.net/main/17869785/page/1?category=17748967: []
+[2025-05-08 03:07:03] ==============
+title: 육종 개량으로 칠면조 인기가 더 하락중 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869785/page/1?category=17748967
+content: <p><img alt="육종 개량으로 칠면조 인기가 더 하락중.jpg" height="3943" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" width="1024"/></p>
+length: 174
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:03] Added content for: 육종 개량으로 칠면조 인기가 더 하락중 (link: https://ggoorr.net/thisthat/17869785?category=17748967, content length: 174, categories: ['유머'])
+[2025-05-08 03:07:04] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869782,15464532)--><div class="document_17869782_15464532 rhymix_content xe_content"><p><img alt="인도에서 물갈이 배탈이 나는 이유.jpg" data-cke-saved-src="/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" data-file-srl="17869783" editor_component="image_link" fetchpriority="high" height="12332" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" width=...
+[2025-05-08 03:07:04] Video URLs for post https://ggoorr.net/main/17869782/page/1?category=17748967: []
+[2025-05-08 03:07:04] ==============
+title: 인도에서 물갈이 배탈이 나는 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869782/page/1?category=17748967
+content: <p><img alt="인도에서 물갈이 배탈이 나는 이유.jpg" height="12332" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" width="900"/></p>
+length: 171
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:04] Added content for: 인도에서 물갈이 배탈이 나는 이유 (link: https://ggoorr.net/thisthat/17869782?category=17748967, content length: 171, categories: ['유머'])
+[2025-05-08 03:07:04] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869779,15464532)--><div class="document_17869779_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869780" data-saved-src="/files/attach/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" height="704" loop="" muted="" playsinline="" src="/files/attach/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video>
+<p> </p></div></div><!--AfterDocument(17869779,15464532)--...
+[2025-05-08 03:07:04] Video URLs for post https://ggoorr.net/main/17869779/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4']
+[2025-05-08 03:07:04] ==============
+title: 기원전 3000년 부터 여자 화장의 변화 과정 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869779/page/1?category=17748967
+content: <p><video controls="controls" height="704" poster="" src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4']
+==============
+[2025-05-08 03:07:04] Added content for: 기원전 3000년 부터 여자 화장의 변화 과정 (link: https://ggoorr.net/thisthat/17869779?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:07:05] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869706,15464532)--><div class="document_17869706_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" data-file-srl="17869707" editor_component="image_link" fetchpriority="high" height="1350" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" width="1080"/></p>
+<p>...
+[2025-05-08 03:07:05] Video URLs for post https://ggoorr.net/main/17869706/page/1?category=17748967: []
+[2025-05-08 03:07:05] ==============
+title: 클로드 모네 생가가 관광 명소인 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869706/page/1?category=17748967
+content: <p><img alt="001.jpg" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" width="1080"/></p><p><img alt="002.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg" width="543"/></p><p><img alt="003.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg" width="544"/></p><p><img alt="004.jpg" height="676" s...
+length: 2478
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/f6ccbd59580dde4073f781d7dbb5bb51.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/dbe96373619533c5bdaa64616c680a92.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/def523d29f5970c1bb50c5d497e1eefb.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/72d26fe7715c694a88b789111227fd21.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/7d7b0a27783941c20c378b9f6cf261a3.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/00a6c18508c6d202231ab808db8e6c04.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/071dfc8ed285702921fce3e0c02c7e02.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/8c879951f39871a0f5607018101c4221.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/287ccc7345a34af0679d0a2557925bb0.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/e4c8081d956181820ee26ac4ac97f580.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/15a0fdbad431e5cb94587795bf90d784.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/0489b50fcef922bf6a02125930432d6b.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/d676e5b2cd348b397bfa135a8bf3adb2.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:05] Added content for: 클로드 모네 생가가 관광 명소인 이유 (link: https://ggoorr.net/thisthat/17869706?category=17748967, content length: 2478, categories: ['유머'])
+[2025-05-08 03:07:05] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869685,15464532)--><div class="document_17869685_15464532 rhymix_content xe_content"><p><img alt="조폭들 회식 직관한 썰.jpg" data-cke-saved-src="/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" data-file-srl="17869686" editor_component="image_link" fetchpriority="high" height="1987" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" width="1080"/...
+[2025-05-08 03:07:05] Video URLs for post https://ggoorr.net/main/17869685/page/1?category=17748967: []
+[2025-05-08 03:07:05] ==============
+title: 조폭들 회식 직관한 썰 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869685/page/1?category=17748967
+content: <p><img alt="조폭들 회식 직관한 썰.jpg" height="1987" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" width="1080"/></p>
+length: 165
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:05] Added content for: 조폭들 회식 직관한 썰 (link: https://ggoorr.net/thisthat/17869685?category=17748967, content length: 165, categories: ['유머'])
+[2025-05-08 03:07:06] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869667,15464532)--><div class="document_17869667_15464532 rhymix_content xe_content"><p><img alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg" data-cke-saved-src="/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" data-file-srl="17869668" editor_component="image_link" fetchpriority="high" height="15817" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" wi...
+[2025-05-08 03:07:06] Video URLs for post https://ggoorr.net/main/17869667/page/1?category=17748967: []
+[2025-05-08 03:07:06] ==============
+title: 만수르 보다 돈이 더 많다고 알려진 부자 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869667/page/1?category=17748967
+content: <p><img alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg" height="15817" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" width="740"/></p>
+length: 175
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:06] Added content for: 만수르 보다 돈이 더 많다고 알려진 부자 (link: https://ggoorr.net/thisthat/17869667?category=17748967, content length: 175, categories: ['유머'])
+[2025-05-08 03:07:06] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869664,15464532)--><div class="document_17869664_15464532 rhymix_content xe_content"><p><img alt="기독교녀가 말하는 종교 탄압.webp" data-cke-saved-src="/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" data-file-srl="17869665" editor_component="image_link" fetchpriority="high" height="12053" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" width=...
+[2025-05-08 03:07:06] Video URLs for post https://ggoorr.net/main/17869664/page/1?category=17748967: []
+[2025-05-08 03:07:06] ==============
+title: 기독교녀가 말하는 종교 탄압 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869664/page/1?category=17748967
+content: <p><img alt="기독교녀가 말하는 종교 탄압.webp" height="12053" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" width="966"/></p>
+length: 170
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp']
+Video URLs: []
+==============
+[2025-05-08 03:07:06] Added content for: 기독교녀가 말하는 종교 탄압 (link: https://ggoorr.net/thisthat/17869664?category=17748967, content length: 170, categories: ['유머'])
+[2025-05-08 03:07:07] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869641,15464532)--><div class="document_17869641_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" data-file-srl="17869642" editor_component="image_link" fetchpriority="high" height="1185" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" width="1024"/></p>
+<p>...
+[2025-05-08 03:07:07] Video URLs for post https://ggoorr.net/main/17869641/page/1?category=17748967: []
+[2025-05-08 03:07:07] ==============
+title: 카메라를 중고로 팔면 위험한 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869641/page/1?category=17748967
+content: <p><img alt="001.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" width="1024"/></p><p><img alt="002.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg" width="1024"/></p><p><img alt="003.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg" width="1024"/></p><p><img alt="004.jpg" height="11...
+length: 936
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/f31099c4cb6469b80dbcd04396767d7e.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/554c252836deda2cc420f220b3c82339.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/d44446c8fdab5cabe16c00a5c1fc473a.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:07] Added content for: 카메라를 중고로 팔면 위험한 이유 (link: https://ggoorr.net/thisthat/17869641?category=17748967, content length: 936, categories: ['유머'])
+[2025-05-08 03:07:07] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869634,15464532)--><div class="document_17869634_15464532 rhymix_content xe_content"><p><img alt="아빠 대통령이라 구라치고 면제 받음.jpg" data-cke-saved-src="/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" data-file-srl="17869635" editor_component="image_link" fetchpriority="high" height="887" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" width="...
+[2025-05-08 03:07:07] Video URLs for post https://ggoorr.net/main/17869634/page/1?category=17748967: []
+[2025-05-08 03:07:07] ==============
+title: 아빠 대통령이라 구라치고 면제 받음 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869634/page/1?category=17748967
+content: <p><img alt="아빠 대통령이라 구라치고 면제 받음.jpg" height="887" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" width="800"/></p>
+length: 170
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:07] Added content for: 아빠 대통령이라 구라치고 면제 받음 (link: https://ggoorr.net/thisthat/17869634?category=17748967, content length: 170, categories: ['유머'])
+[2025-05-08 03:07:08] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869630,15464532)--><div class="document_17869630_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869632" data-saved-src="/files/attach/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" height="298" loop="" muted="" playsinline="" src="/files/attach/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video>
+<p> </p>
+<p>정직한 시선ㅋㅋ</p></div></div><!--AfterDocument(1786...
+[2025-05-08 03:07:08] Video URLs for post https://ggoorr.net/main/17869630/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4']
+[2025-05-08 03:07:08] ==============
+title: 눈이 돌아가는 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869630/page/1?category=17748967
+content: <p><video controls="controls" height="298" poster="" src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4']
+==============
+[2025-05-08 03:07:08] Added content for: 눈이 돌아가는 이유 (link: https://ggoorr.net/thisthat/17869630?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:07:09] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869380,14523564)--><div class="document_17869380_14523564 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" data-file-srl="17869381" editor_component="image_link" fetchpriority="high" height="505" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" width="900"/></p>
+<p> <...
+[2025-05-08 03:07:09] Video URLs for post https://ggoorr.net/main/17869380/page/1?category=17748967: []
+[2025-05-08 03:07:09] ==============
+title: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869380/page/1?category=17748967
+content: <p><img alt="001.jpg" height="505" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" width="900"/></p><p><img alt="002.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg" width="900"/></p><p><img alt="003.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg" width="900"/></p><p><img alt="004.jpg" height="515" src...
+length: 2926
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fedaf24490ba80484b4ee62dce03d35c.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/09b0e2b16814a45dd7037bb609cd69eb.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7411856b86d04b6a6c75085a836665f6.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/4d63582d54f1f81677d4833092bee179.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/b0e07e1f99a79cd2ce385f76d07d5ef1.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7c8661433ed217e50afd2c0830515259.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/22f2ca0f0d6c0999a4237ed58193e10a.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7f8acd150b51716d53a7778b2b651f58.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/ae72d5404816a1860121efdfda5fe5ce.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/27e255cfc0c62dbda12d5b1479b9ee79.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/4a186e607a3104e3c064843aba132e39.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/37714a3eba6604c3a4f7027c0402edba.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/11420910b110a9150be2783a5f1a03d8.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/2a46e36e08ba2960d137664e910cfb86.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7e02b89461ff8d3d4102a8b98e674e71.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/ec6b59983250e25fadba609f44a408dc.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:09] Added content for: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생 (link: https://ggoorr.net/thisthat/17869380?category=17748967, content length: 2926, categories: ['유머'])
+[2025-05-08 03:07:09] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869376,14523564)--><div class="document_17869376_14523564 rhymix_content xe_content"><p><img alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg" data-cke-saved-src="/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" data-file-srl="17869377" editor_component="image_link" fetchpriority="high" height="11752" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952d...
+[2025-05-08 03:07:09] Video URLs for post https://ggoorr.net/main/17869376/page/1?category=17748967: []
+[2025-05-08 03:07:09] ==============
+title: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869376/page/1?category=17748967
+content: <p><img alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg" height="11752" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" width="700"/></p>
+length: 186
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:07:09] Added content for: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층 (link: https://ggoorr.net/thisthat/17869376?category=17748967, content length: 186, categories: ['유머'])
+[2025-05-08 03:07:09] Total posts collected: 20
+[2025-05-08 03:07:09] Raw content for item 1: <p><img alt="침펄풍이 말하는 옛날 어른들 특징.jpg" height="12565" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" width="800"/></p>
+[2025-05-08 03:07:09] Featured image for item 1: https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg
+[2025-05-08 03:07:09] ==============
+Item 1:
+title: 침펄풍이 말하는 옛날 어른들 특징
+link: https://ggoorr.net/thisthat/17869945?category=17748967
+guid: https://ggoorr.net/thisthat/17869945?category=17748967
+content: <p><img width="800" height="12565" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" alt="침펄풍이 말하는 옛날 어른들 특징.jpg"/></p>
+length: 171
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 2: <p><img alt="001.png.jpg" height="412" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" width="767"/></p><p><img alt="002.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg" width="1280"/></p><p><img alt="003.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg" width="1280"/></p><p><img alt="004.jpg" height="72...
+[2025-05-08 03:07:09] Featured image for item 2: https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg
+[2025-05-08 03:07:09] ==============
+Item 2:
+title: FSB, 히틀러 사망 관련 기밀 문서 공개
+link: https://ggoorr.net/thisthat/17869936?category=17748967
+guid: https://ggoorr.net/thisthat/17869936?category=17748967
+content: <p><img width="767" height="412" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" alt="001.png.jpg"/></p><p><img width="1280" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg" alt="002.jpg"/></p><p><img width="1280" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg" alt="003.jpg"/></p><p><img width="1280" height="720" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/2ed476cad17a6ee00908f3bf8d91659d.jpg" alt="004.jpg"/></p><p><img width="1280" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/ad9d22643e33d07ebe4efb7fee6b72e0.jpg" alt="005.jpg"/></p><p><img width="1280" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/90467272bf7b11fc645b2ae6d3cafd34.jpg" alt="006.jpg"/></p><p><img width="900" height="506" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/6d7e190d1d1970bbe89269e7c1e64c14.jpg" alt="007.jpg"/></p>
+length: 1087
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 3: <p><img alt="001.jpg" height="4958" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" width="780"/></p>
+[2025-05-08 03:07:09] Featured image for item 3: https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg
+[2025-05-08 03:07:09] ==============
+Item 3:
+title: 삼성에서 일하는 외국인이 느낀 네,왜? 문화
+link: https://ggoorr.net/thisthat/17869877?category=17748967
+guid: https://ggoorr.net/thisthat/17869877?category=17748967
+content: <p><img width="780" height="4958" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" alt="001.jpg"/></p>
+length: 155
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 4: <p><img alt="001.webp" height="1112" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" width="966"/></p><p><img alt="002.webp" height="579" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp" width="966"/></p>
+[2025-05-08 03:07:09] Featured image for item 4: https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp
+[2025-05-08 03:07:09] ==============
+Item 4:
+title: 팀장 8년차가 말하는 일 못하는 직원 특징
+link: https://ggoorr.net/thisthat/17869824?category=17748967
+guid: https://ggoorr.net/thisthat/17869824?category=17748967
+content: <p><img width="966" height="1112" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" alt="001.webp"/></p><p><img width="966" height="579" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp" alt="002.webp"/></p>
+length: 313
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp
+==============
+[2025-05-08 03:07:09] Raw content for item 5: <p><img alt="001.jpg" height="4780" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" width="850"/></p><p><img alt="002.webp" height="171" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp" width="719"/></p>
+[2025-05-08 03:07:09] Featured image for item 5: https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg
+[2025-05-08 03:07:09] ==============
+Item 5:
+title: 옛날 코카인 중독 치료에 사용되던 기적의 약
+link: https://ggoorr.net/thisthat/17869798?category=17748967
+guid: https://ggoorr.net/thisthat/17869798?category=17748967
+content: <p><img width="850" height="4780" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" alt="001.jpg"/></p><p><img width="719" height="171" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp" alt="002.webp"/></p>
+length: 311
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 6: <p><video controls="controls" height="640" poster="" src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video></p>
+[2025-05-08 03:07:09] Featured image for item 6: 
+[2025-05-08 03:07:09] ==============
+Item 6:
+title: 태양 홍염의 크기 수준
+link: https://ggoorr.net/thisthat/17869795?category=17748967
+guid: https://ggoorr.net/thisthat/17869795?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" controls="controls" width="360" height="640"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+==============
+[2025-05-08 03:07:09] Raw content for item 7: <p><video controls="controls" height="746" poster="" src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video></p>
+[2025-05-08 03:07:09] Featured image for item 7: 
+[2025-05-08 03:07:09] ==============
+Item 7:
+title: 박력 넘치는 어린이
+link: https://ggoorr.net/thisthat/17869791?category=17748967
+guid: https://ggoorr.net/thisthat/17869791?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" controls="controls" width="420" height="746"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+==============
+[2025-05-08 03:07:09] Raw content for item 8: 
+[2025-05-08 03:07:09] Featured image for item 8: 
+[2025-05-08 03:07:09] ==============
+Item 8:
+title: 엄마 앞에서 밸리댄스를 추는 2000년생
+link: https://ggoorr.net/thisthat/17869790?category=17748967
+guid: https://ggoorr.net/thisthat/17869790?category=17748967
+content: 
+length: 0
+plain_text: 
+featured_image: 
+==============
+[2025-05-08 03:07:09] Raw content for item 9: <p><img alt="육종 개량으로 칠면조 인기가 더 하락중.jpg" height="3943" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" width="1024"/></p>
+[2025-05-08 03:07:09] Featured image for item 9: https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg
+[2025-05-08 03:07:09] ==============
+Item 9:
+title: 육종 개량으로 칠면조 인기가 더 하락중
+link: https://ggoorr.net/thisthat/17869785?category=17748967
+guid: https://ggoorr.net/thisthat/17869785?category=17748967
+content: <p><img width="1024" height="3943" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" alt="육종 개량으로 칠면조 인기가 더 하락중.jpg"/></p>
+length: 174
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 10: <p><img alt="인도에서 물갈이 배탈이 나는 이유.jpg" height="12332" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" width="900"/></p>
+[2025-05-08 03:07:09] Featured image for item 10: https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg
+[2025-05-08 03:07:09] ==============
+Item 10:
+title: 인도에서 물갈이 배탈이 나는 이유
+link: https://ggoorr.net/thisthat/17869782?category=17748967
+guid: https://ggoorr.net/thisthat/17869782?category=17748967
+content: <p><img width="900" height="12332" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" alt="인도에서 물갈이 배탈이 나는 이유.jpg"/></p>
+length: 171
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 11: <p><video controls="controls" height="704" poster="" src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video></p>
+[2025-05-08 03:07:09] Featured image for item 11: 
+[2025-05-08 03:07:09] ==============
+Item 11:
+title: 기원전 3000년 부터 여자 화장의 변화 과정
+link: https://ggoorr.net/thisthat/17869779?category=17748967
+guid: https://ggoorr.net/thisthat/17869779?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" controls="controls" width="396" height="704"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+==============
+[2025-05-08 03:07:09] Raw content for item 12: <p><img alt="001.jpg" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" width="1080"/></p><p><img alt="002.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg" width="543"/></p><p><img alt="003.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg" width="544"/></p><p><img alt="004.jpg" height="676" s...
+[2025-05-08 03:07:09] Featured image for item 12: https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg
+[2025-05-08 03:07:09] ==============
+Item 12:
+title: 클로드 모네 생가가 관광 명소인 이유
+link: https://ggoorr.net/thisthat/17869706?category=17748967
+guid: https://ggoorr.net/thisthat/17869706?category=17748967
+content: <p><img width="1080" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" alt="001.jpg"/></p><p><img width="543" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg" alt="002.jpg"/></p><p><img width="544" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg" alt="003.jpg"/></p><p><img width="543" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/f6ccbd59580dde4073f781d7dbb5bb51.jpg" alt="004.jpg"/></p><p><img width="960" height="639" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/dbe96373619533c5bdaa64616c680a92.jpg" alt="005.jpg"/></p><p><img width="1170" height="780" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/def523d29f5970c1bb50c5d497e1eefb.jpg" alt="006.jpg"/></p><p><img width="768" height="1024" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/72d26fe7715c694a88b789111227fd21.jpg" alt="007.jpg"/></p><p><img width="768" height="1024" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/7d7b0a27783941c20c378b9f6cf261a3.jpg" alt="008.jpg"/></p><p><img width="768" height="1024" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/00a6c18508c6d202231ab808db8e6c04.jpg" alt="009.jpg"/></p><p><img width="1080" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/071dfc8ed285702921fce3e0c02c7e02.jpg" alt="010.jpg"/></p><p><img width="640" height="420" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/8c879951f39871a0f5607018101c4221.jpg" alt="011.jpg"/></p><p><img width="640" height="419" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/287ccc7345a34af0679d0a2557925bb0.jpg" alt="012.jpg"/></p><p><img width="640" height="422" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/e4c8081d956181820ee26ac4ac97f580.jpg" alt="013.jpg"/></p><p><img width="1536" height="2048" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/15a0fdbad431e5cb94587795bf90d784.jpg" alt="014.jpg"/></p><p><img width="1536" height="2048" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/0489b50fcef922bf6a02125930432d6b.jpg" alt="015.jpg"/></p><p><img width="1536" height="2048" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/d676e5b2cd348b397bfa135a8bf3adb2.jpg" alt="016.jpg"/></p>
+length: 2478
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 13: <p><img alt="조폭들 회식 직관한 썰.jpg" height="1987" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" width="1080"/></p>
+[2025-05-08 03:07:09] Featured image for item 13: https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg
+[2025-05-08 03:07:09] ==============
+Item 13:
+title: 조폭들 회식 직관한 썰
+link: https://ggoorr.net/thisthat/17869685?category=17748967
+guid: https://ggoorr.net/thisthat/17869685?category=17748967
+content: <p><img width="1080" height="1987" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" alt="조폭들 회식 직관한 썰.jpg"/></p>
+length: 165
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 14: <p><img alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg" height="15817" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" width="740"/></p>
+[2025-05-08 03:07:09] Featured image for item 14: https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg
+[2025-05-08 03:07:09] ==============
+Item 14:
+title: 만수르 보다 돈이 더 많다고 알려진 부자
+link: https://ggoorr.net/thisthat/17869667?category=17748967
+guid: https://ggoorr.net/thisthat/17869667?category=17748967
+content: <p><img width="740" height="15817" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg"/></p>
+length: 175
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 15: <p><img alt="기독교녀가 말하는 종교 탄압.webp" height="12053" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" width="966"/></p>
+[2025-05-08 03:07:09] Featured image for item 15: https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp
+[2025-05-08 03:07:09] ==============
+Item 15:
+title: 기독교녀가 말하는 종교 탄압
+link: https://ggoorr.net/thisthat/17869664?category=17748967
+guid: https://ggoorr.net/thisthat/17869664?category=17748967
+content: <p><img width="966" height="12053" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" alt="기독교녀가 말하는 종교 탄압.webp"/></p>
+length: 170
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp
+==============
+[2025-05-08 03:07:09] Raw content for item 16: <p><img alt="001.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" width="1024"/></p><p><img alt="002.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg" width="1024"/></p><p><img alt="003.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg" width="1024"/></p><p><img alt="004.jpg" height="11...
+[2025-05-08 03:07:09] Featured image for item 16: https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg
+[2025-05-08 03:07:09] ==============
+Item 16:
+title: 카메라를 중고로 팔면 위험한 이유
+link: https://ggoorr.net/thisthat/17869641?category=17748967
+guid: https://ggoorr.net/thisthat/17869641?category=17748967
+content: <p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" alt="001.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg" alt="002.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg" alt="003.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/f31099c4cb6469b80dbcd04396767d7e.jpg" alt="004.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/554c252836deda2cc420f220b3c82339.jpg" alt="005.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/d44446c8fdab5cabe16c00a5c1fc473a.jpg" alt="006.jpg"/></p>
+length: 936
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 17: <p><img alt="아빠 대통령이라 구라치고 면제 받음.jpg" height="887" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" width="800"/></p>
+[2025-05-08 03:07:09] Featured image for item 17: https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg
+[2025-05-08 03:07:09] ==============
+Item 17:
+title: 아빠 대통령이라 구라치고 면제 받음
+link: https://ggoorr.net/thisthat/17869634?category=17748967
+guid: https://ggoorr.net/thisthat/17869634?category=17748967
+content: <p><img width="800" height="887" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" alt="아빠 대통령이라 구라치고 면제 받음.jpg"/></p>
+length: 170
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 18: <p><video controls="controls" height="298" poster="" src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video></p>
+[2025-05-08 03:07:09] Featured image for item 18: 
+[2025-05-08 03:07:09] ==============
+Item 18:
+title: 눈이 돌아가는 이유
+link: https://ggoorr.net/thisthat/17869630?category=17748967
+guid: https://ggoorr.net/thisthat/17869630?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" controls="controls" width="402" height="298"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+==============
+[2025-05-08 03:07:09] Raw content for item 19: <p><img alt="001.jpg" height="505" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" width="900"/></p><p><img alt="002.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg" width="900"/></p><p><img alt="003.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg" width="900"/></p><p><img alt="004.jpg" height="515" src...
+[2025-05-08 03:07:09] Featured image for item 19: https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg
+[2025-05-08 03:07:09] ==============
+Item 19:
+title: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생
+link: https://ggoorr.net/thisthat/17869380?category=17748967
+guid: https://ggoorr.net/thisthat/17869380?category=17748967
+content: <p><img width="900" height="505" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" alt="001.jpg"/></p><p><img width="900" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg" alt="002.jpg"/></p><p><img width="900" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg" alt="003.jpg"/></p><p><img width="900" height="515" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fedaf24490ba80484b4ee62dce03d35c.jpg" alt="004.jpg"/></p><p><img width="900" height="511" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/09b0e2b16814a45dd7037bb609cd69eb.jpg" alt="005.jpg"/></p><p><img width="900" height="510" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7411856b86d04b6a6c75085a836665f6.jpg" alt="006.jpg"/></p><p><img width="900" height="509" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/4d63582d54f1f81677d4833092bee179.jpg" alt="007.jpg"/></p><p><img width="900" height="512" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/b0e07e1f99a79cd2ce385f76d07d5ef1.jpg" alt="008.jpg"/></p><p><img width="900" height="516" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7c8661433ed217e50afd2c0830515259.jpg" alt="009.jpg"/></p><p><img width="900" height="506" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/22f2ca0f0d6c0999a4237ed58193e10a.jpg" alt="010.jpg"/></p><p><img width="900" height="507" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7f8acd150b51716d53a7778b2b651f58.jpg" alt="011.jpg"/></p><p><img width="900" height="506" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/ae72d5404816a1860121efdfda5fe5ce.jpg" alt="012.jpg"/></p><p><img width="900" height="511" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/27e255cfc0c62dbda12d5b1479b9ee79.jpg" alt="013.jpg"/></p><p><img width="900" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/4a186e607a3104e3c064843aba132e39.jpg" alt="014.jpg"/></p><p><img width="900" height="507" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/37714a3eba6604c3a4f7027c0402edba.jpg" alt="015.jpg"/></p><p><img width="900" height="260" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/11420910b110a9150be2783a5f1a03d8.jpg" alt="016.jpg"/></p><p><img width="600" height="900" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/2a46e36e08ba2960d137664e910cfb86.jpg" alt="017.jpg"/></p><p><img width="600" height="900" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7e02b89461ff8d3d4102a8b98e674e71.jpg" alt="018.jpg"/></p><p><img width="600" height="900" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/ec6b59983250e25fadba609f44a408dc.jpg" alt="019.jpg"/></p>
+length: 2926
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg
+==============
+[2025-05-08 03:07:09] Raw content for item 20: <p><img alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg" height="11752" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" width="700"/></p>
+[2025-05-08 03:07:09] Featured image for item 20: https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg
+[2025-05-08 03:07:09] ==============
+Item 20:
+title: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층
+link: https://ggoorr.net/thisthat/17869376?category=17748967
+guid: https://ggoorr.net/thisthat/17869376?category=17748967
+content: <p><img width="700" height="11752" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg"/></p>
+length: 186
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg
+==============
+[2025-05-08 03:07:09] RSS feed written to feed.xml, total items: 20
+[2025-05-08 03:15:59] Scraping page 1: https://ggoorr.net/main/category/17748967/page/1
+[2025-05-08 03:16:00] Raw HTML content for https://ggoorr.net/main/category/17748967/page/1: <!DOCTYPE html>
+<html lang="ko">
+<head>
+
+<!-- META -->
+<meta charset="utf-8">
+<meta name="generator" content="Rhymix">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="csrf-token" content="eIP6HzPjtZnKjxEe" />
+<meta name="keywords" content="꾸르, 꾸르넷, 알린넷, 알린" />
+<meta name="description" content="꾸르잼 꾸르 커뮤니티" />
+<meta name="document_hide_mid_list" content="" />
+
+<!-- TITLE -->
+<title>꾸르잼 - 꾸르</title>
+
+<!-- CSS -->
+<link rel="stylesheet" href="...
+[2025-05-08 03:16:00] Raw anchor tags for titles: ['<a class="lu-title lddu-title" href="/main/17869945/page/1?category=17748967">\n침펄풍이 말하는 옛날 어른들 특징\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869936/page/1?category=17748967">\nFSB, 히틀러 사망 관련 기밀 문서 공개\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869877/page/1?category=17748967">\n삼성에서 일하는 외국인이 느낀 네,왜? 문화\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869824/page/1?category=17748967">\n팀장 8년차가 말하는 일 못하는 직원 특징\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869798/page/1?category=17748967">\n옛날 코카인 중독 치료에 사용되던 기적의 약\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869795/page/1?category=17748967">\n태양 홍염의 크기 수준\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869791/page/1?category=17748967">\n박력 넘치는 어린이\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869790/page/1?category=17748967">\n엄마 앞에서 밸리댄스를 추는 2000년생\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869785/page/1?category=17748967">\n육종 개량으로 칠면조 인기가 더 하락중\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869782/page/1?category=17748967">\n인도에서 물갈이 배탈이 나는 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869779/page/1?category=17748967">\n기원전 3000년 부터 여자 화장의 변화 과정\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869706/page/1?category=17748967">\n클로드 모네 생가가 관광 명소인 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869685/page/1?category=17748967">\n조폭들 회식 직관한 썰\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869667/page/1?category=17748967">\n만수르 보다 돈이 더 많다고 알려진 부자\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869664/page/1?category=17748967">\n기독교녀가 말하는 종교 탄압\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869641/page/1?category=17748967">\n카메라를 중고로 팔면 위험한 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869634/page/1?category=17748967">\n아빠 대통령이라 구라치고 면제 받음\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869630/page/1?category=17748967">\n눈이 돌아가는 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869380/page/1?category=17748967">\n한국와서 2년 반만에 프로 자격 딴 흑인 유학생\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/main/17869376/page/1?category=17748967">\n상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층\t\t\t\t\t</a>']
+[2025-05-08 03:16:00] Found title: 침펄풍이 말하는 옛날 어른들 특징 with link: /main/17869945/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '침펄풍이 말하는 옛날 어른들 특징': ['유머']
+[2025-05-08 03:16:00] Found title: FSB, 히틀러 사망 관련 기밀 문서 공개 with link: /main/17869936/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title 'FSB, 히틀러 사망 관련 기밀 문서 공개': ['유머']
+[2025-05-08 03:16:00] Found title: 삼성에서 일하는 외국인이 느낀 네,왜? 문화 with link: /main/17869877/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '삼성에서 일하는 외국인이 느낀 네,왜? 문화': ['유머']
+[2025-05-08 03:16:00] Found title: 팀장 8년차가 말하는 일 못하는 직원 특징 with link: /main/17869824/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '팀장 8년차가 말하는 일 못하는 직원 특징': ['유머']
+[2025-05-08 03:16:00] Found title: 옛날 코카인 중독 치료에 사용되던 기적의 약 with link: /main/17869798/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '옛날 코카인 중독 치료에 사용되던 기적의 약': ['유머']
+[2025-05-08 03:16:00] Found title: 태양 홍염의 크기 수준 with link: /main/17869795/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '태양 홍염의 크기 수준': ['유머']
+[2025-05-08 03:16:00] Found title: 박력 넘치는 어린이 with link: /main/17869791/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '박력 넘치는 어린이': ['유머']
+[2025-05-08 03:16:00] Found title: 엄마 앞에서 밸리댄스를 추는 2000년생 with link: /main/17869790/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '엄마 앞에서 밸리댄스를 추는 2000년생': ['유머']
+[2025-05-08 03:16:00] Found title: 육종 개량으로 칠면조 인기가 더 하락중 with link: /main/17869785/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '육종 개량으로 칠면조 인기가 더 하락중': ['유머']
+[2025-05-08 03:16:00] Found title: 인도에서 물갈이 배탈이 나는 이유 with link: /main/17869782/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '인도에서 물갈이 배탈이 나는 이유': ['유머']
+[2025-05-08 03:16:00] Found title: 기원전 3000년 부터 여자 화장의 변화 과정 with link: /main/17869779/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '기원전 3000년 부터 여자 화장의 변화 과정': ['유머']
+[2025-05-08 03:16:00] Found title: 클로드 모네 생가가 관광 명소인 이유 with link: /main/17869706/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '클로드 모네 생가가 관광 명소인 이유': ['유머']
+[2025-05-08 03:16:00] Found title: 조폭들 회식 직관한 썰 with link: /main/17869685/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '조폭들 회식 직관한 썰': ['유머']
+[2025-05-08 03:16:00] Found title: 만수르 보다 돈이 더 많다고 알려진 부자 with link: /main/17869667/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '만수르 보다 돈이 더 많다고 알려진 부자': ['유머']
+[2025-05-08 03:16:00] Found title: 기독교녀가 말하는 종교 탄압 with link: /main/17869664/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '기독교녀가 말하는 종교 탄압': ['유머']
+[2025-05-08 03:16:00] Found title: 카메라를 중고로 팔면 위험한 이유 with link: /main/17869641/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '카메라를 중고로 팔면 위험한 이유': ['유머']
+[2025-05-08 03:16:00] Found title: 아빠 대통령이라 구라치고 면제 받음 with link: /main/17869634/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '아빠 대통령이라 구라치고 면제 받음': ['유머']
+[2025-05-08 03:16:00] Found title: 눈이 돌아가는 이유 with link: /main/17869630/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '눈이 돌아가는 이유': ['유머']
+[2025-05-08 03:16:00] Found title: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생 with link: /main/17869380/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '한국와서 2년 반만에 프로 자격 딴 흑인 유학생': ['유머']
+[2025-05-08 03:16:00] Found title: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층 with link: /main/17869376/page/1?category=17748967
+[2025-05-08 03:16:00] Categories for title '상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층': ['유머']
+[2025-05-08 03:16:00] Found 20 posts on https://ggoorr.net/main/category/17748967/page/1
+[2025-05-08 03:16:01] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869945,15464532)--><div class="document_17869945_15464532 rhymix_content xe_content"><p><img alt="침펄풍이 말하는 옛날 어른들 특징.jpg" data-cke-saved-src="/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" data-file-srl="17869946" editor_component="image_link" fetchpriority="high" height="12565" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" width=...
+[2025-05-08 03:16:01] Video URLs for post https://ggoorr.net/main/17869945/page/1?category=17748967: []
+[2025-05-08 03:16:01] ==============
+title: 침펄풍이 말하는 옛날 어른들 특징 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869945/page/1?category=17748967
+content: <p><img alt="침펄풍이 말하는 옛날 어른들 특징.jpg" height="12565" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" width="800"/></p>
+length: 171
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:01] Added content for: 침펄풍이 말하는 옛날 어른들 특징 (link: https://ggoorr.net/thisthat/17869945?category=17748967, content length: 171, categories: ['유머'])
+[2025-05-08 03:16:02] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869936,15464532)--><div class="document_17869936_15464532 rhymix_content xe_content"><p><img alt="001.png.jpg" data-cke-saved-src="/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" data-file-srl="17869937" editor_component="image_link" fetchpriority="high" height="412" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" width="767"/></p>
+<...
+[2025-05-08 03:16:02] Video URLs for post https://ggoorr.net/main/17869936/page/1?category=17748967: []
+[2025-05-08 03:16:02] ==============
+title: FSB, 히틀러 사망 관련 기밀 문서 공개 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869936/page/1?category=17748967
+content: <p><img alt="001.png.jpg" height="412" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" width="767"/></p><p><img alt="002.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg" width="1280"/></p><p><img alt="003.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg" width="1280"/></p><p><img alt="004.jpg" height="72...
+length: 1087
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/2ed476cad17a6ee00908f3bf8d91659d.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/ad9d22643e33d07ebe4efb7fee6b72e0.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/90467272bf7b11fc645b2ae6d3cafd34.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/936/869/017/6d7e190d1d1970bbe89269e7c1e64c14.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:02] Added content for: FSB, 히틀러 사망 관련 기밀 문서 공개 (link: https://ggoorr.net/thisthat/17869936?category=17748967, content length: 1087, categories: ['유머'])
+[2025-05-08 03:16:02] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869877,15464532)--><div class="document_17869877_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" data-file-srl="17869878" editor_component="image_link" fetchpriority="high" height="4958" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" width="780"/></p>
+<p> ...
+[2025-05-08 03:16:02] Video URLs for post https://ggoorr.net/main/17869877/page/1?category=17748967: []
+[2025-05-08 03:16:02] ==============
+title: 삼성에서 일하는 외국인이 느낀 네,왜? 문화 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869877/page/1?category=17748967
+content: <p><img alt="001.jpg" height="4958" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" width="780"/></p>
+length: 155
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:02] Added content for: 삼성에서 일하는 외국인이 느낀 네,왜? 문화 (link: https://ggoorr.net/thisthat/17869877?category=17748967, content length: 155, categories: ['유머'])
+[2025-05-08 03:16:03] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869824,15464532)--><div class="document_17869824_15464532 rhymix_content xe_content"><p><img alt="001.webp" data-cke-saved-src="/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" data-file-srl="17869825" editor_component="image_link" fetchpriority="high" height="1112" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" width="966"/></p>
+<...
+[2025-05-08 03:16:03] Video URLs for post https://ggoorr.net/main/17869824/page/1?category=17748967: []
+[2025-05-08 03:16:03] ==============
+title: 팀장 8년차가 말하는 일 못하는 직원 특징 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869824/page/1?category=17748967
+content: <p><img alt="001.webp" height="1112" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" width="966"/></p><p><img alt="002.webp" height="579" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp" width="966"/></p>
+length: 313
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp', 'https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp']
+Video URLs: []
+==============
+[2025-05-08 03:16:03] Added content for: 팀장 8년차가 말하는 일 못하는 직원 특징 (link: https://ggoorr.net/thisthat/17869824?category=17748967, content length: 313, categories: ['유머'])
+[2025-05-08 03:16:03] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869798,15464532)--><div class="document_17869798_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" data-file-srl="17869799" editor_component="image_link" fetchpriority="high" height="4780" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" width="850"/></p>
+<p><...
+[2025-05-08 03:16:03] Video URLs for post https://ggoorr.net/main/17869798/page/1?category=17748967: []
+[2025-05-08 03:16:03] ==============
+title: 옛날 코카인 중독 치료에 사용되던 기적의 약 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869798/page/1?category=17748967
+content: <p><img alt="001.jpg" height="4780" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" width="850"/></p><p><img alt="002.webp" height="171" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp" width="719"/></p>
+length: 311
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp']
+Video URLs: []
+==============
+[2025-05-08 03:16:03] Added content for: 옛날 코카인 중독 치료에 사용되던 기적의 약 (link: https://ggoorr.net/thisthat/17869798?category=17748967, content length: 311, categories: ['유머'])
+[2025-05-08 03:16:04] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869795,15464532)--><div class="document_17869795_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869796" data-saved-src="/files/attach/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" height="640" loop="" muted="" playsinline="" src="/files/attach/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video>
+<p> </p></div></div><!--AfterDocument(17869795,15464532)--...
+[2025-05-08 03:16:04] Video URLs for post https://ggoorr.net/main/17869795/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4']
+[2025-05-08 03:16:04] ==============
+title: 태양 홍염의 크기 수준 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869795/page/1?category=17748967
+content: <p><video controls="controls" height="640" poster="" src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4']
+==============
+[2025-05-08 03:16:04] Added content for: 태양 홍염의 크기 수준 (link: https://ggoorr.net/thisthat/17869795?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:16:04] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869791,15464532)--><div class="document_17869791_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869792" data-saved-src="/files/attach/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" height="746" loop="" muted="" playsinline="" src="/files/attach/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video>
+<p> </p>
+<p>ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</p>
+<p> </p>
+...
+[2025-05-08 03:16:04] Video URLs for post https://ggoorr.net/main/17869791/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4']
+[2025-05-08 03:16:04] ==============
+title: 박력 넘치는 어린이 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869791/page/1?category=17748967
+content: <p><video controls="controls" height="746" poster="" src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4']
+==============
+[2025-05-08 03:16:04] Added content for: 박력 넘치는 어린이 (link: https://ggoorr.net/thisthat/17869791?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:16:05] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869790,15464532)--><div class="document_17869790_15464532 rhymix_content xe_content"><p><a href="https://www.youtube.com/shorts/Awlm5N6s6Nw?feature=share" target="_blank">https://www.youtube.com/shorts/Awlm5N6s6Nw?feature=share</a></p>
+<div class="youtube-div-shorts"><iframe allowfullscreen="" frameborder="0" loading="lazy" src="https://www.youtube.com/embed/Awlm5N6s6Nw?enablejsapi=1"></iframe></div>
+<p> </p></div></div><!--Aft...
+[2025-05-08 03:16:05] Video URLs for post https://ggoorr.net/main/17869790/page/1?category=17748967: []
+[2025-05-08 03:16:05] ==============
+title: 엄마 앞에서 밸리댄스를 추는 2000년생 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869790/page/1?category=17748967
+content: 
+length: 0
+Featured Image: None
+Image URLs: []
+Video URLs: []
+==============
+[2025-05-08 03:16:05] Added content for: 엄마 앞에서 밸리댄스를 추는 2000년생 (link: https://ggoorr.net/thisthat/17869790?category=17748967, content length: 0, categories: ['유머'])
+[2025-05-08 03:16:05] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869785,15464532)--><div class="document_17869785_15464532 rhymix_content xe_content"><p><img alt="육종 개량으로 칠면조 인기가 더 하락중.jpg" data-cke-saved-src="/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" data-file-srl="17869786" editor_component="image_link" fetchpriority="high" height="3943" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" widt...
+[2025-05-08 03:16:05] Video URLs for post https://ggoorr.net/main/17869785/page/1?category=17748967: []
+[2025-05-08 03:16:05] ==============
+title: 육종 개량으로 칠면조 인기가 더 하락중 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869785/page/1?category=17748967
+content: <p><img alt="육종 개량으로 칠면조 인기가 더 하락중.jpg" height="3943" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" width="1024"/></p>
+length: 174
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:05] Added content for: 육종 개량으로 칠면조 인기가 더 하락중 (link: https://ggoorr.net/thisthat/17869785?category=17748967, content length: 174, categories: ['유머'])
+[2025-05-08 03:16:06] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869782,15464532)--><div class="document_17869782_15464532 rhymix_content xe_content"><p><img alt="인도에서 물갈이 배탈이 나는 이유.jpg" data-cke-saved-src="/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" data-file-srl="17869783" editor_component="image_link" fetchpriority="high" height="12332" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" width=...
+[2025-05-08 03:16:06] Video URLs for post https://ggoorr.net/main/17869782/page/1?category=17748967: []
+[2025-05-08 03:16:06] ==============
+title: 인도에서 물갈이 배탈이 나는 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869782/page/1?category=17748967
+content: <p><img alt="인도에서 물갈이 배탈이 나는 이유.jpg" height="12332" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" width="900"/></p>
+length: 171
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:06] Added content for: 인도에서 물갈이 배탈이 나는 이유 (link: https://ggoorr.net/thisthat/17869782?category=17748967, content length: 171, categories: ['유머'])
+[2025-05-08 03:16:06] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869779,15464532)--><div class="document_17869779_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869780" data-saved-src="/files/attach/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" height="704" loop="" muted="" playsinline="" src="/files/attach/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video>
+<p> </p></div></div><!--AfterDocument(17869779,15464532)--...
+[2025-05-08 03:16:06] Video URLs for post https://ggoorr.net/main/17869779/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4']
+[2025-05-08 03:16:06] ==============
+title: 기원전 3000년 부터 여자 화장의 변화 과정 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869779/page/1?category=17748967
+content: <p><video controls="controls" height="704" poster="" src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4']
+==============
+[2025-05-08 03:16:06] Added content for: 기원전 3000년 부터 여자 화장의 변화 과정 (link: https://ggoorr.net/thisthat/17869779?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:16:07] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869706,15464532)--><div class="document_17869706_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" data-file-srl="17869707" editor_component="image_link" fetchpriority="high" height="1350" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" width="1080"/></p>
+<p>...
+[2025-05-08 03:16:07] Video URLs for post https://ggoorr.net/main/17869706/page/1?category=17748967: []
+[2025-05-08 03:16:07] ==============
+title: 클로드 모네 생가가 관광 명소인 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869706/page/1?category=17748967
+content: <p><img alt="001.jpg" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" width="1080"/></p><p><img alt="002.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg" width="543"/></p><p><img alt="003.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg" width="544"/></p><p><img alt="004.jpg" height="676" s...
+length: 2478
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/f6ccbd59580dde4073f781d7dbb5bb51.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/dbe96373619533c5bdaa64616c680a92.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/def523d29f5970c1bb50c5d497e1eefb.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/72d26fe7715c694a88b789111227fd21.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/7d7b0a27783941c20c378b9f6cf261a3.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/00a6c18508c6d202231ab808db8e6c04.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/071dfc8ed285702921fce3e0c02c7e02.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/8c879951f39871a0f5607018101c4221.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/287ccc7345a34af0679d0a2557925bb0.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/e4c8081d956181820ee26ac4ac97f580.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/15a0fdbad431e5cb94587795bf90d784.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/0489b50fcef922bf6a02125930432d6b.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/706/869/017/d676e5b2cd348b397bfa135a8bf3adb2.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:07] Added content for: 클로드 모네 생가가 관광 명소인 이유 (link: https://ggoorr.net/thisthat/17869706?category=17748967, content length: 2478, categories: ['유머'])
+[2025-05-08 03:16:07] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869685,15464532)--><div class="document_17869685_15464532 rhymix_content xe_content"><p><img alt="조폭들 회식 직관한 썰.jpg" data-cke-saved-src="/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" data-file-srl="17869686" editor_component="image_link" fetchpriority="high" height="1987" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" width="1080"/...
+[2025-05-08 03:16:07] Video URLs for post https://ggoorr.net/main/17869685/page/1?category=17748967: []
+[2025-05-08 03:16:07] ==============
+title: 조폭들 회식 직관한 썰 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869685/page/1?category=17748967
+content: <p><img alt="조폭들 회식 직관한 썰.jpg" height="1987" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" width="1080"/></p>
+length: 165
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:07] Added content for: 조폭들 회식 직관한 썰 (link: https://ggoorr.net/thisthat/17869685?category=17748967, content length: 165, categories: ['유머'])
+[2025-05-08 03:16:08] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869667,15464532)--><div class="document_17869667_15464532 rhymix_content xe_content"><p><img alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg" data-cke-saved-src="/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" data-file-srl="17869668" editor_component="image_link" fetchpriority="high" height="15817" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" wi...
+[2025-05-08 03:16:08] Video URLs for post https://ggoorr.net/main/17869667/page/1?category=17748967: []
+[2025-05-08 03:16:08] ==============
+title: 만수르 보다 돈이 더 많다고 알려진 부자 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869667/page/1?category=17748967
+content: <p><img alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg" height="15817" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" width="740"/></p>
+length: 175
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:08] Added content for: 만수르 보다 돈이 더 많다고 알려진 부자 (link: https://ggoorr.net/thisthat/17869667?category=17748967, content length: 175, categories: ['유머'])
+[2025-05-08 03:16:08] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869664,15464532)--><div class="document_17869664_15464532 rhymix_content xe_content"><p><img alt="기독교녀가 말하는 종교 탄압.webp" data-cke-saved-src="/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" data-file-srl="17869665" editor_component="image_link" fetchpriority="high" height="12053" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" width=...
+[2025-05-08 03:16:08] Video URLs for post https://ggoorr.net/main/17869664/page/1?category=17748967: []
+[2025-05-08 03:16:08] ==============
+title: 기독교녀가 말하는 종교 탄압 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869664/page/1?category=17748967
+content: <p><img alt="기독교녀가 말하는 종교 탄압.webp" height="12053" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" width="966"/></p>
+length: 170
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp']
+Video URLs: []
+==============
+[2025-05-08 03:16:08] Added content for: 기독교녀가 말하는 종교 탄압 (link: https://ggoorr.net/thisthat/17869664?category=17748967, content length: 170, categories: ['유머'])
+[2025-05-08 03:16:09] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869641,15464532)--><div class="document_17869641_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" data-file-srl="17869642" editor_component="image_link" fetchpriority="high" height="1185" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" width="1024"/></p>
+<p>...
+[2025-05-08 03:16:09] Video URLs for post https://ggoorr.net/main/17869641/page/1?category=17748967: []
+[2025-05-08 03:16:09] ==============
+title: 카메라를 중고로 팔면 위험한 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869641/page/1?category=17748967
+content: <p><img alt="001.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" width="1024"/></p><p><img alt="002.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg" width="1024"/></p><p><img alt="003.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg" width="1024"/></p><p><img alt="004.jpg" height="11...
+length: 936
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/f31099c4cb6469b80dbcd04396767d7e.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/554c252836deda2cc420f220b3c82339.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/641/869/017/d44446c8fdab5cabe16c00a5c1fc473a.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:09] Added content for: 카메라를 중고로 팔면 위험한 이유 (link: https://ggoorr.net/thisthat/17869641?category=17748967, content length: 936, categories: ['유머'])
+[2025-05-08 03:16:09] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869634,15464532)--><div class="document_17869634_15464532 rhymix_content xe_content"><p><img alt="아빠 대통령이라 구라치고 면제 받음.jpg" data-cke-saved-src="/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" data-file-srl="17869635" editor_component="image_link" fetchpriority="high" height="887" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" width="...
+[2025-05-08 03:16:09] Video URLs for post https://ggoorr.net/main/17869634/page/1?category=17748967: []
+[2025-05-08 03:16:09] ==============
+title: 아빠 대통령이라 구라치고 면제 받음 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869634/page/1?category=17748967
+content: <p><img alt="아빠 대통령이라 구라치고 면제 받음.jpg" height="887" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" width="800"/></p>
+length: 170
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:09] Added content for: 아빠 대통령이라 구라치고 면제 받음 (link: https://ggoorr.net/thisthat/17869634?category=17748967, content length: 170, categories: ['유머'])
+[2025-05-08 03:16:10] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869630,15464532)--><div class="document_17869630_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17869632" data-saved-src="/files/attach/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" height="298" loop="" muted="" playsinline="" src="/files/attach/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video>
+<p> </p>
+<p>정직한 시선ㅋㅋ</p></div></div><!--AfterDocument(1786...
+[2025-05-08 03:16:10] Video URLs for post https://ggoorr.net/main/17869630/page/1?category=17748967: ['https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4']
+[2025-05-08 03:16:10] ==============
+title: 눈이 돌아가는 이유 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869630/page/1?category=17748967
+content: <p><video controls="controls" height="298" poster="" src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video></p>
+length: 166
+Featured Image: 
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4']
+==============
+[2025-05-08 03:16:10] Added content for: 눈이 돌아가는 이유 (link: https://ggoorr.net/thisthat/17869630?category=17748967, content length: 166, categories: ['유머'])
+[2025-05-08 03:16:10] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869380,14523564)--><div class="document_17869380_14523564 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" data-file-srl="17869381" editor_component="image_link" fetchpriority="high" height="505" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" width="900"/></p>
+<p> <...
+[2025-05-08 03:16:10] Video URLs for post https://ggoorr.net/main/17869380/page/1?category=17748967: []
+[2025-05-08 03:16:10] ==============
+title: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869380/page/1?category=17748967
+content: <p><img alt="001.jpg" height="505" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" width="900"/></p><p><img alt="002.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg" width="900"/></p><p><img alt="003.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg" width="900"/></p><p><img alt="004.jpg" height="515" src...
+length: 2926
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fedaf24490ba80484b4ee62dce03d35c.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/09b0e2b16814a45dd7037bb609cd69eb.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7411856b86d04b6a6c75085a836665f6.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/4d63582d54f1f81677d4833092bee179.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/b0e07e1f99a79cd2ce385f76d07d5ef1.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7c8661433ed217e50afd2c0830515259.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/22f2ca0f0d6c0999a4237ed58193e10a.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7f8acd150b51716d53a7778b2b651f58.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/ae72d5404816a1860121efdfda5fe5ce.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/27e255cfc0c62dbda12d5b1479b9ee79.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/4a186e607a3104e3c064843aba132e39.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/37714a3eba6604c3a4f7027c0402edba.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/11420910b110a9150be2783a5f1a03d8.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/2a46e36e08ba2960d137664e910cfb86.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/7e02b89461ff8d3d4102a8b98e674e71.jpg', 'https://cdn.ggoorr.net/files/attach/images/109/380/869/017/ec6b59983250e25fadba609f44a408dc.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:10] Added content for: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생 (link: https://ggoorr.net/thisthat/17869380?category=17748967, content length: 2926, categories: ['유머'])
+[2025-05-08 03:16:11] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17869376,14523564)--><div class="document_17869376_14523564 rhymix_content xe_content"><p><img alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg" data-cke-saved-src="/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" data-file-srl="17869377" editor_component="image_link" fetchpriority="high" height="11752" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952d...
+[2025-05-08 03:16:11] Video URLs for post https://ggoorr.net/main/17869376/page/1?category=17748967: []
+[2025-05-08 03:16:11] ==============
+title: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층 - 이것저것 - 꾸르
+link: https://ggoorr.net/main/17869376/page/1?category=17748967
+content: <p><img alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg" height="11752" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" width="700"/></p>
+length: 186
+Featured Image: https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg']
+Video URLs: []
+==============
+[2025-05-08 03:16:11] Added content for: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층 (link: https://ggoorr.net/thisthat/17869376?category=17748967, content length: 186, categories: ['유머'])
+[2025-05-08 03:16:11] Total posts collected: 20
+[2025-05-08 03:16:11] Raw content for item 1: <p><img alt="침펄풍이 말하는 옛날 어른들 특징.jpg" height="12565" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" width="800"/></p>
+[2025-05-08 03:16:11] Featured image for item 1: https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg
+[2025-05-08 03:16:11] Categories for item 1: ['유머']
+[2025-05-08 03:16:11] Video tags for item 1: []
+[2025-05-08 03:16:11] ==============
+Item 1:
+title: 침펄풍이 말하는 옛날 어른들 특징
+link: https://ggoorr.net/thisthat/17869945?category=17748967
+guid: https://ggoorr.net/thisthat/17869945?category=17748967
+content: <p><img width="800" height="12565" src="https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg" alt="침펄풍이 말하는 옛날 어른들 특징.jpg"/></p>
+length: 171
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/945/869/017/024bb873fc635b84b8e1ba8538ee1f34.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 2: <p><img alt="001.png.jpg" height="412" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" width="767"/></p><p><img alt="002.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg" width="1280"/></p><p><img alt="003.jpg" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg" width="1280"/></p><p><img alt="004.jpg" height="72...
+[2025-05-08 03:16:11] Featured image for item 2: https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg
+[2025-05-08 03:16:11] Categories for item 2: ['유머']
+[2025-05-08 03:16:11] Video tags for item 2: []
+[2025-05-08 03:16:11] ==============
+Item 2:
+title: FSB, 히틀러 사망 관련 기밀 문서 공개
+link: https://ggoorr.net/thisthat/17869936?category=17748967
+guid: https://ggoorr.net/thisthat/17869936?category=17748967
+content: <p><img width="767" height="412" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg" alt="001.png.jpg"/></p><p><img width="1280" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/b0da1d3284c6c7cd23fecfeb44ee4739.jpg" alt="002.jpg"/></p><p><img width="1280" height="853" src="https://cdn.ggoorr.net/files/attach/images/109/936/869/017/f3038985005fb22f8f0d13c7ae37b090.jpg" alt="003.jpg"/></p><p><img width="1280" height="720...
+length: 1087
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/936/869/017/4996dcf3ccba209a99d5125d70b334f2.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 3: <p><img alt="001.jpg" height="4958" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" width="780"/></p>
+[2025-05-08 03:16:11] Featured image for item 3: https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg
+[2025-05-08 03:16:11] Categories for item 3: ['유머']
+[2025-05-08 03:16:11] Video tags for item 3: []
+[2025-05-08 03:16:11] ==============
+Item 3:
+title: 삼성에서 일하는 외국인이 느낀 네,왜? 문화
+link: https://ggoorr.net/thisthat/17869877?category=17748967
+guid: https://ggoorr.net/thisthat/17869877?category=17748967
+content: <p><img width="780" height="4958" src="https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg" alt="001.jpg"/></p>
+length: 155
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/877/869/017/089993a47796958762ffb65f87c57dab.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 4: <p><img alt="001.webp" height="1112" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" width="966"/></p><p><img alt="002.webp" height="579" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp" width="966"/></p>
+[2025-05-08 03:16:11] Featured image for item 4: https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp
+[2025-05-08 03:16:11] Categories for item 4: ['유머']
+[2025-05-08 03:16:11] Video tags for item 4: []
+[2025-05-08 03:16:11] ==============
+Item 4:
+title: 팀장 8년차가 말하는 일 못하는 직원 특징
+link: https://ggoorr.net/thisthat/17869824?category=17748967
+guid: https://ggoorr.net/thisthat/17869824?category=17748967
+content: <p><img width="966" height="1112" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp" alt="001.webp"/></p><p><img width="966" height="579" src="https://cdn.ggoorr.net/files/attach/images/109/824/869/017/8047e299fa12203da416a16eade2cde7.webp" alt="002.webp"/></p>
+length: 313
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/824/869/017/35c1344c28f0367806d4027a4145dca2.webp
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 5: <p><img alt="001.jpg" height="4780" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" width="850"/></p><p><img alt="002.webp" height="171" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp" width="719"/></p>
+[2025-05-08 03:16:11] Featured image for item 5: https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg
+[2025-05-08 03:16:11] Categories for item 5: ['유머']
+[2025-05-08 03:16:11] Video tags for item 5: []
+[2025-05-08 03:16:11] ==============
+Item 5:
+title: 옛날 코카인 중독 치료에 사용되던 기적의 약
+link: https://ggoorr.net/thisthat/17869798?category=17748967
+guid: https://ggoorr.net/thisthat/17869798?category=17748967
+content: <p><img width="850" height="4780" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg" alt="001.jpg"/></p><p><img width="719" height="171" src="https://cdn.ggoorr.net/files/attach/images/109/798/869/017/6062860fde0e25fd4a12e1319ff55ddc.webp" alt="002.webp"/></p>
+length: 311
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/798/869/017/0507d69f8bcdbae4f4a436085673c252.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 6: <p><video controls="controls" height="640" poster="" src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video></p>
+[2025-05-08 03:16:11] Featured image for item 6: 
+[2025-05-08 03:16:11] Categories for item 6: ['유머']
+[2025-05-08 03:16:11] Video tags for item 6: ['<video controls="controls" height="640" src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" width="360"></video>']
+[2025-05-08 03:16:11] ==============
+Item 6:
+title: 태양 홍염의 크기 수준
+link: https://ggoorr.net/thisthat/17869795?category=17748967
+guid: https://ggoorr.net/thisthat/17869795?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/795/869/017/1cd8d5220641e2115472c42ce88fa5d5.mp4" controls="controls" width="360" height="640"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 7: <p><video controls="controls" height="746" poster="" src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video></p>
+[2025-05-08 03:16:11] Featured image for item 7: 
+[2025-05-08 03:16:11] Categories for item 7: ['유머']
+[2025-05-08 03:16:11] Video tags for item 7: ['<video controls="controls" height="746" src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" width="420"></video>']
+[2025-05-08 03:16:11] ==============
+Item 7:
+title: 박력 넘치는 어린이
+link: https://ggoorr.net/thisthat/17869791?category=17748967
+guid: https://ggoorr.net/thisthat/17869791?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/791/869/017/b31e2b6d93395257210a823d460cda72.mp4" controls="controls" width="420" height="746"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 8: 
+[2025-05-08 03:16:11] Featured image for item 8: 
+[2025-05-08 03:16:11] Categories for item 8: ['유머']
+[2025-05-08 03:16:11] Video tags for item 8: []
+[2025-05-08 03:16:11] ==============
+Item 8:
+title: 엄마 앞에서 밸리댄스를 추는 2000년생
+link: https://ggoorr.net/thisthat/17869790?category=17748967
+guid: https://ggoorr.net/thisthat/17869790?category=17748967
+content: 
+length: 0
+plain_text: 
+featured_image: 
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 9: <p><img alt="육종 개량으로 칠면조 인기가 더 하락중.jpg" height="3943" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" width="1024"/></p>
+[2025-05-08 03:16:11] Featured image for item 9: https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg
+[2025-05-08 03:16:11] Categories for item 9: ['유머']
+[2025-05-08 03:16:11] Video tags for item 9: []
+[2025-05-08 03:16:11] ==============
+Item 9:
+title: 육종 개량으로 칠면조 인기가 더 하락중
+link: https://ggoorr.net/thisthat/17869785?category=17748967
+guid: https://ggoorr.net/thisthat/17869785?category=17748967
+content: <p><img width="1024" height="3943" src="https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg" alt="육종 개량으로 칠면조 인기가 더 하락중.jpg"/></p>
+length: 174
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/785/869/017/cb98d5129f55b792c332876d6294a0fd.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 10: <p><img alt="인도에서 물갈이 배탈이 나는 이유.jpg" height="12332" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" width="900"/></p>
+[2025-05-08 03:16:11] Featured image for item 10: https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg
+[2025-05-08 03:16:11] Categories for item 10: ['유머']
+[2025-05-08 03:16:11] Video tags for item 10: []
+[2025-05-08 03:16:11] ==============
+Item 10:
+title: 인도에서 물갈이 배탈이 나는 이유
+link: https://ggoorr.net/thisthat/17869782?category=17748967
+guid: https://ggoorr.net/thisthat/17869782?category=17748967
+content: <p><img width="900" height="12332" src="https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg" alt="인도에서 물갈이 배탈이 나는 이유.jpg"/></p>
+length: 171
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/782/869/017/db39efb4f88adbfd3a97b5d7960d20f7.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 11: <p><video controls="controls" height="704" poster="" src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video></p>
+[2025-05-08 03:16:11] Featured image for item 11: 
+[2025-05-08 03:16:11] Categories for item 11: ['유머']
+[2025-05-08 03:16:11] Video tags for item 11: ['<video controls="controls" height="704" src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" width="396"></video>']
+[2025-05-08 03:16:11] ==============
+Item 11:
+title: 기원전 3000년 부터 여자 화장의 변화 과정
+link: https://ggoorr.net/thisthat/17869779?category=17748967
+guid: https://ggoorr.net/thisthat/17869779?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/779/869/017/ce01e8e5ec67fd481ea2e5cf30b4605d.mp4" controls="controls" width="396" height="704"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 12: <p><img alt="001.jpg" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" width="1080"/></p><p><img alt="002.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg" width="543"/></p><p><img alt="003.jpg" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg" width="544"/></p><p><img alt="004.jpg" height="676" s...
+[2025-05-08 03:16:11] Featured image for item 12: https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg
+[2025-05-08 03:16:11] Categories for item 12: ['유머']
+[2025-05-08 03:16:11] Video tags for item 12: []
+[2025-05-08 03:16:11] ==============
+Item 12:
+title: 클로드 모네 생가가 관광 명소인 이유
+link: https://ggoorr.net/thisthat/17869706?category=17748967
+guid: https://ggoorr.net/thisthat/17869706?category=17748967
+content: <p><img width="1080" height="1350" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg" alt="001.jpg"/></p><p><img width="543" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/9d704ab4410d663c349fa23c7a4e3b21.jpg" alt="002.jpg"/></p><p><img width="544" height="676" src="https://cdn.ggoorr.net/files/attach/images/109/706/869/017/6e4eb3fabff3e987a85f0fbe62a83513.jpg" alt="003.jpg"/></p><p><img width="543" height="676" src...
+length: 2478
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/706/869/017/b705a786e19d47b91db3e32ee2f25875.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 13: <p><img alt="조폭들 회식 직관한 썰.jpg" height="1987" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" width="1080"/></p>
+[2025-05-08 03:16:11] Featured image for item 13: https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg
+[2025-05-08 03:16:11] Categories for item 13: ['유머']
+[2025-05-08 03:16:11] Video tags for item 13: []
+[2025-05-08 03:16:11] ==============
+Item 13:
+title: 조폭들 회식 직관한 썰
+link: https://ggoorr.net/thisthat/17869685?category=17748967
+guid: https://ggoorr.net/thisthat/17869685?category=17748967
+content: <p><img width="1080" height="1987" src="https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg" alt="조폭들 회식 직관한 썰.jpg"/></p>
+length: 165
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/685/869/017/f9f7777f6fda02eff1f3e3a9b927f876.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 14: <p><img alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg" height="15817" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" width="740"/></p>
+[2025-05-08 03:16:11] Featured image for item 14: https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg
+[2025-05-08 03:16:11] Categories for item 14: ['유머']
+[2025-05-08 03:16:11] Video tags for item 14: []
+[2025-05-08 03:16:11] ==============
+Item 14:
+title: 만수르 보다 돈이 더 많다고 알려진 부자
+link: https://ggoorr.net/thisthat/17869667?category=17748967
+guid: https://ggoorr.net/thisthat/17869667?category=17748967
+content: <p><img width="740" height="15817" src="https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg" alt="만수르 보다 돈이 더 많다고 알려진 부자.jpg"/></p>
+length: 175
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/667/869/017/3efe142cfb21d7bdd61db6c252ffea8f.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 15: <p><img alt="기독교녀가 말하는 종교 탄압.webp" height="12053" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" width="966"/></p>
+[2025-05-08 03:16:11] Featured image for item 15: https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp
+[2025-05-08 03:16:11] Categories for item 15: ['유머']
+[2025-05-08 03:16:11] Video tags for item 15: []
+[2025-05-08 03:16:11] ==============
+Item 15:
+title: 기독교녀가 말하는 종교 탄압
+link: https://ggoorr.net/thisthat/17869664?category=17748967
+guid: https://ggoorr.net/thisthat/17869664?category=17748967
+content: <p><img width="966" height="12053" src="https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp" alt="기독교녀가 말하는 종교 탄압.webp"/></p>
+length: 170
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/664/869/017/933f4861651feee815fafc4348013f33.webp
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 16: <p><img alt="001.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" width="1024"/></p><p><img alt="002.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg" width="1024"/></p><p><img alt="003.jpg" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg" width="1024"/></p><p><img alt="004.jpg" height="11...
+[2025-05-08 03:16:11] Featured image for item 16: https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg
+[2025-05-08 03:16:11] Categories for item 16: ['유머']
+[2025-05-08 03:16:11] Video tags for item 16: []
+[2025-05-08 03:16:11] ==============
+Item 16:
+title: 카메라를 중고로 팔면 위험한 이유
+link: https://ggoorr.net/thisthat/17869641?category=17748967
+guid: https://ggoorr.net/thisthat/17869641?category=17748967
+content: <p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg" alt="001.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/4724cd10a1faddbf1bce22982fad6f76.jpg" alt="002.jpg"/></p><p><img width="1024" height="1185" src="https://cdn.ggoorr.net/files/attach/images/109/641/869/017/78da19cdd7718ae23e527e7e6469d0f6.jpg" alt="003.jpg"/></p><p><img width="1024" height="118...
+length: 936
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/641/869/017/533e94ebda82548f063df85ae9a6d5ff.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 17: <p><img alt="아빠 대통령이라 구라치고 면제 받음.jpg" height="887" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" width="800"/></p>
+[2025-05-08 03:16:11] Featured image for item 17: https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg
+[2025-05-08 03:16:11] Categories for item 17: ['유머']
+[2025-05-08 03:16:11] Video tags for item 17: []
+[2025-05-08 03:16:11] ==============
+Item 17:
+title: 아빠 대통령이라 구라치고 면제 받음
+link: https://ggoorr.net/thisthat/17869634?category=17748967
+guid: https://ggoorr.net/thisthat/17869634?category=17748967
+content: <p><img width="800" height="887" src="https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg" alt="아빠 대통령이라 구라치고 면제 받음.jpg"/></p>
+length: 170
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/634/869/017/0337149013c60b5be88083ccda68d03f.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 18: <p><video controls="controls" height="298" poster="" src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video></p>
+[2025-05-08 03:16:11] Featured image for item 18: 
+[2025-05-08 03:16:11] Categories for item 18: ['유머']
+[2025-05-08 03:16:11] Video tags for item 18: ['<video controls="controls" height="298" src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" width="402"></video>']
+[2025-05-08 03:16:11] ==============
+Item 18:
+title: 눈이 돌아가는 이유
+link: https://ggoorr.net/thisthat/17869630?category=17748967
+guid: https://ggoorr.net/thisthat/17869630?category=17748967
+content: <p><video src="https://cdn.ggoorr.net/images/109/630/869/017/75b6ff505dcd688eaa4f9c6d4ca6b671.mp4" controls="controls" width="402" height="298"></video></p>
+length: 156
+plain_text: 
+featured_image: 
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 19: <p><img alt="001.jpg" height="505" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" width="900"/></p><p><img alt="002.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg" width="900"/></p><p><img alt="003.jpg" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg" width="900"/></p><p><img alt="004.jpg" height="515" src...
+[2025-05-08 03:16:11] Featured image for item 19: https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg
+[2025-05-08 03:16:11] Categories for item 19: ['유머']
+[2025-05-08 03:16:11] Video tags for item 19: []
+[2025-05-08 03:16:11] ==============
+Item 19:
+title: 한국와서 2년 반만에 프로 자격 딴 흑인 유학생
+link: https://ggoorr.net/thisthat/17869380?category=17748967
+guid: https://ggoorr.net/thisthat/17869380?category=17748967
+content: <p><img width="900" height="505" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg" alt="001.jpg"/></p><p><img width="900" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d3678f4c8fbd4882dc8419429c2af62e.jpg" alt="002.jpg"/></p><p><img width="900" height="508" src="https://cdn.ggoorr.net/files/attach/images/109/380/869/017/d7aa2ea005be33964b7168064058a1ea.jpg" alt="003.jpg"/></p><p><img width="900" height="515" src="...
+length: 2926
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/380/869/017/fd3d20cd1dd8fe93dcd80dc9ec53ca68.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] Raw content for item 20: <p><img alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg" height="11752" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" width="700"/></p>
+[2025-05-08 03:16:11] Featured image for item 20: https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg
+[2025-05-08 03:16:11] Categories for item 20: ['유머']
+[2025-05-08 03:16:11] Video tags for item 20: []
+[2025-05-08 03:16:11] ==============
+Item 20:
+title: 상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층
+link: https://ggoorr.net/thisthat/17869376?category=17748967
+guid: https://ggoorr.net/thisthat/17869376?category=17748967
+content: <p><img width="700" height="11752" src="https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg" alt="상상 그 이상을 보여준다는 미국의 상류층과 찐 상류층.png.jpg"/></p>
+length: 186
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/109/376/869/017/44c278c99be03bf707a164445952dc0f.jpg
+categories: ['유머']
+==============
+[2025-05-08 03:16:11] RSS feed written to feed.xml, total items: 20

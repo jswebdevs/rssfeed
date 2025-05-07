@@ -6,10 +6,11 @@ import re
 import mimetypes
 
 def generate_rss_feed(items, output_file="feed.xml"):
-    # Create RSS root with dc and content namespaces
+    # Create RSS root with dc, content, and wp namespaces
     rss = etree.Element("rss", version="2.0", nsmap={
         "dc": "http://purl.org/dc/elements/1.1/",
-        "content": "http://purl.org/rss/1.0/modules/content/"
+        "content": "http://purl.org/rss/1.0/modules/content/",
+        "wp": "http://wordpress.org/export/1.2/"
     })
     channel = etree.SubElement(rss, "channel")
 
@@ -33,6 +34,7 @@ def generate_rss_feed(items, output_file="feed.xml"):
         link = (item.get('link') or '').strip() or f"https://ggoorr.net/placeholder/{idx + 1}"
         content = (item.get('content') or '').strip()
         featured_image = (item.get('featured_image') or '').strip()
+        categories = item.get('categories', [])
 
         # Ensure unique GUID
         guid = link
@@ -41,16 +43,21 @@ def generate_rss_feed(items, output_file="feed.xml"):
             log_step(f"Duplicate GUID detected for link {link}, using {guid}")
         seen_guids.add(guid)
 
-        # Log raw content and featured image to verify input
+        # Log raw content, featured image, and categories to verify input
         log_step(f"Raw content for item {idx + 1}: {content[:500]}{'...' if len(content) > 500 else ''}")
         log_step(f"Featured image for item {idx + 1}: {featured_image}")
+        log_step(f"Categories for item {idx + 1}: {categories}")
 
-        # Modify content to match desired format
+        # Modify content to ensure proper formatting
         modified_content = modify_content(content)
 
         # Create plain text description (truncate HTML-stripped content)
         soup = BeautifulSoup(modified_content, 'html.parser')
         plain_text = soup.get_text(strip=True)[:200]  # First 200 chars for description
+
+        # Log video tags
+        video_tags = soup.find_all('video')
+        log_step(f"Video tags for item {idx + 1}: {[str(v) for v in video_tags]}")
 
         # Detailed log for debugging
         log_step(
@@ -59,18 +66,23 @@ def generate_rss_feed(items, output_file="feed.xml"):
             f"title: {title}\n"
             f"link: {link}\n"
             f"guid: {guid}\n"
-            f"content: {modified_content}\n"
+            f"content: {modified_content[:500]}{'...' if len(modified_content) > 500 else ''}\n"
             f"length: {len(modified_content)}\n"
             f"plain_text: {plain_text}\n"
             f"featured_image: {featured_image}\n"
+            f"categories: {categories}\n"
             f"=============="
         )
 
         # Item fields
         etree.SubElement(item_elem, "title").text = title
         etree.SubElement(item_elem, "link").text = link
+        # Add hardcoded categories
         etree.SubElement(item_elem, "category").text = "유머/이슈"
         etree.SubElement(item_elem, "category").text = "최신"
+        # Add original categories
+        for category in categories:
+            etree.SubElement(item_elem, "category").text = category
         etree.SubElement(item_elem, "{http://purl.org/dc/elements/1.1/}creator").text = "슈파슈파"
         etree.SubElement(item_elem, "guid", isPermaLink="true").text = guid
 
@@ -91,6 +103,10 @@ def generate_rss_feed(items, output_file="feed.xml"):
             if not mime_type:
                 mime_type = 'image/jpeg'  # Fallback for images
             etree.SubElement(item_elem, "enclosure", url=featured_image, type=mime_type, length="0")
+            # Add WordPress post thumbnail
+            postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
+            etree.SubElement(postmeta_elem, "meta_key").text = "_thumbnail_id"
+            etree.SubElement(postmeta_elem, "meta_value").text = featured_image
 
     try:
         tree = etree.ElementTree(rss)
@@ -98,7 +114,6 @@ def generate_rss_feed(items, output_file="feed.xml"):
         log_step(f"RSS feed written to {output_file}, total items: {len(items)}")
     except Exception as e:
         log_step(f"Failed to write RSS feed: {str(e)}")
-
 
 def modify_content(content):
     """Modify HTML content with original image URLs, video URLs, and YouTube/Vimeo embeds, no newlines."""
