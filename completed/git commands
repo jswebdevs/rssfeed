@@ -1,0 +1,32 @@
+python todayhumor.py 
+python gorhumor.py
+python gorenter.py
+python gorlatest.py
+python etohumor.py
+python etoreview.py
+python etofreetalk.py
+python gorhotdeals.py
+python gorai.py
+python ilbepolitics.py
+python dcinsideissue.py
+
+
+Links: 
+https://jswebdevs.github.io/rssfeed/todayhumor.py 
+https://jswebdevs.github.io/rssfeed/gorhumor.py
+https://jswebdevs.github.io/rssfeed/gorenter.py
+https://jswebdevs.github.io/rssfeed/gorlatest.py
+https://jswebdevs.github.io/rssfeed/etohumor.py
+https://jswebdevs.github.io/rssfeed/etoreview.py
+https://jswebdevs.github.io/rssfeed/etofreetalk.py
+https://jswebdevs.github.io/rssfeed/gorhotdeals.py
+https://jswebdevs.github.io/rssfeed/gorai.py
+https://jswebdevs.github.io/rssfeed/ilbepolitics.py
+https://jswebdevs.github.io/rssfeed/dcinsideissue.py
+
+
+git add .
+git commit -m "done: todayhumor, gorlatest, gorhumor, goretner, etohumor, etoreview, etofreetalk;  testing: gorhotdeals, gorai"
+git push
+
+
