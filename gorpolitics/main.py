@@ -4,7 +4,7 @@ from feed_generation import generate_rss_feed
 from log import log_step
 
 BASE_URL = "https://ggoorr.net"
-TARGET_URL = BASE_URL + "/main/category/17748967/page/{page_number}"
+TARGET_URL = BASE_URL + "/main/wjdtk/page/{page_number}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -12,7 +12,7 @@ HEADERS = {
                   "Chrome/122.0.0.0 Safari/537.36"
 }
 START_PAGE = 1
-END_PAGE = 61
+END_PAGE = 50
 
 def main():
     all_posts = []

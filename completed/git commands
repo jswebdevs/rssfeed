@@ -26,7 +26,7 @@ https://jswebdevs.github.io/rssfeed/dcinsideissue.py
 
 
 git add .
-git commit -m "done: todayhumor, gorlatest, gorhumor, goretner, etohumor, etoreview, etofreetalk;  testing: gorhotdeals, gorai"
+git commit -m "Updating: Gor News"
 git push
 
 

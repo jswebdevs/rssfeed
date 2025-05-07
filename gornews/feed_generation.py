@@ -79,7 +79,7 @@ def generate_rss_feed(items, output_file="feed.xml"):
         etree.SubElement(item_elem, "link").text = link
         # Add hardcoded categories
         etree.SubElement(item_elem, "category").text = "모두"
-        etree.SubElement(item_elem, "category").text = "기분"
+        etree.SubElement(item_elem, "category").text = "소식"
         # Add original categories
         for category in categories:
             etree.SubElement(item_elem, "category").text = category
