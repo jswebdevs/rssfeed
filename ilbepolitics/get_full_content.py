@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup, Comment
 from log import log_step
 import urllib3
 
-# Disable SSL certificate verification warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def get_full_content(post_url, headers):
@@ -29,11 +28,32 @@ def get_full_content(post_url, headers):
         video_urls = []
 
         for tag in content_root.find_all(['p', 'img', 'video']):
-            if tag.name == 'p' and not tag.get_text(strip=True):
-                continue
+            if tag.name == 'p':
+                # If <p> has text, keep it
+                text = tag.get_text(strip=True)
+                if text:
+                    elements.append(f'<p>{text}</p>')
+                # Also, check if <img> exists inside <p>
+                if tag.find('img'):
+                    img_tag = tag.find('img')
+                    src = img_tag.get('src', '')
+                    if 'transparent.gif' in src:
+                        continue  # skip placeholder
+                    if not src.startswith('http'):
+                        src = 'https://ncache.ilbe.com' + src.replace('/files/attach', '')
+                    img_tag.attrs = {
+                        'src': src,
+                        'alt': img_tag.get('alt', ''),
+                        'width': img_tag.get('width', ''),
+                        'height': img_tag.get('height', '')
+                    }
+                    image_urls.append(src)
+                    elements.append(f'<p>{str(img_tag)}</p>')
 
-            if tag.name == 'img':
+            elif tag.name == 'img':
                 src = tag.get('src', '')
+                if 'transparent.gif' in src:
+                    continue
                 if not src.startswith('http'):
                     src = 'https://ncache.ilbe.com' + src.replace('/files/attach', '')
                 tag.attrs = {
@@ -67,7 +87,10 @@ def get_full_content(post_url, headers):
 
         cleaned_html = ''.join(elements)
 
-        log_step(f"Video URLs for post {post_url}: {video_urls}")
+        # Skip post if content is empty or only transparent gifs
+        if not cleaned_html.strip() or 'transparent.gif' in cleaned_html:
+            log_step(f"Skipped post {post_url} due to empty or placeholder-only content.")
+            return '', ''
 
         featured_image = image_urls[0] if image_urls else None
         if not featured_image and content_root.find('video'):
