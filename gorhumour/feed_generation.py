@@ -6,11 +6,12 @@ import re
 import mimetypes
 
 def generate_rss_feed(items, output_file="feed.xml"):
-    # Create RSS root with dc, content, and wp namespaces
+    # Create RSS root with dc, content, wp, and media namespaces
     rss = etree.Element("rss", version="2.0", nsmap={
         "dc": "http://purl.org/dc/elements/1.1/",
         "content": "http://purl.org/rss/1.0/modules/content/",
-        "wp": "http://wordpress.org/export/1.2/"
+        "wp": "http://wordpress.org/export/1.2/",
+        "media": "http://search.yahoo.com/mrss/"
     })
     channel = etree.SubElement(rss, "channel")
 
@@ -77,10 +78,7 @@ def generate_rss_feed(items, output_file="feed.xml"):
         # Item fields
         etree.SubElement(item_elem, "title").text = title
         etree.SubElement(item_elem, "link").text = link
-        # Add hardcoded categories
-        etree.SubElement(item_elem, "category").text = "모두"
-        etree.SubElement(item_elem, "category").text = "기분"
-        # Add original categories
+        # Add original categories only (no hardcoded categories)
         for category in categories:
             etree.SubElement(item_elem, "category").text = category
         etree.SubElement(item_elem, "{http://purl.org/dc/elements/1.1/}creator").text = "슈파슈파"
@@ -97,16 +95,19 @@ def generate_rss_feed(items, output_file="feed.xml"):
         else:
             content_elem.text = ""
 
-        # Add enclosure for featured image
+        # Add enclosure and media:content for featured image
         if featured_image and featured_image.startswith('http'):
             mime_type, _ = mimetypes.guess_type(featured_image)
             if not mime_type:
                 mime_type = 'image/jpeg'  # Fallback for images
-            etree.SubElement(item_elem, "enclosure", url=featured_image, type=mime_type, length="0")
+            # Enclosure with estimated length
+            etree.SubElement(item_elem, "enclosure", url=featured_image, type=mime_type, length="100000")
+            # Media:content for additional compatibility
+            etree.SubElement(item_elem, "{http://search.yahoo.com/mrss/}content", url=featured_image, type=mime_type, medium="image")
             # Add WordPress post thumbnail
             postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
-            etree.SubElement(postmeta_elem, "meta_key").text = "_thumbnail_id"
-            etree.SubElement(postmeta_elem, "meta_value").text = featured_image
+            etree.SubElement(postmeta_elem, "{http://wordpress.org/export/1.2/}meta_key").text = "_thumbnail_id"
+            etree.SubElement(postmeta_elem, "{http://wordpress.org/export/1.2/}meta_value").text = featured_image
 
     try:
         tree = etree.ElementTree(rss)
