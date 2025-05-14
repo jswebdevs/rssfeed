@@ -4,8 +4,13 @@ from log import log_step
 from bs4 import BeautifulSoup
 import re
 import mimetypes
+import os
 
-def generate_rss_feed(items, output_file="feed.xml"):
+# Ensure feed.xml is written in the current folder (where this script is)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FEED_FILE = os.path.join(BASE_DIR, "feed.xml")
+
+def generate_rss_feed(items, output_file=FEED_FILE):
     # Create RSS root with dc, content, and wp namespaces
     rss = etree.Element("rss", version="2.0", nsmap={
         "dc": "http://purl.org/dc/elements/1.1/",
@@ -43,23 +48,18 @@ def generate_rss_feed(items, output_file="feed.xml"):
             log_step(f"Duplicate GUID detected for link {link}, using {guid}")
         seen_guids.add(guid)
 
-        # Log raw content, featured image, and categories to verify input
         log_step(f"Raw content for item {idx + 1}: {content[:500]}{'...' if len(content) > 500 else ''}")
         log_step(f"Featured image for item {idx + 1}: {featured_image}")
         log_step(f"Categories for item {idx + 1}: {categories}")
 
-        # Modify content to ensure proper formatting
         modified_content = modify_content(content)
 
-        # Create plain text description (truncate HTML-stripped content)
         soup = BeautifulSoup(modified_content, 'html.parser')
-        plain_text = soup.get_text(strip=True)[:200]  # First 200 chars for description
+        plain_text = soup.get_text(strip=True)[:200]
 
-        # Log video tags
         video_tags = soup.find_all('video')
         log_step(f"Video tags for item {idx + 1}: {[str(v) for v in video_tags]}")
 
-        # Detailed log for debugging
         log_step(
             f"==============\n"
             f"Item {idx + 1}:\n"
@@ -74,36 +74,26 @@ def generate_rss_feed(items, output_file="feed.xml"):
             f"=============="
         )
 
-        # Item fields
         etree.SubElement(item_elem, "title").text = title
         etree.SubElement(item_elem, "link").text = link
-        # Add hardcoded categories
         etree.SubElement(item_elem, "category").text = "모두"
         etree.SubElement(item_elem, "category").text = "기분"
-        # Add original categories
         for category in categories:
             etree.SubElement(item_elem, "category").text = category
         etree.SubElement(item_elem, "{http://purl.org/dc/elements/1.1/}creator").text = "슈파슈파"
         etree.SubElement(item_elem, "guid", isPermaLink="true").text = guid
 
-        # Add description with plain text
         description_elem = etree.SubElement(item_elem, "description")
         description_elem.text = plain_text or ""
 
-        # Add content:encoded with full HTML in CDATA
         content_elem = etree.SubElement(item_elem, "{http://purl.org/rss/1.0/modules/content/}encoded")
-        if modified_content:
-            content_elem.text = etree.CDATA(modified_content)
-        else:
-            content_elem.text = ""
+        content_elem.text = etree.CDATA(modified_content) if modified_content else ""
 
-        # Add enclosure for featured image
         if featured_image and featured_image.startswith('http'):
             mime_type, _ = mimetypes.guess_type(featured_image)
             if not mime_type:
-                mime_type = 'image/jpeg'  # Fallback for images
+                mime_type = 'image/jpeg'
             etree.SubElement(item_elem, "enclosure", url=featured_image, type=mime_type, length="0")
-            # Add WordPress post thumbnail
             postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
             etree.SubElement(postmeta_elem, "meta_key").text = "_thumbnail_id"
             etree.SubElement(postmeta_elem, "meta_value").text = featured_image
@@ -115,18 +105,17 @@ def generate_rss_feed(items, output_file="feed.xml"):
     except Exception as e:
         log_step(f"Failed to write RSS feed: {str(e)}")
 
+
 def modify_content(content):
-    """Modify HTML content with original image URLs, video URLs, and YouTube/Vimeo embeds, no newlines."""
     soup = BeautifulSoup(content, 'html.parser')
     modified_elements = []
 
-    # Regex for YouTube and Vimeo video IDs
     youtube_regex = r'(?:youtube\.com/(?:watch\?v=|embed/)|youtu\.be/)([a-zA-Z0-9_-]{11})'
     vimeo_regex = r'(?:vimeo\.com/(?:video/|embed/)?)(\d+)'
 
     for tag in soup.find_all(['p', 'img', 'video', 'iframe', 'a']):
         if tag.name == 'p':
-            if tag.get_text(strip=True):  # Skip empty <p> tags
+            if tag.get_text(strip=True):
                 modified_elements.append(str(tag))
         elif tag.name == 'img':
             img_url = tag.get('src', '')
@@ -154,7 +143,7 @@ def modify_content(content):
                 modified_elements.append(f'<p>{video_tag}</p>')
             else:
                 log_step(f"Skipping video tag with no src: {str(tag)}")
-        elif tag.name == 'iframe' or tag.name == 'a':
+        elif tag.name in ['iframe', 'a']:
             url = tag.get('src') if tag.name == 'iframe' else tag.get('href', '')
             if url:
                 youtube_match = re.search(youtube_regex, url)

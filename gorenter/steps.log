@@ -1,5 +1,5 @@
-[2025-05-14 09:46:26] Scraping page 1: https://ggoorr.net/enter/page/1
-[2025-05-14 09:46:27] Raw HTML content for https://ggoorr.net/enter/page/1: <!DOCTYPE html>
+[2025-05-14 15:57:44] Scraping page 1: https://ggoorr.net/enter/page/1
+[2025-05-14 15:57:45] Raw HTML content for https://ggoorr.net/enter/page/1: <!DOCTYPE html>
 <html lang="ko">
 <head>
 
@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="Rhymix">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-<meta name="csrf-token" content="ifxkuVwJBi6FZ9VC" />
+<meta name="csrf-token" content="vVpqlgy2dFgzfZoE" />
 <meta name="keywords" content="꾸르넷, 꾸르잼, 알린넷, 익명, 커뮤니티" />
 <meta name="description" content="꾸르잼 커뮤니티" />
 <meta name="document_hide_mid_list" content="" />
@@ -17,61 +17,140 @@
 
 <!-- CSS -->
 <link rel="stylesheet" ...
-[2025-05-14 09:46:27] Raw anchor tags for titles: ['<a class="lu-title lddu-title" href="/enter/17880825/page/1">\n키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880822/page/1">\n허리 돌리는 트와이스 미나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880816/page/1">\n봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880794/page/1">\n빠니보틀 : 덱스야 긴장해라\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880785/page/1">\n빙글 도는 메이딘 세리나 엉밑살\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880739/page/1">\n새하얀 에스파 카리나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880507/page/1">\n김민지 아나운서\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880497/page/1">\n김윤희 아나운서\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880487/page/1">\n이주희 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880482/page/1">\n김정원 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880477/page/1">\n김나연 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880470/page/1">\n월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880443/page/1">\n빌리 츠키, 오해원 이어 \'워크돌\' 시즌4 MC 발탁\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880435/page/1">\n트리플에스 김채연\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880426/page/1">\n배우 김정난 취미.jpg\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880422/page/1">\n대박터진 80세 신입 유튜버 .jpg\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880410/page/1">\n모기에 물린 유나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880402/page/1">\n유나 서경대 축제\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880378/page/1">\n어린이날 상 받은 qwer 마젠타\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880208/page/1">\n남편 장례식장에서 종교 대통합 이룬 선우용녀\t\t\t\t\t</a>']
-[2025-05-14 09:46:27] Found title: 키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제 with link: /enter/17880825/page/1
-[2025-05-14 09:46:27] Categories for title '키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제': ['아이돌']
-[2025-05-14 09:46:27] Found title: 허리 돌리는 트와이스 미나 with link: /enter/17880822/page/1
-[2025-05-14 09:46:27] Categories for title '허리 돌리는 트와이스 미나': ['아이돌']
-[2025-05-14 09:46:27] Found title: 봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경 with link: /enter/17880816/page/1
-[2025-05-14 09:46:27] Categories for title '봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경': ['아이돌']
-[2025-05-14 09:46:27] Found title: 빠니보틀 : 덱스야 긴장해라 with link: /enter/17880794/page/1
-[2025-05-14 09:46:27] Categories for title '빠니보틀 : 덱스야 긴장해라': ['연예']
-[2025-05-14 09:46:27] Found title: 빙글 도는 메이딘 세리나 엉밑살 with link: /enter/17880785/page/1
-[2025-05-14 09:46:27] Categories for title '빙글 도는 메이딘 세리나 엉밑살': ['아이돌']
-[2025-05-14 09:46:27] Found title: 새하얀 에스파 카리나 with link: /enter/17880739/page/1
-[2025-05-14 09:46:27] Categories for title '새하얀 에스파 카리나': ['아이돌']
-[2025-05-14 09:46:27] Found title: 김민지 아나운서 with link: /enter/17880507/page/1
-[2025-05-14 09:46:27] Categories for title '김민지 아나운서': ['아나운서']
-[2025-05-14 09:46:27] Found title: 김윤희 아나운서 with link: /enter/17880497/page/1
-[2025-05-14 09:46:27] Categories for title '김윤희 아나운서': ['아나운서']
-[2025-05-14 09:46:27] Found title: 이주희 치어리더 with link: /enter/17880487/page/1
-[2025-05-14 09:46:27] Categories for title '이주희 치어리더': ['치어리더']
-[2025-05-14 09:46:27] Found title: 김정원 치어리더 with link: /enter/17880482/page/1
-[2025-05-14 09:46:27] Categories for title '김정원 치어리더': ['치어리더']
-[2025-05-14 09:46:27] Found title: 김나연 치어리더 with link: /enter/17880477/page/1
-[2025-05-14 09:46:27] Categories for title '김나연 치어리더': ['치어리더']
-[2025-05-14 09:46:27] Found title: 월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더 with link: /enter/17880470/page/1
-[2025-05-14 09:46:27] Categories for title '월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더': ['치어리더']
-[2025-05-14 09:46:27] Found title: 빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁 with link: /enter/17880443/page/1
-[2025-05-14 09:46:27] Categories for title '빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁': ['아이돌']
-[2025-05-14 09:46:27] Found title: 트리플에스 김채연 with link: /enter/17880435/page/1
-[2025-05-14 09:46:27] Categories for title '트리플에스 김채연': ['아이돌']
-[2025-05-14 09:46:27] Found title: 배우 김정난 취미.jpg with link: /enter/17880426/page/1
-[2025-05-14 09:46:27] Categories for title '배우 김정난 취미.jpg': ['연예']
-[2025-05-14 09:46:27] Found title: 대박터진 80세 신입 유튜버 .jpg with link: /enter/17880422/page/1
-[2025-05-14 09:46:27] Categories for title '대박터진 80세 신입 유튜버 .jpg': ['연예']
-[2025-05-14 09:46:27] Found title: 모기에 물린 유나 with link: /enter/17880410/page/1
-[2025-05-14 09:46:27] Categories for title '모기에 물린 유나': ['아이돌']
-[2025-05-14 09:46:27] Found title: 유나 서경대 축제 with link: /enter/17880402/page/1
-[2025-05-14 09:46:27] Categories for title '유나 서경대 축제': ['아이돌']
-[2025-05-14 09:46:27] Found title: 어린이날 상 받은 qwer 마젠타 with link: /enter/17880378/page/1
-[2025-05-14 09:46:27] Categories for title '어린이날 상 받은 qwer 마젠타': ['아이돌']
-[2025-05-14 09:46:27] Found title: 남편 장례식장에서 종교 대통합 이룬 선우용녀 with link: /enter/17880208/page/1
-[2025-05-14 09:46:27] Categories for title '남편 장례식장에서 종교 대통합 이룬 선우용녀': ['연예']
-[2025-05-14 09:46:27] Found 20 posts on https://ggoorr.net/enter/page/1
-[2025-05-14 09:46:27] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:45] Raw anchor tags for titles: ['<a class="lu-title lddu-title" href="/enter/17881946/page/1">\nUFC 前 챔피언, "루피가 나루토 이긴다"\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17881938/page/1">\n최다니엘 인스타근황\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17881792/page/1">\n이수지: 유심칩을 빼라고, 유심칩을 빼\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17881767/page/1">\n내 전남편 소개 해줄까?\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17881718/page/1">\n당당하게 성형 고백한 신지\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17881683/page/1">\n한국인이지만 자기 군대 안 간게 문제 없다는 교수\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880825/page/1">\n키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880822/page/1">\n허리 돌리는 트와이스 미나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880816/page/1">\n봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880794/page/1">\n빠니보틀 : 덱스야 긴장해라\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880785/page/1">\n빙글 도는 메이딘 세리나 엉밑살\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880739/page/1">\n새하얀 에스파 카리나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880507/page/1">\n김민지 아나운서\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880497/page/1">\n김윤희 아나운서\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880487/page/1">\n이주희 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880482/page/1">\n김정원 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880477/page/1">\n김나연 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880470/page/1">\n월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880443/page/1">\n빌리 츠키, 오해원 이어 \'워크돌\' 시즌4 MC 발탁\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17880435/page/1">\n트리플에스 김채연\t\t\t\t\t</a>']
+[2025-05-14 15:57:45] Found title: UFC 前 챔피언, "루피가 나루토 이긴다" with link: /enter/17881946/page/1
+[2025-05-14 15:57:45] Categories for title 'UFC 前 챔피언, "루피가 나루토 이긴다"': ['연예']
+[2025-05-14 15:57:45] Found title: 최다니엘 인스타근황 with link: /enter/17881938/page/1
+[2025-05-14 15:57:45] Categories for title '최다니엘 인스타근황': ['연예']
+[2025-05-14 15:57:45] Found title: 이수지: 유심칩을 빼라고, 유심칩을 빼 with link: /enter/17881792/page/1
+[2025-05-14 15:57:45] Categories for title '이수지: 유심칩을 빼라고, 유심칩을 빼': ['연예']
+[2025-05-14 15:57:45] Found title: 내 전남편 소개 해줄까? with link: /enter/17881767/page/1
+[2025-05-14 15:57:45] Categories for title '내 전남편 소개 해줄까?': ['연예']
+[2025-05-14 15:57:45] Found title: 당당하게 성형 고백한 신지 with link: /enter/17881718/page/1
+[2025-05-14 15:57:45] Categories for title '당당하게 성형 고백한 신지': ['연예']
+[2025-05-14 15:57:45] Found title: 한국인이지만 자기 군대 안 간게 문제 없다는 교수 with link: /enter/17881683/page/1
+[2025-05-14 15:57:45] Categories for title '한국인이지만 자기 군대 안 간게 문제 없다는 교수': ['연예']
+[2025-05-14 15:57:45] Found title: 키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제 with link: /enter/17880825/page/1
+[2025-05-14 15:57:45] Categories for title '키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제': ['아이돌']
+[2025-05-14 15:57:45] Found title: 허리 돌리는 트와이스 미나 with link: /enter/17880822/page/1
+[2025-05-14 15:57:45] Categories for title '허리 돌리는 트와이스 미나': ['아이돌']
+[2025-05-14 15:57:45] Found title: 봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경 with link: /enter/17880816/page/1
+[2025-05-14 15:57:45] Categories for title '봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경': ['아이돌']
+[2025-05-14 15:57:45] Found title: 빠니보틀 : 덱스야 긴장해라 with link: /enter/17880794/page/1
+[2025-05-14 15:57:45] Categories for title '빠니보틀 : 덱스야 긴장해라': ['연예']
+[2025-05-14 15:57:45] Found title: 빙글 도는 메이딘 세리나 엉밑살 with link: /enter/17880785/page/1
+[2025-05-14 15:57:45] Categories for title '빙글 도는 메이딘 세리나 엉밑살': ['아이돌']
+[2025-05-14 15:57:45] Found title: 새하얀 에스파 카리나 with link: /enter/17880739/page/1
+[2025-05-14 15:57:45] Categories for title '새하얀 에스파 카리나': ['아이돌']
+[2025-05-14 15:57:45] Found title: 김민지 아나운서 with link: /enter/17880507/page/1
+[2025-05-14 15:57:45] Categories for title '김민지 아나운서': ['아나운서']
+[2025-05-14 15:57:45] Found title: 김윤희 아나운서 with link: /enter/17880497/page/1
+[2025-05-14 15:57:45] Categories for title '김윤희 아나운서': ['아나운서']
+[2025-05-14 15:57:45] Found title: 이주희 치어리더 with link: /enter/17880487/page/1
+[2025-05-14 15:57:45] Categories for title '이주희 치어리더': ['치어리더']
+[2025-05-14 15:57:45] Found title: 김정원 치어리더 with link: /enter/17880482/page/1
+[2025-05-14 15:57:45] Categories for title '김정원 치어리더': ['치어리더']
+[2025-05-14 15:57:45] Found title: 김나연 치어리더 with link: /enter/17880477/page/1
+[2025-05-14 15:57:45] Categories for title '김나연 치어리더': ['치어리더']
+[2025-05-14 15:57:45] Found title: 월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더 with link: /enter/17880470/page/1
+[2025-05-14 15:57:45] Categories for title '월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더': ['치어리더']
+[2025-05-14 15:57:45] Found title: 빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁 with link: /enter/17880443/page/1
+[2025-05-14 15:57:45] Categories for title '빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁': ['아이돌']
+[2025-05-14 15:57:45] Found title: 트리플에스 김채연 with link: /enter/17880435/page/1
+[2025-05-14 15:57:45] Categories for title '트리플에스 김채연': ['아이돌']
+[2025-05-14 15:57:45] Found 20 posts on https://ggoorr.net/enter/page/1
+[2025-05-14 15:57:46] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17881946,11171895)--><div class="document_17881946_11171895 rhymix_content xe_content"><p><img alt="9d552ae3495e3862ba80cb2c12ebad3c.jpg" data-cke-saved-src="/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg" data-file-srl="17881947" editor_component="image_link" fetchpriority="high" height="17015" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c7...
+[2025-05-14 15:57:46] Video URLs for post https://ggoorr.net/enter/17881946/page/1: []
+[2025-05-14 15:57:46] ==============
+title: UFC 前 챔피언, "루피가 나루토 이긴다" - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17881946/page/1
+content: <p><img alt="9d552ae3495e3862ba80cb2c12ebad3c.jpg" height="17015" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg" width="640"/></p><p><img alt="36192c95031ce4c3c280101e5dde16ba.webp" height="454" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/003d8621e68406374414ad2ca47b2bd8.webp" width="1080"/></p>
+length: 371
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/946/881/017/003d8621e68406374414ad2ca47b2bd8.webp']
+Video URLs: []
+==============
+[2025-05-14 15:57:46] Added content for: UFC 前 챔피언, "루피가 나루토 이긴다" (link: https://ggoorr.net/enter/17881946, content length: 371, categories: ['연예'])
+[2025-05-14 15:57:46] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17881938,11171895)--><div class="document_17881938_11171895 rhymix_content xe_content"><p><img alt="3d74761c810381fa7d74bc499f15f1bb.webp" data-cke-saved-src="/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp" data-file-srl="17881939" editor_component="image_link" fetchpriority="high" height="1350" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf...
+[2025-05-14 15:57:46] Video URLs for post https://ggoorr.net/enter/17881938/page/1: []
+[2025-05-14 15:57:46] ==============
+title: 최다니엘 인스타근황 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17881938/page/1
+content: <p><img alt="3d74761c810381fa7d74bc499f15f1bb.webp" height="1350" src="https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp" width="1170"/></p>
+length: 187
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp']
+Video URLs: []
+==============
+[2025-05-14 15:57:46] Added content for: 최다니엘 인스타근황 (link: https://ggoorr.net/enter/17881938, content length: 187, categories: ['연예'])
+[2025-05-14 15:57:47] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17881792,11171895)--><div class="document_17881792_11171895 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17881793" height="1280" poster="/files/attach/images/124/792/881/017/b5379be7a12780f196752930c9cee0bb.jpg" src="/files/attach/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4" width="720"></video>
+<p> </p></div></div><!--AfterDocument(17881792,11171895)--> </div>
+[2025-05-14 15:57:47] Video URLs for post https://ggoorr.net/enter/17881792/page/1: ['https://cdn.ggoorr.net/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4']
+[2025-05-14 15:57:47] ==============
+title: 이수지: 유심칩을 빼라고, 유심칩을 빼 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17881792/page/1
+content: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/792/881/017/b5379be7a12780f196752930c9cee0bb.jpg" src="https://cdn.ggoorr.net/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4" width="720"></video></p>
+length: 249
+Featured Image: https://cdn.ggoorr.net/images/124/792/881/017/b5379be7a12780f196752930c9cee0bb.jpg
+Image URLs: []
+Video URLs: ['https://cdn.ggoorr.net/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4']
+==============
+[2025-05-14 15:57:47] Added content for: 이수지: 유심칩을 빼라고, 유심칩을 빼 (link: https://ggoorr.net/enter/17881792, content length: 249, categories: ['연예'])
+[2025-05-14 15:57:47] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17881767,11171895)--><div class="document_17881767_11171895 rhymix_content xe_content"><p><img alt="d044799cc7cabe1348e2575951adfcb8.webp" data-cke-saved-src="/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp" data-file-srl="17881768" editor_component="image_link" fetchpriority="high" height="814" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c85...
+[2025-05-14 15:57:47] Video URLs for post https://ggoorr.net/enter/17881767/page/1: []
+[2025-05-14 15:57:47] ==============
+title: 내 전남편 소개 해줄까? - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17881767/page/1
+content: <p><img alt="d044799cc7cabe1348e2575951adfcb8.webp" height="814" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp" width="1620"/></p><p><img alt="b2bf0eac3bccc795b50ca93d78b6f61e.webp" height="821" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/d138fb5d7af736e611d7703852ca2fd1.webp" width="1620"/></p><p><img alt="14fc8c11423997e0fcb67adf60ff3ae4.webp" height="745" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017...
+length: 1860
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/d138fb5d7af736e611d7703852ca2fd1.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/126ed8cd7c29894a266dbe982eeca46a.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/238e51e4628d7a2147718c79c106f629.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/bc90224218595f91151e160f7c9732a7.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/46f2b9e03137567fdf12655beb887bf4.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/d22ce31c2159ea8977b5c9129b8a31ed.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/ec2d5f40e545b4b79e0ae7a30e9fb64f.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/cc2540cf393569f70485b6273f9a9aa7.webp', 'https://cdn.ggoorr.net/files/attach/images/124/767/881/017/51a4a73328d320ca6aa63d9e11cf46ba.webp']
+Video URLs: []
+==============
+[2025-05-14 15:57:47] Added content for: 내 전남편 소개 해줄까? (link: https://ggoorr.net/enter/17881767, content length: 1860, categories: ['연예'])
+[2025-05-14 15:57:49] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17881718,11171895)--><div class="document_17881718_11171895 rhymix_content xe_content"><p><img alt="6735b6fbe3543bc25f7a8593606aa4a8.webp" data-cke-saved-src="/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp" data-file-srl="17881719" editor_component="image_link" fetchpriority="high" height="1815" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c020...
+[2025-05-14 15:57:49] Video URLs for post https://ggoorr.net/enter/17881718/page/1: []
+[2025-05-14 15:57:49] ==============
+title: 당당하게 성형 고백한 신지 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17881718/page/1
+content: <p><img alt="6735b6fbe3543bc25f7a8593606aa4a8.webp" height="1815" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp" width="1080"/></p><p><img alt="4d7f7e41cb77270c5a6d5b7fcb401df5.jpeg" height="960" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/5edf66332243e6f112c1b38bf445c874.jpeg" width="768"/></p><p><img alt="4474ada63cee6f37e7e5ab8b8064c239.webp" height="960" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017...
+length: 742
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp', 'https://cdn.ggoorr.net/files/attach/images/124/718/881/017/5edf66332243e6f112c1b38bf445c874.jpeg', 'https://cdn.ggoorr.net/files/attach/images/124/718/881/017/37df55d36edafaac1f60b5f210b33565.webp', 'https://cdn.ggoorr.net/files/attach/images/124/718/881/017/436e56aa6378147cfbcfa319289b54c6.webp']
+Video URLs: []
+==============
+[2025-05-14 15:57:49] Added content for: 당당하게 성형 고백한 신지 (link: https://ggoorr.net/enter/17881718, content length: 742, categories: ['연예'])
+[2025-05-14 15:57:49] Raw content HTML: <div class="slatc-content">
+<div id="article_1"><!--BeforeDocument(17881683,11171895)--><div class="document_17881683_11171895 rhymix_content xe_content"><p><img alt="2f9876968cf8af78f4e8a0d28cbfb655.jpeg" data-cke-saved-src="/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg" data-file-srl="17881684" editor_component="image_link" fetchpriority="high" height="6576" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d0...
+[2025-05-14 15:57:49] Video URLs for post https://ggoorr.net/enter/17881683/page/1: []
+[2025-05-14 15:57:49] ==============
+title: 한국인이지만 자기 군대 안 간게 문제 없다는 교수 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17881683/page/1
+content: <p><img alt="2f9876968cf8af78f4e8a0d28cbfb655.jpeg" height="6576" src="https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg" width="900"/></p>
+length: 186
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg']
+Video URLs: []
+==============
+[2025-05-14 15:57:49] Added content for: 한국인이지만 자기 군대 안 간게 문제 없다는 교수 (link: https://ggoorr.net/enter/17881683, content length: 186, categories: ['연예'])
+[2025-05-14 15:57:50] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880825,15464532)--><div class="document_17880825_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17880826" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg" preload="auto" src="/files/attach/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4" width="480"></video>
 <p> </p>
 <p></p><video autoplay="" cont...
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yJpNIYb.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/EErpcRX.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/5RJU2sS.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/X5Qj4u9.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/cBFohKb.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/V9JoiQy.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/oFkBjm2.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:27] Video URLs for post https://ggoorr.net/enter/17880825/page/1: ['https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4']
-[2025-05-14 09:46:27] ==============
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yJpNIYb.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/EErpcRX.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/5RJU2sS.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/X5Qj4u9.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/cBFohKb.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/V9JoiQy.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/oFkBjm2.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:50] Video URLs for post https://ggoorr.net/enter/17880825/page/1: ['https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4']
+[2025-05-14 15:57:50] ==============
 title: 키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880825/page/1
 content: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg" src="https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4" width="480"></video></p>
@@ -80,12 +159,12 @@ Featured Image: https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221e
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4']
 ==============
-[2025-05-14 09:46:27] Added content for: 키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제 (link: https://ggoorr.net/enter/17880825, content length: 248, categories: ['아이돌'])
-[2025-05-14 09:46:27] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:50] Added content for: 키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제 (link: https://ggoorr.net/enter/17880825, content length: 248, categories: ['아이돌'])
+[2025-05-14 15:57:50] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880822,15464532)--><div class="document_17880822_15464532 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880823" height="854" poster="/files/attach/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg" src="/files/attach/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4" width="438"></video>
 <p> </p></div></div><!--AfterDocument(17880822,15464532)--> </div>
-[2025-05-14 09:46:27] Video URLs for post https://ggoorr.net/enter/17880822/page/1: ['https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4']
-[2025-05-14 09:46:27] ==============
+[2025-05-14 15:57:50] Video URLs for post https://ggoorr.net/enter/17880822/page/1: ['https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4']
+[2025-05-14 15:57:50] ==============
 title: 허리 돌리는 트와이스 미나 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880822/page/1
 content: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg" src="https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4" width="438"></video></p>
@@ -94,18 +173,18 @@ Featured Image: https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d1
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4']
 ==============
-[2025-05-14 09:46:27] Added content for: 허리 돌리는 트와이스 미나 (link: https://ggoorr.net/enter/17880822, content length: 248, categories: ['아이돌'])
-[2025-05-14 09:46:28] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:50] Added content for: 허리 돌리는 트와이스 미나 (link: https://ggoorr.net/enter/17880822, content length: 248, categories: ['아이돌'])
+[2025-05-14 15:57:51] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880816,15464532)--><div class="document_17880816_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17880817" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg" preload="auto" src="/files/attach/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4" width="480"></video>
 <p> </p>
 <p></p><video autoplay="" cont...
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="1" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/kUcG8M8.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/w58Zd5B.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="3" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/Y94FrQi.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="4" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/MCyCGC8.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="5" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/zqukn5l.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Video URLs for post https://ggoorr.net/enter/17880816/page/1: ['https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4']
-[2025-05-14 09:46:28] ==============
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="1" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/kUcG8M8.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/w58Zd5B.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="3" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/Y94FrQi.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="4" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/MCyCGC8.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="5" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/zqukn5l.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Video URLs for post https://ggoorr.net/enter/17880816/page/1: ['https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4']
+[2025-05-14 15:57:51] ==============
 title: 봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880816/page/1
 content: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg" src="https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4" width="480"></video></p>
@@ -114,12 +193,12 @@ Featured Image: https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4']
 ==============
-[2025-05-14 09:46:28] Added content for: 봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경 (link: https://ggoorr.net/enter/17880816, content length: 248, categories: ['아이돌'])
-[2025-05-14 09:46:28] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:51] Added content for: 봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경 (link: https://ggoorr.net/enter/17880816, content length: 248, categories: ['아이돌'])
+[2025-05-14 15:57:51] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880794,15464532)--><div class="document_17880794_15464532 rhymix_content xe_content"><p><img alt="001.png.jpg" data-cke-saved-src="/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg" data-file-srl="17880795" editor_component="image_link" fetchpriority="high" height="526" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg" width="940"/></p>
 <...
-[2025-05-14 09:46:28] Video URLs for post https://ggoorr.net/enter/17880794/page/1: []
-[2025-05-14 09:46:28] ==============
+[2025-05-14 15:57:51] Video URLs for post https://ggoorr.net/enter/17880794/page/1: []
+[2025-05-14 15:57:51] ==============
 title: 빠니보틀 : 덱스야 긴장해라 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880794/page/1
 content: <p><img alt="001.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg" width="940"/></p><p><img alt="002.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/bd47de2e70b833fc2e23a4471b9f11a2.jpg" width="940"/></p><p><img alt="003.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/f8dc9a6e1b0f54dbfc3278f89c4d468b.jpg" width="940"/></p><p><img alt="004.png.jpg" ...
@@ -128,19 +207,19 @@ Featured Image: https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc5
 Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/bd47de2e70b833fc2e23a4471b9f11a2.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/f8dc9a6e1b0f54dbfc3278f89c4d468b.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/74b51454f8264184da9fe1f2a439dccc.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/bf934faa4e5199e644494f604d87b55f.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/6554b34ac518e862460b94a023d59218.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/f6dc5f0ae89f4b9d1ff0816ecc2d0845.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/c3348dce9b071037b3c7cd31a97b07f9.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/728d0ef95ef5078fce4b7e13c44666c6.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/a6e38977cd25881e5114900ea1b3ff55.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/31e718ca0e1c6b0de0d2fab3c3de562e.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/03b68621458d9538cbedc52c9cfa7bc1.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/794/880/017/e390b3f29671d6558c0075581b863a3d.jpg']
 Video URLs: []
 ==============
-[2025-05-14 09:46:28] Added content for: 빠니보틀 : 덱스야 긴장해라 (link: https://ggoorr.net/enter/17880794, content length: 2054, categories: ['연예'])
-[2025-05-14 09:46:28] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:51] Added content for: 빠니보틀 : 덱스야 긴장해라 (link: https://ggoorr.net/enter/17880794, content length: 2054, categories: ['연예'])
+[2025-05-14 15:57:51] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880785,15464532)--><div class="document_17880785_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17880786" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg" preload="auto" src="/files/attach/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4" width="480"></video>
 <p> </p>
 <p></p><video autoplay="" cont...
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="1" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/jn5JcPA.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="6" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/LP6spEG.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/QXRGA2u.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="3" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/Zh9N7U3.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="4" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/d5sygzD.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="5" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/3UdOY0o.mp4" type="video/mp4"/></video>
-[2025-05-14 09:46:28] Video URLs for post https://ggoorr.net/enter/17880785/page/1: ['https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4']
-[2025-05-14 09:46:28] ==============
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="1" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/jn5JcPA.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="6" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/LP6spEG.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/QXRGA2u.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="3" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/Zh9N7U3.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="4" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/d5sygzD.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="5" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/3UdOY0o.mp4" type="video/mp4"/></video>
+[2025-05-14 15:57:51] Video URLs for post https://ggoorr.net/enter/17880785/page/1: ['https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4']
+[2025-05-14 15:57:51] ==============
 title: 빙글 도는 메이딘 세리나 엉밑살 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880785/page/1
 content: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg" src="https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4" width="480"></video></p>
@@ -149,12 +228,12 @@ Featured Image: https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4']
 ==============
-[2025-05-14 09:46:28] Added content for: 빙글 도는 메이딘 세리나 엉밑살 (link: https://ggoorr.net/enter/17880785, content length: 248, categories: ['아이돌'])
-[2025-05-14 09:46:29] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:51] Added content for: 빙글 도는 메이딘 세리나 엉밑살 (link: https://ggoorr.net/enter/17880785, content length: 248, categories: ['아이돌'])
+[2025-05-14 15:57:52] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880739,15464532)--><div class="document_17880739_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg" data-file-srl="17880740" editor_component="image_link" fetchpriority="high" height="1536" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg" width="1024"/></p>
 <p>...
-[2025-05-14 09:46:29] Video URLs for post https://ggoorr.net/enter/17880739/page/1: []
-[2025-05-14 09:46:29] ==============
+[2025-05-14 15:57:52] Video URLs for post https://ggoorr.net/enter/17880739/page/1: []
+[2025-05-14 15:57:52] ==============
 title: 새하얀 에스파 카리나 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880739/page/1
 content: <p><img alt="001.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg" width="1024"/></p><p><img alt="002.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/74e7f9212897a5e6bb87424849c65989.jpg" width="1024"/></p><p><img alt="003.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/b772e712141e4b38dcf8c3321597b37e.jpg" width="1024"/></p><p><img alt="004.jpg" height="15...
@@ -163,11 +242,11 @@ Featured Image: https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bba
 Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/74e7f9212897a5e6bb87424849c65989.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/b772e712141e4b38dcf8c3321597b37e.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/30bf35c92ecd92575447c5682fdac1a0.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/b6de3f0ad96ecb9e04731ca671ad6949.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/453c1065528b94d26c253251137b1239.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/68fbb3003ba23d1e2fec856b87278369.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/305efc6736d87eb4f631afa65dc46cf1.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/073d340a13f423a9a288e1865878448f.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/23b273b1ca98d9966aa06310b87011cb.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/946292aff760b7c5880fd0b035416144.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/8dc930f9d4e6955453afc74a8508e806.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/bcd0ab72836cd74cfa7005d066c44e3c.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/739/880/017/62057c8755eecc75ce16ea59055bf54b.jpg']
 Video URLs: []
 ==============
-[2025-05-14 09:46:29] Added content for: 새하얀 에스파 카리나 (link: https://ggoorr.net/enter/17880739, content length: 2184, categories: ['아이돌'])
-[2025-05-14 09:46:29] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:52] Added content for: 새하얀 에스파 카리나 (link: https://ggoorr.net/enter/17880739, content length: 2184, categories: ['아이돌'])
+[2025-05-14 15:57:52] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880507,8319256)--><div class="document_17880507_8319256 rhymix_content xe_content"><p><img alt="3555410916_qPNDWoyV_rCaUz0jiEO5H4QAv.jpg" data-cke-saved-src="/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg" data-file-srl="17880508" editor_component="image_link" fetchpriority="high" height="1067" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e...
-[2025-05-14 09:46:29] Video URLs for post https://ggoorr.net/enter/17880507/page/1: []
-[2025-05-14 09:46:29] ==============
+[2025-05-14 15:57:52] Video URLs for post https://ggoorr.net/enter/17880507/page/1: []
+[2025-05-14 15:57:52] ==============
 title: 김민지 아나운서 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880507/page/1
 content: <p><img alt="3555410916_qPNDWoyV_rCaUz0jiEO5H4QAv.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg" width="854"/></p><p><img alt="3555410916_ey79gUKA_oL4XbImVQROkclsp.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/77f67eacdc96fb206d7c3d94456b5245.jpg" width="854"/></p><p><img alt="3555410916_KIuaXCeF_l9HQO1ZxSUdD5nMm.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507...
@@ -176,13 +255,13 @@ Featured Image: https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f
 Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/507/880/017/77f67eacdc96fb206d7c3d94456b5245.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/507/880/017/0399ffa46020ea15e0ba7491842fb79b.jpg']
 Video URLs: []
 ==============
-[2025-05-14 09:46:29] Added content for: 김민지 아나운서 (link: https://ggoorr.net/enter/17880507, content length: 564, categories: ['아나운서'])
-[2025-05-14 09:46:30] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:52] Added content for: 김민지 아나운서 (link: https://ggoorr.net/enter/17880507, content length: 564, categories: ['아나운서'])
+[2025-05-14 15:57:53] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880497,8319256)--><div class="document_17880497_8319256 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17880498" data-saved-src="/files/attach/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" height="556" loop="" muted="" playsinline="" src="/files/attach/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" width="322"></video>
 <p> </p>
 <p></p><video autoplay="" data-file-srl="17880499" ...
-[2025-05-14 09:46:30] Video URLs for post https://ggoorr.net/enter/17880497/page/1: ['https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/6bb459c4c14d7a0157f2cc945745d577.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/b7b176331ecb5cef15eaab0a378272ec.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/747b56359a60ea4e2d27f2b4ea5bc41b.mp4']
-[2025-05-14 09:46:30] ==============
+[2025-05-14 15:57:53] Video URLs for post https://ggoorr.net/enter/17880497/page/1: ['https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/6bb459c4c14d7a0157f2cc945745d577.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/b7b176331ecb5cef15eaab0a378272ec.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/747b56359a60ea4e2d27f2b4ea5bc41b.mp4']
+[2025-05-14 15:57:53] ==============
 title: 김윤희 아나운서 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880497/page/1
 content: <p><video controls="controls" height="556" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" width="322"></video></p><p><video controls="controls" height="532" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4" width="638"></video></p><p><video controls="controls" height="540" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4" width="648"></video></p><p...
@@ -191,13 +270,13 @@ Featured Image:
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/6bb459c4c14d7a0157f2cc945745d577.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/b7b176331ecb5cef15eaab0a378272ec.mp4', 'https://cdn.ggoorr.net/images/124/497/880/017/747b56359a60ea4e2d27f2b4ea5bc41b.mp4']
 ==============
-[2025-05-14 09:46:30] Added content for: 김윤희 아나운서 (link: https://ggoorr.net/enter/17880497, content length: 996, categories: ['아나운서'])
-[2025-05-14 09:46:30] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:53] Added content for: 김윤희 아나운서 (link: https://ggoorr.net/enter/17880497, content length: 996, categories: ['아나운서'])
+[2025-05-14 15:57:53] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880487,8319256)--><div class="document_17880487_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880488" height="1280" poster="/files/attach/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg" src="/files/attach/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4" width="720"></video>
 <p> </p>
 <p></p><video controls="" data-file-srl="17880489" height="1280" poster="/files/attach/ima...
-[2025-05-14 09:46:30] Video URLs for post https://ggoorr.net/enter/17880487/page/1: ['https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4', 'https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4']
-[2025-05-14 09:46:30] ==============
+[2025-05-14 15:57:53] Video URLs for post https://ggoorr.net/enter/17880487/page/1: ['https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4', 'https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4']
+[2025-05-14 15:57:53] ==============
 title: 이주희 치어리더 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880487/page/1
 content: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg" src="https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4" width="720"></video></p><p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/487/880/017/d9beca1457f2b9ee75443eb6adbe70a2.jpg" src="https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4" width="720"></video></p>
@@ -206,12 +285,12 @@ Featured Image: https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4', 'https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4']
 ==============
-[2025-05-14 09:46:30] Added content for: 이주희 치어리더 (link: https://ggoorr.net/enter/17880487, content length: 498, categories: ['치어리더'])
-[2025-05-14 09:46:31] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:53] Added content for: 이주희 치어리더 (link: https://ggoorr.net/enter/17880487, content length: 498, categories: ['치어리더'])
+[2025-05-14 15:57:54] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880482,8319256)--><div class="document_17880482_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880483" height="1280" poster="/files/attach/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg" src="/files/attach/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4" width="720"></video>
 <p> </p></div></div><!--AfterDocument(17880482,8319256)--> </div>
-[2025-05-14 09:46:31] Video URLs for post https://ggoorr.net/enter/17880482/page/1: ['https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4']
-[2025-05-14 09:46:31] ==============
+[2025-05-14 15:57:54] Video URLs for post https://ggoorr.net/enter/17880482/page/1: ['https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4']
+[2025-05-14 15:57:54] ==============
 title: 김정원 치어리더 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880482/page/1
 content: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg" src="https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4" width="720"></video></p>
@@ -220,12 +299,12 @@ Featured Image: https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc4
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4']
 ==============
-[2025-05-14 09:46:31] Added content for: 김정원 치어리더 (link: https://ggoorr.net/enter/17880482, content length: 249, categories: ['치어리더'])
-[2025-05-14 09:46:31] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:54] Added content for: 김정원 치어리더 (link: https://ggoorr.net/enter/17880482, content length: 249, categories: ['치어리더'])
+[2025-05-14 15:57:54] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880477,8319256)--><div class="document_17880477_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880478" height="1280" poster="/files/attach/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg" src="/files/attach/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4" width="720"></video>
 <p></p><video controls="" data-file-srl="17880479" height="1280" poster="/files/attach/images/124/4...
-[2025-05-14 09:46:31] Video URLs for post https://ggoorr.net/enter/17880477/page/1: ['https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4', 'https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4']
-[2025-05-14 09:46:31] ==============
+[2025-05-14 15:57:54] Video URLs for post https://ggoorr.net/enter/17880477/page/1: ['https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4', 'https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4']
+[2025-05-14 15:57:54] ==============
 title: 김나연 치어리더 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880477/page/1
 content: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg" src="https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4" width="720"></video></p><p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/477/880/017/9237d2f9ce89b27ea68c0df549d4e61d.jpg" src="https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4" width="720"></video></p>
@@ -234,12 +313,12 @@ Featured Image: https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405c
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4', 'https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4']
 ==============
-[2025-05-14 09:46:31] Added content for: 김나연 치어리더 (link: https://ggoorr.net/enter/17880477, content length: 498, categories: ['치어리더'])
-[2025-05-14 09:46:31] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:54] Added content for: 김나연 치어리더 (link: https://ggoorr.net/enter/17880477, content length: 498, categories: ['치어리더'])
+[2025-05-14 15:57:54] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880470,8319256)--><div class="document_17880470_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880471" height="1280" poster="/files/attach/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg" src="/files/attach/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4" width="720"></video>
 <p> </p></div></div><!--AfterDocument(17880470,8319256)--> </div>
-[2025-05-14 09:46:31] Video URLs for post https://ggoorr.net/enter/17880470/page/1: ['https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4']
-[2025-05-14 09:46:31] ==============
+[2025-05-14 15:57:54] Video URLs for post https://ggoorr.net/enter/17880470/page/1: ['https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4']
+[2025-05-14 15:57:54] ==============
 title: 월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880470/page/1
 content: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg" src="https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4" width="720"></video></p>
@@ -248,11 +327,11 @@ Featured Image: https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4']
 ==============
-[2025-05-14 09:46:31] Added content for: 월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더 (link: https://ggoorr.net/enter/17880470, content length: 249, categories: ['치어리더'])
-[2025-05-14 09:46:32] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:54] Added content for: 월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더 (link: https://ggoorr.net/enter/17880470, content length: 249, categories: ['치어리더'])
+[2025-05-14 15:57:55] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880443,8319256)--><div class="document_17880443_8319256 rhymix_content xe_content"><p><img alt="8371896487_486616_29e3870656ace6e4d93910529e7c1326.png.jpg" data-cke-saved-src="/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg" data-file-srl="17880444" editor_component="image_link" fetchpriority="high" height="832" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f2...
-[2025-05-14 09:46:32] Video URLs for post https://ggoorr.net/enter/17880443/page/1: []
-[2025-05-14 09:46:32] ==============
+[2025-05-14 15:57:55] Video URLs for post https://ggoorr.net/enter/17880443/page/1: []
+[2025-05-14 15:57:55] ==============
 title: 빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880443/page/1
 content: <p><img alt="8371896487_486616_29e3870656ace6e4d93910529e7c1326.png.jpg" height="832" src="https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg" width="630"/></p>
@@ -261,13 +340,13 @@ Featured Image: https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b78
 Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg']
 Video URLs: []
 ==============
-[2025-05-14 09:46:32] Added content for: 빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁 (link: https://ggoorr.net/enter/17880443, content length: 205, categories: ['아이돌'])
-[2025-05-14 09:46:32] Raw content HTML: <div class="slatc-content">
+[2025-05-14 15:57:55] Added content for: 빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁 (link: https://ggoorr.net/enter/17880443, content length: 205, categories: ['아이돌'])
+[2025-05-14 15:57:55] Raw content HTML: <div class="slatc-content">
 <div id="article_1"><!--BeforeDocument(17880435,8319256)--><div class="document_17880435_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880436" height="854" poster="/files/attach/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg" src="/files/attach/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4" width="530"></video>
 <p> </p>
 <p></p><video controls="" data-file-srl="17880437" height="854" poster="/files/attach/image...
-[2025-05-14 09:46:32] Video URLs for post https://ggoorr.net/enter/17880435/page/1: ['https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4', 'https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4']
-[2025-05-14 09:46:32] ==============
+[2025-05-14 15:57:55] Video URLs for post https://ggoorr.net/enter/17880435/page/1: ['https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4', 'https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4']
+[2025-05-14 15:57:55] ==============
 title: 트리플에스 김채연 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17880435/page/1
 content: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg" src="https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4" width="530"></video></p><p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/435/880/017/cf3186182dff6cba5c254fd824eebb04.jpg" src="https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4" width="506"></video></p>
@@ -276,102 +355,104 @@ Featured Image: https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c9179
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4', 'https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4']
 ==============
-[2025-05-14 09:46:32] Added content for: 트리플에스 김채연 (link: https://ggoorr.net/enter/17880435, content length: 496, categories: ['아이돌'])
-[2025-05-14 09:46:32] Raw content HTML: <div class="slatc-content">
-<div id="article_1"><!--BeforeDocument(17880426,8319256)--><div class="document_17880426_8319256 rhymix_content xe_content"><p><img alt="JJ6zb.webp" data-cke-saved-src="/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp" data-file-srl="17880427" editor_component="image_link" fetchpriority="high" height="6944" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp" width="884"/></p>
-<...
-[2025-05-14 09:46:32] Video URLs for post https://ggoorr.net/enter/17880426/page/1: []
-[2025-05-14 09:46:32] ==============
-title: 배우 김정난 취미.jpg - 방송/연예 - 꾸르
-link: https://ggoorr.net/enter/17880426/page/1
-content: <p><img alt="JJ6zb.webp" height="6944" src="https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp" width="884"/></p>
-length: 159
-Featured Image: https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp
-Image URLs: ['https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp']
-Video URLs: []
-==============
-[2025-05-14 09:46:32] Added content for: 배우 김정난 취미.jpg (link: https://ggoorr.net/enter/17880426, content length: 159, categories: ['연예'])
-[2025-05-14 09:46:33] Raw content HTML: <div class="slatc-content">
-<div id="article_1"><!--BeforeDocument(17880422,8319256)--><div class="document_17880422_8319256 rhymix_content xe_content"><p><img alt="JJ4lp.webp" data-cke-saved-src="/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp" data-file-srl="17880423" editor_component="image_link" fetchpriority="high" height="737" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp" width="855"/></p>
-<p...
-[2025-05-14 09:46:33] Video URLs for post https://ggoorr.net/enter/17880422/page/1: []
-[2025-05-14 09:46:33] ==============
-title: 대박터진 80세 신입 유튜버 .jpg - 방송/연예 - 꾸르
-link: https://ggoorr.net/enter/17880422/page/1
-content: <p><img alt="JJ4lp.webp" height="737" src="https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp" width="855"/></p>
-length: 158
-Featured Image: https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp
-Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp']
-Video URLs: []
-==============
-[2025-05-14 09:46:33] Added content for: 대박터진 80세 신입 유튜버 .jpg (link: https://ggoorr.net/enter/17880422, content length: 158, categories: ['연예'])
-[2025-05-14 09:46:33] Raw content HTML: <div class="slatc-content">
-<div id="article_1"><!--BeforeDocument(17880410,8319256)--><div class="document_17880410_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880411" height="1920" poster="/files/attach/images/124/410/880/017/470c91f4f7ec0c06c28be9bcc910832e.jpg" src="/files/attach/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4" width="1080"></video>
-<p> </p>
-<p> </p>
-<p> </p>
-<p>나쁜 모기......</p></div></div><!--AfterDocument(17880410,8319256)--> </...
-[2025-05-14 09:46:33] Video URLs for post https://ggoorr.net/enter/17880410/page/1: ['https://cdn.ggoorr.net/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4']
-[2025-05-14 09:46:33] ==============
-title: 모기에 물린 유나 - 방송/연예 - 꾸르
-link: https://ggoorr.net/enter/17880410/page/1
-content: <p><video controls="controls" height="1920" poster="https://cdn.ggoorr.net/images/124/410/880/017/470c91f4f7ec0c06c28be9bcc910832e.jpg" src="https://cdn.ggoorr.net/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4" width="1080"></video></p>
-length: 250
-Featured Image: https://cdn.ggoorr.net/images/124/410/880/017/470c91f4f7ec0c06c28be9bcc910832e.jpg
-Image URLs: []
-Video URLs: ['https://cdn.ggoorr.net/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4']
-==============
-[2025-05-14 09:46:33] Added content for: 모기에 물린 유나 (link: https://ggoorr.net/enter/17880410, content length: 250, categories: ['아이돌'])
-[2025-05-14 09:46:33] Raw content HTML: <div class="slatc-content">
-<div id="article_1"><!--BeforeDocument(17880402,8319256)--><div class="document_17880402_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17880403" height="1320" poster="/files/attach/images/124/402/880/017/1db930d09130bc61da1b3493c6be721a.jpg" src="/files/attach/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4" width="800"></video>
-<p> </p>
-<p></p><video controls="" data-file-srl="17880404" height="1320" poster="/files/attach/ima...
-[2025-05-14 09:46:33] Video URLs for post https://ggoorr.net/enter/17880402/page/1: ['https://cdn.ggoorr.net/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/ed4ef9b916450ec740f804d9e5d4f54f.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/70a37601ef61e1b7455379581ae450dc.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/f53da8139635c8d912d56b5805703a57.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/5a4a6c6d46ac3071023dfa68bfe7a8d5.mp4']
-[2025-05-14 09:46:33] ==============
-title: 유나 서경대 축제 - 방송/연예 - 꾸르
-link: https://ggoorr.net/enter/17880402/page/1
-content: <p><video controls="controls" height="1320" poster="https://cdn.ggoorr.net/images/124/402/880/017/1db930d09130bc61da1b3493c6be721a.jpg" src="https://cdn.ggoorr.net/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4" width="800"></video></p><p><video controls="controls" height="1320" poster="https://cdn.ggoorr.net/images/124/402/880/017/9f80e03b99afa20955ed4024b145a3d8.jpg" src="https://cdn.ggoorr.net/images/124/402/880/017/ed4ef9b916450ec740f804d9e5d4f54f.mp4" width="800"></video></p><p...
-length: 1245
-Featured Image: https://cdn.ggoorr.net/images/124/402/880/017/1db930d09130bc61da1b3493c6be721a.jpg
-Image URLs: []
-Video URLs: ['https://cdn.ggoorr.net/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/ed4ef9b916450ec740f804d9e5d4f54f.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/70a37601ef61e1b7455379581ae450dc.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/f53da8139635c8d912d56b5805703a57.mp4', 'https://cdn.ggoorr.net/images/124/402/880/017/5a4a6c6d46ac3071023dfa68bfe7a8d5.mp4']
-==============
-[2025-05-14 09:46:33] Added content for: 유나 서경대 축제 (link: https://ggoorr.net/enter/17880402, content length: 1245, categories: ['아이돌'])
-[2025-05-14 09:46:34] Raw content HTML: <div class="slatc-content">
-<div id="article_1"><!--BeforeDocument(17880378,8319256)--><div class="document_17880378_8319256 rhymix_content xe_content"><p><img alt="JJAmI.webp" data-cke-saved-src="/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp" data-file-srl="17880379" editor_component="image_link" fetchpriority="high" height="320" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp" width="850"/></p>
-<p...
-[2025-05-14 09:46:34] Video URLs for post https://ggoorr.net/enter/17880378/page/1: []
-[2025-05-14 09:46:34] ==============
-title: 어린이날 상 받은 qwer 마젠타 - 방송/연예 - 꾸르
-link: https://ggoorr.net/enter/17880378/page/1
-content: <p><img alt="JJAmI.webp" height="320" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp" width="850"/></p><p><img alt="JJAmQ.webp" height="486" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/107a9666a9394f87c57e29c13a810fd1.webp" width="420"/></p><p><img alt="JJAma.webp" height="333" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/fbe1ea89a9fb240dd0d68b7b7f43a4a7.webp" width="850"/></p>
-length: 474
-Featured Image: https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp
-Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp', 'https://cdn.ggoorr.net/files/attach/images/124/378/880/017/107a9666a9394f87c57e29c13a810fd1.webp', 'https://cdn.ggoorr.net/files/attach/images/124/378/880/017/fbe1ea89a9fb240dd0d68b7b7f43a4a7.webp']
-Video URLs: []
-==============
-[2025-05-14 09:46:34] Added content for: 어린이날 상 받은 qwer 마젠타 (link: https://ggoorr.net/enter/17880378, content length: 474, categories: ['아이돌'])
-[2025-05-14 09:46:34] Raw content HTML: <div class="slatc-content">
-<div id="article_1"><!--BeforeDocument(17880208,14523564)--><div class="document_17880208_14523564 rhymix_content xe_content"><p><img alt="001.webp" data-cke-saved-src="/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp" data-file-srl="17880209" editor_component="image_link" fetchpriority="high" height="1443" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp" width="1170"/></p>
-...
-[2025-05-14 09:46:34] Video URLs for post https://ggoorr.net/enter/17880208/page/1: []
-[2025-05-14 09:46:34] ==============
-title: 남편 장례식장에서 종교 대통합 이룬 선우용녀 - 방송/연예 - 꾸르
-link: https://ggoorr.net/enter/17880208/page/1
-content: <p><img alt="001.webp" height="1443" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp" width="1170"/></p><p><img alt="002.webp" height="1455" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/43c3ce3d95fe464f6c2ef3feedc18daa.webp" width="1170"/></p><p><img alt="003.webp" height="1457" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/a223a875303c563b4156afa890f2694c.webp" width="1170"/></p><p><img alt="004.webp" hei...
-length: 2844
-Featured Image: https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp
-Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/43c3ce3d95fe464f6c2ef3feedc18daa.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/a223a875303c563b4156afa890f2694c.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/3c5200a786df5fab358acf229688f118.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/5a2eff8afb1eef3f0e1a8f68e8ca6d93.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/8c49bbaf6f9b020dc9ef2b8f16297a1f.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/aa65affc99014512f3438a7612249dce.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/d4740d7cc7636c92549d14d71c05753d.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/7cf2018a2ee77f1d9b6b36c7bc06bbea.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/6cd8a2c5ebc2541bc4498e2e98748e6e.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/ba18c2e2dd404b6c03beace4b2397971.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/f7c5a2259e52e42b5c456e0e5b7a49c7.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/d44a76208a066a3ba21cd4f48704a2c0.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/ff4bda9ced606f73b321c7be0bb94cc8.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/3276b91911950ed870d7e19f02f46b00.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/53d53342747b2ec086ca50c1e57658c7.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/a5873b374776955f6223e57cf7720896.webp', 'https://cdn.ggoorr.net/files/attach/images/124/208/880/017/5fb7a903488c0da019510450a023cedc.webp']
-Video URLs: []
-==============
-[2025-05-14 09:46:34] Added content for: 남편 장례식장에서 종교 대통합 이룬 선우용녀 (link: https://ggoorr.net/enter/17880208, content length: 2844, categories: ['연예'])
-[2025-05-14 09:46:34] Total posts collected: 20
-[2025-05-14 09:46:34] Raw content for item 1: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg" src="https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4" width="480"></video></p>
-[2025-05-14 09:46:34] Featured image for item 1: https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg
-[2025-05-14 09:46:34] Categories for item 1: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 1: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4" width="480"></video>']
-[2025-05-14 09:46:34] ==============
+[2025-05-14 15:57:55] Added content for: 트리플에스 김채연 (link: https://ggoorr.net/enter/17880435, content length: 496, categories: ['아이돌'])
+[2025-05-14 15:57:55] Total posts collected: 20
+[2025-05-14 15:57:55] Raw content for item 1: <p><img alt="9d552ae3495e3862ba80cb2c12ebad3c.jpg" height="17015" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg" width="640"/></p><p><img alt="36192c95031ce4c3c280101e5dde16ba.webp" height="454" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/003d8621e68406374414ad2ca47b2bd8.webp" width="1080"/></p>
+[2025-05-14 15:57:55] Featured image for item 1: https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg
+[2025-05-14 15:57:55] Categories for item 1: ['연예']
+[2025-05-14 15:57:55] Video tags for item 1: []
+[2025-05-14 15:57:55] ==============
 Item 1:
+title: UFC 前 챔피언, "루피가 나루토 이긴다"
+link: https://ggoorr.net/enter/17881946
+guid: https://ggoorr.net/enter/17881946
+content: <p><img width="640" height="17015" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg" alt="9d552ae3495e3862ba80cb2c12ebad3c.jpg"/></p><p><img width="1080" height="454" src="https://cdn.ggoorr.net/files/attach/images/124/946/881/017/003d8621e68406374414ad2ca47b2bd8.webp" alt="36192c95031ce4c3c280101e5dde16ba.webp"/></p>
+length: 371
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/946/881/017/dae751e93edc28a2749faad36b25c75d.jpg
+categories: ['연예']
+==============
+[2025-05-14 15:57:55] Raw content for item 2: <p><img alt="3d74761c810381fa7d74bc499f15f1bb.webp" height="1350" src="https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp" width="1170"/></p>
+[2025-05-14 15:57:55] Featured image for item 2: https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp
+[2025-05-14 15:57:55] Categories for item 2: ['연예']
+[2025-05-14 15:57:55] Video tags for item 2: []
+[2025-05-14 15:57:55] ==============
+Item 2:
+title: 최다니엘 인스타근황
+link: https://ggoorr.net/enter/17881938
+guid: https://ggoorr.net/enter/17881938
+content: <p><img width="1170" height="1350" src="https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp" alt="3d74761c810381fa7d74bc499f15f1bb.webp"/></p>
+length: 187
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/938/881/017/2de440015bf9a4d97a8e4ed7ccbdf01d.webp
+categories: ['연예']
+==============
+[2025-05-14 15:57:55] Raw content for item 3: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/792/881/017/b5379be7a12780f196752930c9cee0bb.jpg" src="https://cdn.ggoorr.net/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4" width="720"></video></p>
+[2025-05-14 15:57:55] Featured image for item 3: https://cdn.ggoorr.net/images/124/792/881/017/b5379be7a12780f196752930c9cee0bb.jpg
+[2025-05-14 15:57:55] Categories for item 3: ['연예']
+[2025-05-14 15:57:55] Video tags for item 3: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4" width="720"></video>']
+[2025-05-14 15:57:55] ==============
+Item 3:
+title: 이수지: 유심칩을 빼라고, 유심칩을 빼
+link: https://ggoorr.net/enter/17881792
+guid: https://ggoorr.net/enter/17881792
+content: <p><video src="https://cdn.ggoorr.net/images/124/792/881/017/a446388cc1b556de82cc77a4a1253b22.mp4" controls="controls" width="720" height="1280"></video></p>
+length: 157
+plain_text: 
+featured_image: https://cdn.ggoorr.net/images/124/792/881/017/b5379be7a12780f196752930c9cee0bb.jpg
+categories: ['연예']
+==============
+[2025-05-14 15:57:55] Raw content for item 4: <p><img alt="d044799cc7cabe1348e2575951adfcb8.webp" height="814" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp" width="1620"/></p><p><img alt="b2bf0eac3bccc795b50ca93d78b6f61e.webp" height="821" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/d138fb5d7af736e611d7703852ca2fd1.webp" width="1620"/></p><p><img alt="14fc8c11423997e0fcb67adf60ff3ae4.webp" height="745" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017...
+[2025-05-14 15:57:55] Featured image for item 4: https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp
+[2025-05-14 15:57:55] Categories for item 4: ['연예']
+[2025-05-14 15:57:55] Video tags for item 4: []
+[2025-05-14 15:57:55] ==============
+Item 4:
+title: 내 전남편 소개 해줄까?
+link: https://ggoorr.net/enter/17881767
+guid: https://ggoorr.net/enter/17881767
+content: <p><img width="1620" height="814" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp" alt="d044799cc7cabe1348e2575951adfcb8.webp"/></p><p><img width="1620" height="821" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/d138fb5d7af736e611d7703852ca2fd1.webp" alt="b2bf0eac3bccc795b50ca93d78b6f61e.webp"/></p><p><img width="1620" height="745" src="https://cdn.ggoorr.net/files/attach/images/124/767/881/017/126ed8cd7c29894a266dbe982eeca4...
+length: 1860
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/767/881/017/7a2d7d70a174c523f0760aceb65c851c.webp
+categories: ['연예']
+==============
+[2025-05-14 15:57:55] Raw content for item 5: <p><img alt="6735b6fbe3543bc25f7a8593606aa4a8.webp" height="1815" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp" width="1080"/></p><p><img alt="4d7f7e41cb77270c5a6d5b7fcb401df5.jpeg" height="960" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/5edf66332243e6f112c1b38bf445c874.jpeg" width="768"/></p><p><img alt="4474ada63cee6f37e7e5ab8b8064c239.webp" height="960" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017...
+[2025-05-14 15:57:55] Featured image for item 5: https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp
+[2025-05-14 15:57:55] Categories for item 5: ['연예']
+[2025-05-14 15:57:55] Video tags for item 5: []
+[2025-05-14 15:57:55] ==============
+Item 5:
+title: 당당하게 성형 고백한 신지
+link: https://ggoorr.net/enter/17881718
+guid: https://ggoorr.net/enter/17881718
+content: <p><img width="1080" height="1815" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp" alt="6735b6fbe3543bc25f7a8593606aa4a8.webp"/></p><p><img width="768" height="960" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/5edf66332243e6f112c1b38bf445c874.jpeg" alt="4d7f7e41cb77270c5a6d5b7fcb401df5.jpeg"/></p><p><img width="768" height="960" src="https://cdn.ggoorr.net/files/attach/images/124/718/881/017/37df55d36edafaac1f60b5f210b3356...
+length: 742
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/718/881/017/54ee528ab14e1b304132269b9c02053f.webp
+categories: ['연예']
+==============
+[2025-05-14 15:57:55] Raw content for item 6: <p><img alt="2f9876968cf8af78f4e8a0d28cbfb655.jpeg" height="6576" src="https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg" width="900"/></p>
+[2025-05-14 15:57:55] Featured image for item 6: https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg
+[2025-05-14 15:57:55] Categories for item 6: ['연예']
+[2025-05-14 15:57:55] Video tags for item 6: []
+[2025-05-14 15:57:55] ==============
+Item 6:
+title: 한국인이지만 자기 군대 안 간게 문제 없다는 교수
+link: https://ggoorr.net/enter/17881683
+guid: https://ggoorr.net/enter/17881683
+content: <p><img width="900" height="6576" src="https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg" alt="2f9876968cf8af78f4e8a0d28cbfb655.jpeg"/></p>
+length: 186
+plain_text: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/683/881/017/2cf27e1a7f2c43e9425f42c3430d03a2.jpeg
+categories: ['연예']
+==============
+[2025-05-14 15:57:55] Raw content for item 7: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg" src="https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4" width="480"></video></p>
+[2025-05-14 15:57:55] Featured image for item 7: https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg
+[2025-05-14 15:57:55] Categories for item 7: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 7: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/825/880/017/042b4d694593921aa840c197ef1ebddc.mp4" width="480"></video>']
+[2025-05-14 15:57:55] ==============
+Item 7:
 title: 키스오브라이프 나띠 살짝 비치는 회색티 바운스 성균관대 축제
 link: https://ggoorr.net/enter/17880825
 guid: https://ggoorr.net/enter/17880825
@@ -381,12 +462,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/825/880/017/9e65039f065030221eed0c18ba60a126.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 2: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg" src="https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4" width="438"></video></p>
-[2025-05-14 09:46:34] Featured image for item 2: https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg
-[2025-05-14 09:46:34] Categories for item 2: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 2: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4" width="438"></video>']
-[2025-05-14 09:46:34] ==============
-Item 2:
+[2025-05-14 15:57:55] Raw content for item 8: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg" src="https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4" width="438"></video></p>
+[2025-05-14 15:57:55] Featured image for item 8: https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg
+[2025-05-14 15:57:55] Categories for item 8: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 8: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/822/880/017/7ca362d6e8bfa8d2f80f90c214f107b3.mp4" width="438"></video>']
+[2025-05-14 15:57:55] ==============
+Item 8:
 title: 허리 돌리는 트와이스 미나
 link: https://ggoorr.net/enter/17880822
 guid: https://ggoorr.net/enter/17880822
@@ -396,12 +477,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/822/880/017/648d5ed9c1d336b2d13fcd11e79a5dd6.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 3: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg" src="https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4" width="480"></video></p>
-[2025-05-14 09:46:34] Featured image for item 3: https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg
-[2025-05-14 09:46:34] Categories for item 3: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 3: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4" width="480"></video>']
-[2025-05-14 09:46:34] ==============
-Item 3:
+[2025-05-14 15:57:55] Raw content for item 9: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg" src="https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4" width="480"></video></p>
+[2025-05-14 15:57:55] Featured image for item 9: https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg
+[2025-05-14 15:57:55] Categories for item 9: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 9: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/816/880/017/b454793ff3a83a3ff941105953e444b4.mp4" width="480"></video>']
+[2025-05-14 15:57:55] ==============
+Item 9:
 title: 봉긋한 나이키 카라티 집중하게 만드는 꼭지 포인트 다비치 강민경
 link: https://ggoorr.net/enter/17880816
 guid: https://ggoorr.net/enter/17880816
@@ -411,12 +492,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/816/880/017/17fd0aae2f1bf93aea62bcf3f5478309.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 4: <p><img alt="001.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg" width="940"/></p><p><img alt="002.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/bd47de2e70b833fc2e23a4471b9f11a2.jpg" width="940"/></p><p><img alt="003.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/f8dc9a6e1b0f54dbfc3278f89c4d468b.jpg" width="940"/></p><p><img alt="004.png.jpg" ...
-[2025-05-14 09:46:34] Featured image for item 4: https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg
-[2025-05-14 09:46:34] Categories for item 4: ['연예']
-[2025-05-14 09:46:34] Video tags for item 4: []
-[2025-05-14 09:46:34] ==============
-Item 4:
+[2025-05-14 15:57:55] Raw content for item 10: <p><img alt="001.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg" width="940"/></p><p><img alt="002.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/bd47de2e70b833fc2e23a4471b9f11a2.jpg" width="940"/></p><p><img alt="003.png.jpg" height="526" src="https://cdn.ggoorr.net/files/attach/images/124/794/880/017/f8dc9a6e1b0f54dbfc3278f89c4d468b.jpg" width="940"/></p><p><img alt="004.png.jpg" ...
+[2025-05-14 15:57:55] Featured image for item 10: https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg
+[2025-05-14 15:57:55] Categories for item 10: ['연예']
+[2025-05-14 15:57:55] Video tags for item 10: []
+[2025-05-14 15:57:55] ==============
+Item 10:
 title: 빠니보틀 : 덱스야 긴장해라
 link: https://ggoorr.net/enter/17880794
 guid: https://ggoorr.net/enter/17880794
@@ -426,12 +507,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/794/880/017/1bdc50005f372a7dc7a3ada92d561593.jpg
 categories: ['연예']
 ==============
-[2025-05-14 09:46:34] Raw content for item 5: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg" src="https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4" width="480"></video></p>
-[2025-05-14 09:46:34] Featured image for item 5: https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg
-[2025-05-14 09:46:34] Categories for item 5: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 5: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4" width="480"></video>']
-[2025-05-14 09:46:34] ==============
-Item 5:
+[2025-05-14 15:57:55] Raw content for item 11: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg" src="https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4" width="480"></video></p>
+[2025-05-14 15:57:55] Featured image for item 11: https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg
+[2025-05-14 15:57:55] Categories for item 11: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 11: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/785/880/017/9d5ed44a703113f654c5dd8928d8dbdf.mp4" width="480"></video>']
+[2025-05-14 15:57:55] ==============
+Item 11:
 title: 빙글 도는 메이딘 세리나 엉밑살
 link: https://ggoorr.net/enter/17880785
 guid: https://ggoorr.net/enter/17880785
@@ -441,12 +522,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/785/880/017/cbcd2d50225e21f191e9aded4b1f608c.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 6: <p><img alt="001.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg" width="1024"/></p><p><img alt="002.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/74e7f9212897a5e6bb87424849c65989.jpg" width="1024"/></p><p><img alt="003.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/b772e712141e4b38dcf8c3321597b37e.jpg" width="1024"/></p><p><img alt="004.jpg" height="15...
-[2025-05-14 09:46:34] Featured image for item 6: https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg
-[2025-05-14 09:46:34] Categories for item 6: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 6: []
-[2025-05-14 09:46:34] ==============
-Item 6:
+[2025-05-14 15:57:55] Raw content for item 12: <p><img alt="001.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg" width="1024"/></p><p><img alt="002.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/74e7f9212897a5e6bb87424849c65989.jpg" width="1024"/></p><p><img alt="003.jpg" height="1536" src="https://cdn.ggoorr.net/files/attach/images/124/739/880/017/b772e712141e4b38dcf8c3321597b37e.jpg" width="1024"/></p><p><img alt="004.jpg" height="15...
+[2025-05-14 15:57:55] Featured image for item 12: https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg
+[2025-05-14 15:57:55] Categories for item 12: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 12: []
+[2025-05-14 15:57:55] ==============
+Item 12:
 title: 새하얀 에스파 카리나
 link: https://ggoorr.net/enter/17880739
 guid: https://ggoorr.net/enter/17880739
@@ -456,12 +537,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/739/880/017/18bbace9eb548c78178c8daec3e891db.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 7: <p><img alt="3555410916_qPNDWoyV_rCaUz0jiEO5H4QAv.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg" width="854"/></p><p><img alt="3555410916_ey79gUKA_oL4XbImVQROkclsp.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/77f67eacdc96fb206d7c3d94456b5245.jpg" width="854"/></p><p><img alt="3555410916_KIuaXCeF_l9HQO1ZxSUdD5nMm.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507...
-[2025-05-14 09:46:34] Featured image for item 7: https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg
-[2025-05-14 09:46:34] Categories for item 7: ['아나운서']
-[2025-05-14 09:46:34] Video tags for item 7: []
-[2025-05-14 09:46:34] ==============
-Item 7:
+[2025-05-14 15:57:55] Raw content for item 13: <p><img alt="3555410916_qPNDWoyV_rCaUz0jiEO5H4QAv.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg" width="854"/></p><p><img alt="3555410916_ey79gUKA_oL4XbImVQROkclsp.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507/880/017/77f67eacdc96fb206d7c3d94456b5245.jpg" width="854"/></p><p><img alt="3555410916_KIuaXCeF_l9HQO1ZxSUdD5nMm.jpg" height="1067" src="https://cdn.ggoorr.net/files/attach/images/124/507...
+[2025-05-14 15:57:55] Featured image for item 13: https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg
+[2025-05-14 15:57:55] Categories for item 13: ['아나운서']
+[2025-05-14 15:57:55] Video tags for item 13: []
+[2025-05-14 15:57:55] ==============
+Item 13:
 title: 김민지 아나운서
 link: https://ggoorr.net/enter/17880507
 guid: https://ggoorr.net/enter/17880507
@@ -471,12 +552,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/507/880/017/b2b3f5c318f86ad94b0d66acf3a0e256.jpg
 categories: ['아나운서']
 ==============
-[2025-05-14 09:46:34] Raw content for item 8: <p><video controls="controls" height="556" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" width="322"></video></p><p><video controls="controls" height="532" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4" width="638"></video></p><p><video controls="controls" height="540" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4" width="648"></video></p><p...
-[2025-05-14 09:46:34] Featured image for item 8: 
-[2025-05-14 09:46:34] Categories for item 8: ['아나운서']
-[2025-05-14 09:46:34] Video tags for item 8: ['<video controls="controls" height="556" src="https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" width="322"></video>', '<video controls="controls" height="532" src="https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4" width="638"></video>', '<video controls="controls" height="540" src="https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4" width="648"></video>', '<video controls="controls" height="552" src="https://cdn.ggoorr.net/images/124/497/880/017/6bb459c4c14d7a0157f2cc945745d577.mp4" width="660"></video>', '<video controls="controls" height="616" src="https://cdn.ggoorr.net/images/124/497/880/017/b7b176331ecb5cef15eaab0a378272ec.mp4" width="316"></video>', '<video controls="controls" height="480" src="https://cdn.ggoorr.net/images/124/497/880/017/747b56359a60ea4e2d27f2b4ea5bc41b.mp4" width="638"></video>']
-[2025-05-14 09:46:34] ==============
-Item 8:
+[2025-05-14 15:57:55] Raw content for item 14: <p><video controls="controls" height="556" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" width="322"></video></p><p><video controls="controls" height="532" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4" width="638"></video></p><p><video controls="controls" height="540" poster="" src="https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4" width="648"></video></p><p...
+[2025-05-14 15:57:55] Featured image for item 14: 
+[2025-05-14 15:57:55] Categories for item 14: ['아나운서']
+[2025-05-14 15:57:55] Video tags for item 14: ['<video controls="controls" height="556" src="https://cdn.ggoorr.net/images/124/497/880/017/39228b2f4583abdd9a8d4419db39322a.mp4" width="322"></video>', '<video controls="controls" height="532" src="https://cdn.ggoorr.net/images/124/497/880/017/eb2596221923226db516b3f6bebb3ea0.mp4" width="638"></video>', '<video controls="controls" height="540" src="https://cdn.ggoorr.net/images/124/497/880/017/9beddef92d7d1282e40a9364294c483b.mp4" width="648"></video>', '<video controls="controls" height="552" src="https://cdn.ggoorr.net/images/124/497/880/017/6bb459c4c14d7a0157f2cc945745d577.mp4" width="660"></video>', '<video controls="controls" height="616" src="https://cdn.ggoorr.net/images/124/497/880/017/b7b176331ecb5cef15eaab0a378272ec.mp4" width="316"></video>', '<video controls="controls" height="480" src="https://cdn.ggoorr.net/images/124/497/880/017/747b56359a60ea4e2d27f2b4ea5bc41b.mp4" width="638"></video>']
+[2025-05-14 15:57:55] ==============
+Item 14:
 title: 김윤희 아나운서
 link: https://ggoorr.net/enter/17880497
 guid: https://ggoorr.net/enter/17880497
@@ -486,12 +567,12 @@ plain_text:
 featured_image: 
 categories: ['아나운서']
 ==============
-[2025-05-14 09:46:34] Raw content for item 9: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg" src="https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4" width="720"></video></p><p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/487/880/017/d9beca1457f2b9ee75443eb6adbe70a2.jpg" src="https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4" width="720"></video></p>
-[2025-05-14 09:46:34] Featured image for item 9: https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg
-[2025-05-14 09:46:34] Categories for item 9: ['치어리더']
-[2025-05-14 09:46:34] Video tags for item 9: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4" width="720"></video>', '<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4" width="720"></video>']
-[2025-05-14 09:46:34] ==============
-Item 9:
+[2025-05-14 15:57:55] Raw content for item 15: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg" src="https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4" width="720"></video></p><p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/487/880/017/d9beca1457f2b9ee75443eb6adbe70a2.jpg" src="https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4" width="720"></video></p>
+[2025-05-14 15:57:55] Featured image for item 15: https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg
+[2025-05-14 15:57:55] Categories for item 15: ['치어리더']
+[2025-05-14 15:57:55] Video tags for item 15: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/487/880/017/a35ebc60cac2a2c7ecea76b6145799dc.mp4" width="720"></video>', '<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/487/880/017/ee356907ea197844db4db30ed1f2d51d.mp4" width="720"></video>']
+[2025-05-14 15:57:55] ==============
+Item 15:
 title: 이주희 치어리더
 link: https://ggoorr.net/enter/17880487
 guid: https://ggoorr.net/enter/17880487
@@ -501,12 +582,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/487/880/017/0891e6324598ebc50c550abe2409f782.jpg
 categories: ['치어리더']
 ==============
-[2025-05-14 09:46:34] Raw content for item 10: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg" src="https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4" width="720"></video></p>
-[2025-05-14 09:46:34] Featured image for item 10: https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg
-[2025-05-14 09:46:34] Categories for item 10: ['치어리더']
-[2025-05-14 09:46:34] Video tags for item 10: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4" width="720"></video>']
-[2025-05-14 09:46:34] ==============
-Item 10:
+[2025-05-14 15:57:55] Raw content for item 16: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg" src="https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4" width="720"></video></p>
+[2025-05-14 15:57:55] Featured image for item 16: https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg
+[2025-05-14 15:57:55] Categories for item 16: ['치어리더']
+[2025-05-14 15:57:55] Video tags for item 16: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/482/880/017/2fe4268968e15d372cbb49faff1d776b.mp4" width="720"></video>']
+[2025-05-14 15:57:55] ==============
+Item 16:
 title: 김정원 치어리더
 link: https://ggoorr.net/enter/17880482
 guid: https://ggoorr.net/enter/17880482
@@ -516,12 +597,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/482/880/017/f5a7f2817c10adcbc486dae556a790f1.jpg
 categories: ['치어리더']
 ==============
-[2025-05-14 09:46:34] Raw content for item 11: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg" src="https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4" width="720"></video></p><p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/477/880/017/9237d2f9ce89b27ea68c0df549d4e61d.jpg" src="https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4" width="720"></video></p>
-[2025-05-14 09:46:34] Featured image for item 11: https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg
-[2025-05-14 09:46:34] Categories for item 11: ['치어리더']
-[2025-05-14 09:46:34] Video tags for item 11: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4" width="720"></video>', '<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4" width="720"></video>']
-[2025-05-14 09:46:34] ==============
-Item 11:
+[2025-05-14 15:57:55] Raw content for item 17: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg" src="https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4" width="720"></video></p><p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/477/880/017/9237d2f9ce89b27ea68c0df549d4e61d.jpg" src="https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4" width="720"></video></p>
+[2025-05-14 15:57:55] Featured image for item 17: https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg
+[2025-05-14 15:57:55] Categories for item 17: ['치어리더']
+[2025-05-14 15:57:55] Video tags for item 17: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/477/880/017/146d663e903b65e7849de36544ea8500.mp4" width="720"></video>', '<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/477/880/017/0fe1f3e09a6dc39cf628c1d556fbf63b.mp4" width="720"></video>']
+[2025-05-14 15:57:55] ==============
+Item 17:
 title: 김나연 치어리더
 link: https://ggoorr.net/enter/17880477
 guid: https://ggoorr.net/enter/17880477
@@ -531,12 +612,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/477/880/017/5739a4f83719c9405cc93a2d659880c7.jpg
 categories: ['치어리더']
 ==============
-[2025-05-14 09:46:34] Raw content for item 12: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg" src="https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4" width="720"></video></p>
-[2025-05-14 09:46:34] Featured image for item 12: https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg
-[2025-05-14 09:46:34] Categories for item 12: ['치어리더']
-[2025-05-14 09:46:34] Video tags for item 12: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4" width="720"></video>']
-[2025-05-14 09:46:34] ==============
-Item 12:
+[2025-05-14 15:57:55] Raw content for item 18: <p><video controls="controls" height="1280" poster="https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg" src="https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4" width="720"></video></p>
+[2025-05-14 15:57:55] Featured image for item 18: https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg
+[2025-05-14 15:57:55] Categories for item 18: ['치어리더']
+[2025-05-14 15:57:55] Video tags for item 18: ['<video controls="controls" height="1280" src="https://cdn.ggoorr.net/images/124/470/880/017/0131755d7a4cc3e4dc2aa5c7f86a0546.mp4" width="720"></video>']
+[2025-05-14 15:57:55] ==============
+Item 18:
 title: 월요병 퇴치에 나선 대만 모바일 홍보대사 이주은 치어리더
 link: https://ggoorr.net/enter/17880470
 guid: https://ggoorr.net/enter/17880470
@@ -546,12 +627,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/470/880/017/2eae1619123cfb4c5d5fe926b0c3f2be.jpg
 categories: ['치어리더']
 ==============
-[2025-05-14 09:46:34] Raw content for item 13: <p><img alt="8371896487_486616_29e3870656ace6e4d93910529e7c1326.png.jpg" height="832" src="https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg" width="630"/></p>
-[2025-05-14 09:46:34] Featured image for item 13: https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg
-[2025-05-14 09:46:34] Categories for item 13: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 13: []
-[2025-05-14 09:46:34] ==============
-Item 13:
+[2025-05-14 15:57:55] Raw content for item 19: <p><img alt="8371896487_486616_29e3870656ace6e4d93910529e7c1326.png.jpg" height="832" src="https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg" width="630"/></p>
+[2025-05-14 15:57:55] Featured image for item 19: https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg
+[2025-05-14 15:57:55] Categories for item 19: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 19: []
+[2025-05-14 15:57:55] ==============
+Item 19:
 title: 빌리 츠키, 오해원 이어 '워크돌' 시즌4 MC 발탁
 link: https://ggoorr.net/enter/17880443
 guid: https://ggoorr.net/enter/17880443
@@ -561,12 +642,12 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/443/880/017/62b784b309f251a8acb08d75bfa9e05e.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 14: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg" src="https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4" width="530"></video></p><p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/435/880/017/cf3186182dff6cba5c254fd824eebb04.jpg" src="https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4" width="506"></video></p>
-[2025-05-14 09:46:34] Featured image for item 14: https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg
-[2025-05-14 09:46:34] Categories for item 14: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 14: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4" width="530"></video>', '<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4" width="506"></video>']
-[2025-05-14 09:46:34] ==============
-Item 14:
+[2025-05-14 15:57:55] Raw content for item 20: <p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg" src="https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4" width="530"></video></p><p><video controls="controls" height="854" poster="https://cdn.ggoorr.net/images/124/435/880/017/cf3186182dff6cba5c254fd824eebb04.jpg" src="https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4" width="506"></video></p>
+[2025-05-14 15:57:55] Featured image for item 20: https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg
+[2025-05-14 15:57:55] Categories for item 20: ['아이돌']
+[2025-05-14 15:57:55] Video tags for item 20: ['<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/435/880/017/d61cafe955fc111c7215ebf95a928a1a.mp4" width="530"></video>', '<video controls="controls" height="854" src="https://cdn.ggoorr.net/images/124/435/880/017/a456aa5b6a82f49dac97c8d722f866c1.mp4" width="506"></video>']
+[2025-05-14 15:57:55] ==============
+Item 20:
 title: 트리플에스 김채연
 link: https://ggoorr.net/enter/17880435
 guid: https://ggoorr.net/enter/17880435
@@ -576,94 +657,4 @@ plain_text:
 featured_image: https://cdn.ggoorr.net/images/124/435/880/017/9e039454618f5c917934501fb8a7e483.jpg
 categories: ['아이돌']
 ==============
-[2025-05-14 09:46:34] Raw content for item 15: <p><img alt="JJ6zb.webp" height="6944" src="https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp" width="884"/></p>
-[2025-05-14 09:46:34] Featured image for item 15: https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp
-[2025-05-14 09:46:34] Categories for item 15: ['연예']
-[2025-05-14 09:46:34] Video tags for item 15: []
-[2025-05-14 09:46:34] ==============
-Item 15:
-title: 배우 김정난 취미.jpg
-link: https://ggoorr.net/enter/17880426
-guid: https://ggoorr.net/enter/17880426
-content: <p><img width="884" height="6944" src="https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp" alt="JJ6zb.webp"/></p>
-length: 159
-plain_text: 
-featured_image: https://cdn.ggoorr.net/files/attach/images/134/426/880/017/bd2af763e34039f49f5f17dbed72bc06.webp
-categories: ['연예']
-==============
-[2025-05-14 09:46:34] Raw content for item 16: <p><img alt="JJ4lp.webp" height="737" src="https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp" width="855"/></p>
-[2025-05-14 09:46:34] Featured image for item 16: https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp
-[2025-05-14 09:46:34] Categories for item 16: ['연예']
-[2025-05-14 09:46:34] Video tags for item 16: []
-[2025-05-14 09:46:34] ==============
-Item 16:
-title: 대박터진 80세 신입 유튜버 .jpg
-link: https://ggoorr.net/enter/17880422
-guid: https://ggoorr.net/enter/17880422
-content: <p><img width="855" height="737" src="https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp" alt="JJ4lp.webp"/></p>
-length: 158
-plain_text: 
-featured_image: https://cdn.ggoorr.net/files/attach/images/124/422/880/017/084ce527654af7562d77ecdd236dcb75.webp
-categories: ['연예']
-==============
-[2025-05-14 09:46:34] Raw content for item 17: <p><video controls="controls" height="1920" poster="https://cdn.ggoorr.net/images/124/410/880/017/470c91f4f7ec0c06c28be9bcc910832e.jpg" src="https://cdn.ggoorr.net/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4" width="1080"></video></p>
-[2025-05-14 09:46:34] Featured image for item 17: https://cdn.ggoorr.net/images/124/410/880/017/470c91f4f7ec0c06c28be9bcc910832e.jpg
-[2025-05-14 09:46:34] Categories for item 17: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 17: ['<video controls="controls" height="1920" src="https://cdn.ggoorr.net/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4" width="1080"></video>']
-[2025-05-14 09:46:34] ==============
-Item 17:
-title: 모기에 물린 유나
-link: https://ggoorr.net/enter/17880410
-guid: https://ggoorr.net/enter/17880410
-content: <p><video src="https://cdn.ggoorr.net/images/124/410/880/017/7fb99be63e3af1a0b75beb8bf42f78db.mp4" controls="controls" width="1080" height="1920"></video></p>
-length: 158
-plain_text: 
-featured_image: https://cdn.ggoorr.net/images/124/410/880/017/470c91f4f7ec0c06c28be9bcc910832e.jpg
-categories: ['아이돌']
-==============
-[2025-05-14 09:46:34] Raw content for item 18: <p><video controls="controls" height="1320" poster="https://cdn.ggoorr.net/images/124/402/880/017/1db930d09130bc61da1b3493c6be721a.jpg" src="https://cdn.ggoorr.net/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4" width="800"></video></p><p><video controls="controls" height="1320" poster="https://cdn.ggoorr.net/images/124/402/880/017/9f80e03b99afa20955ed4024b145a3d8.jpg" src="https://cdn.ggoorr.net/images/124/402/880/017/ed4ef9b916450ec740f804d9e5d4f54f.mp4" width="800"></video></p><p...
-[2025-05-14 09:46:34] Featured image for item 18: https://cdn.ggoorr.net/images/124/402/880/017/1db930d09130bc61da1b3493c6be721a.jpg
-[2025-05-14 09:46:34] Categories for item 18: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 18: ['<video controls="controls" height="1320" src="https://cdn.ggoorr.net/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4" width="800"></video>', '<video controls="controls" height="1320" src="https://cdn.ggoorr.net/images/124/402/880/017/ed4ef9b916450ec740f804d9e5d4f54f.mp4" width="800"></video>', '<video controls="controls" height="1320" src="https://cdn.ggoorr.net/images/124/402/880/017/70a37601ef61e1b7455379581ae450dc.mp4" width="800"></video>', '<video controls="controls" height="1320" src="https://cdn.ggoorr.net/images/124/402/880/017/f53da8139635c8d912d56b5805703a57.mp4" width="800"></video>', '<video controls="controls" height="1320" src="https://cdn.ggoorr.net/images/124/402/880/017/5a4a6c6d46ac3071023dfa68bfe7a8d5.mp4" width="800"></video>']
-[2025-05-14 09:46:34] ==============
-Item 18:
-title: 유나 서경대 축제
-link: https://ggoorr.net/enter/17880402
-guid: https://ggoorr.net/enter/17880402
-content: <p><video src="https://cdn.ggoorr.net/images/124/402/880/017/2f607710add12c6632a53e4973c57812.mp4" controls="controls" width="800" height="1320"></video></p><p><video src="https://cdn.ggoorr.net/images/124/402/880/017/ed4ef9b916450ec740f804d9e5d4f54f.mp4" controls="controls" width="800" height="1320"></video></p><p><video src="https://cdn.ggoorr.net/images/124/402/880/017/70a37601ef61e1b7455379581ae450dc.mp4" controls="controls" width="800" height="1320"></video></p><p><video src="https://cdn.gg...
-length: 785
-plain_text: 
-featured_image: https://cdn.ggoorr.net/images/124/402/880/017/1db930d09130bc61da1b3493c6be721a.jpg
-categories: ['아이돌']
-==============
-[2025-05-14 09:46:34] Raw content for item 19: <p><img alt="JJAmI.webp" height="320" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp" width="850"/></p><p><img alt="JJAmQ.webp" height="486" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/107a9666a9394f87c57e29c13a810fd1.webp" width="420"/></p><p><img alt="JJAma.webp" height="333" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/fbe1ea89a9fb240dd0d68b7b7f43a4a7.webp" width="850"/></p>
-[2025-05-14 09:46:34] Featured image for item 19: https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp
-[2025-05-14 09:46:34] Categories for item 19: ['아이돌']
-[2025-05-14 09:46:34] Video tags for item 19: []
-[2025-05-14 09:46:34] ==============
-Item 19:
-title: 어린이날 상 받은 qwer 마젠타
-link: https://ggoorr.net/enter/17880378
-guid: https://ggoorr.net/enter/17880378
-content: <p><img width="850" height="320" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp" alt="JJAmI.webp"/></p><p><img width="420" height="486" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/107a9666a9394f87c57e29c13a810fd1.webp" alt="JJAmQ.webp"/></p><p><img width="850" height="333" src="https://cdn.ggoorr.net/files/attach/images/124/378/880/017/fbe1ea89a9fb240dd0d68b7b7f43a4a7.webp" alt="JJAma.webp"/></p>
-length: 474
-plain_text: 
-featured_image: https://cdn.ggoorr.net/files/attach/images/124/378/880/017/a0c938ff713eca61c2535beeebf21116.webp
-categories: ['아이돌']
-==============
-[2025-05-14 09:46:34] Raw content for item 20: <p><img alt="001.webp" height="1443" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp" width="1170"/></p><p><img alt="002.webp" height="1455" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/43c3ce3d95fe464f6c2ef3feedc18daa.webp" width="1170"/></p><p><img alt="003.webp" height="1457" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/a223a875303c563b4156afa890f2694c.webp" width="1170"/></p><p><img alt="004.webp" hei...
-[2025-05-14 09:46:34] Featured image for item 20: https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp
-[2025-05-14 09:46:34] Categories for item 20: ['연예']
-[2025-05-14 09:46:34] Video tags for item 20: []
-[2025-05-14 09:46:34] ==============
-Item 20:
-title: 남편 장례식장에서 종교 대통합 이룬 선우용녀
-link: https://ggoorr.net/enter/17880208
-guid: https://ggoorr.net/enter/17880208
-content: <p><img width="1170" height="1443" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp" alt="001.webp"/></p><p><img width="1170" height="1455" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/43c3ce3d95fe464f6c2ef3feedc18daa.webp" alt="002.webp"/></p><p><img width="1170" height="1457" src="https://cdn.ggoorr.net/files/attach/images/124/208/880/017/a223a875303c563b4156afa890f2694c.webp" alt="003.webp"/></p><p><img width="1170" heigh...
-length: 2844
-plain_text: 
-featured_image: https://cdn.ggoorr.net/files/attach/images/124/208/880/017/fcdf4c48171f1dea9f4293750b9b1f40.webp
-categories: ['연예']
-==============
-[2025-05-14 09:46:34] RSS feed written to feed.xml, total items: 20
+[2025-05-14 15:57:55] RSS feed written to E:\Korea\RSS Feed\gorenter\feed.xml, total items: 20

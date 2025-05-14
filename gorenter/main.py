@@ -3,8 +3,11 @@ from get_full_content import get_full_content
 from feed_generation import generate_rss_feed
 from log import log_step
 
+
+
 BASE_URL = "https://ggoorr.net"
 TARGET_URL = BASE_URL + "/enter/page/{page_number}"
+
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
