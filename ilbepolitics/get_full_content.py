@@ -20,6 +20,7 @@ def get_full_content(post_url, headers):
 
         log_step(f"Raw content HTML: {str(content_root)[:500]}{'...' if len(str(content_root)) > 500 else ''}")
 
+        # Remove HTML comments
         for comment in content_root.find_all(string=lambda text: isinstance(text, Comment)):
             comment.extract()
 
@@ -29,18 +30,18 @@ def get_full_content(post_url, headers):
 
         for tag in content_root.find_all(['p', 'img', 'video']):
             if tag.name == 'p':
-                # If <p> has text, keep it
                 text = tag.get_text(strip=True)
                 if text:
                     elements.append(f'<p>{text}</p>')
-                # Also, check if <img> exists inside <p>
-                if tag.find('img'):
-                    img_tag = tag.find('img')
+
+                # Handle <img> inside <p>
+                img_tag = tag.find('img')
+                if img_tag:
                     src = img_tag.get('src', '')
                     if 'transparent.gif' in src:
-                        continue  # skip placeholder
+                        continue
                     if not src.startswith('http'):
-                        src = 'https://ncache.ilbe.com' + src.replace('/files/attach', '')
+                        src = 'https://ncache.ilbe.com/files/attach/images' + src if src.startswith('/images') else 'https://ncache.ilbe.com' + src
                     img_tag.attrs = {
                         'src': src,
                         'alt': img_tag.get('alt', ''),
@@ -55,7 +56,7 @@ def get_full_content(post_url, headers):
                 if 'transparent.gif' in src:
                     continue
                 if not src.startswith('http'):
-                    src = 'https://ncache.ilbe.com' + src.replace('/files/attach', '')
+                    src = 'https://ncache.ilbe.com/files/attach/images' + src if src.startswith('/images') else 'https://ncache.ilbe.com' + src
                 tag.attrs = {
                     'src': src,
                     'alt': tag.get('alt', ''),
@@ -72,9 +73,9 @@ def get_full_content(post_url, headers):
                     log_step(f"Skipping video tag with no src: {str(tag)}")
                     continue
                 if not src.startswith('http'):
-                    src = 'https://ncache.ilbe.com' + src.replace('/files/attach', '')
+                    src = 'https://ncache.ilbe.com/files/attach/images' + src if src.startswith('/images') else 'https://ncache.ilbe.com' + src
                 if poster and not poster.startswith('http'):
-                    poster = 'https://ncache.ilbe.com' + poster.replace('/files/attach', '')
+                    poster = 'https://ncache.ilbe.com/files/attach/images' + poster if poster.startswith('/images') else 'https://ncache.ilbe.com' + poster
                 tag.attrs = {
                     'src': src,
                     'poster': poster,
@@ -96,7 +97,7 @@ def get_full_content(post_url, headers):
         if not featured_image and content_root.find('video'):
             poster = content_root.find('video').get('poster', '')
             if poster and not poster.startswith('http'):
-                featured_image = 'https://ncache.ilbe.com' + poster.replace('/files/attach', '')
+                featured_image = 'https://ncache.ilbe.com/files/attach/images' + poster if poster.startswith('/images') else 'https://ncache.ilbe.com' + poster
             else:
                 featured_image = poster
 

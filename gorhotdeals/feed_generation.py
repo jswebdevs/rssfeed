@@ -5,6 +5,11 @@ from bs4 import BeautifulSoup
 import re
 import mimetypes
 
+import os
+# Ensure feed.xml is written in the current folder (where this script is)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FEED_FILE = os.path.join(BASE_DIR, "feed.xml")
+
 def generate_rss_feed(items, output_file="feed.xml"):
     # Create RSS root with dc, content, and wp namespaces
     rss = etree.Element("rss", version="2.0", nsmap={

@@ -5,12 +5,12 @@ from pathlib import Path
 # List of project folders
 folders = [
     "gorenter",
-    # "gorhumour",
-    # "gornews",
-    # "gorpolitics",
-    # "gorrelation",
-    # "ilbepolitics",
-    # "gorhotdeals"
+    "gorhumour",
+    "gornews",
+    "gorpolitics",
+    "gorrelation",
+    "ilbepolitics",
+    "gorhotdeals"
 ]
 
 def clear_logs():
