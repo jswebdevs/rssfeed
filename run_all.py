@@ -1,6 +1,7 @@
 import subprocess
 import os
 from pathlib import Path
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # List of project folders
 folders = [
@@ -20,14 +21,23 @@ def clear_logs():
             log_file.unlink()
             print(f"Deleted {log_file}")
 
-def run_all_main_scripts():
-    for folder in folders:
-        main_script = Path(folder) / "main.py"
-        if main_script.exists():
-            print(f"Running {main_script}")
+def run_script(folder):
+    main_script = Path(folder) / "main.py"
+    if main_script.exists():
+        print(f"Running {main_script}")
+        try:
             subprocess.run(["python", str(main_script)], check=True)
-        else:
-            print(f"{main_script} not found.")
+            return f"{folder}: Completed"
+        except subprocess.CalledProcessError as e:
+            return f"{folder}: Failed - {e}"
+    else:
+        return f"{folder}: main.py not found"
+
+def run_all_main_scripts_concurrently():
+    with ProcessPoolExecutor() as executor:
+        futures = {executor.submit(run_script, folder): folder for folder in folders}
+        for future in as_completed(futures):
+            print(future.result())
 
 def git_commit_and_push():
     print("Adding files to git...")
@@ -39,5 +49,5 @@ def git_commit_and_push():
 
 if __name__ == "__main__":
     clear_logs()
-    run_all_main_scripts()
+    run_all_main_scripts_concurrently()
     git_commit_and_push()
