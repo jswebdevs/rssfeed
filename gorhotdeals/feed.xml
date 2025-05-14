@@ -4,7 +4,7 @@
     <title>Ggoorr RSS Feed</title>
     <link>https://ggoorr.net/</link>
     <description>RSS feed generated from ggoorr.net</description>
-    <lastBuildDate>Wed, 14 May 2025 11:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 19:07:22 GMT</lastBuildDate>
     <item>
       <title>[에픽게임즈] 터치 타입 테일, 데드타임 디펜더스 / 무료 (5/16 0시)</title>
       <link>https://ggoorr.net/info/17876533</link>
@@ -4579,6 +4579,11 @@
       <guid isPermaLink="true">https://ggoorr.net/info/168164847</guid>
       <description></description>
       <content:encoded><![CDATA[<p><img src="https://cdn.ggoorr.net/files/attach/images/130/484/816/016/89cfb13bf19f57d92bc22e2fd6901a69.jpg" alt="1.jpg"/></p>]]></content:encoded>
+      <enclosure url="https://cdn.ggoorr.net/files/attach/images/130/484/816/016/89cfb13bf19f57d92bc22e2fd6901a69.jpg" type="image/jpeg" length="0"/>
+      <wp:postmeta>
+        <meta_key>_thumbnail_id</meta_key>
+        <meta_value>https://cdn.ggoorr.net/files/attach/images/130/484/816/016/89cfb13bf19f57d92bc22e2fd6901a69.jpg</meta_value>
+      </wp:postmeta>
     </item>
     <item>
       <title>[위메프] 햇반 210g x 48개 / 33,360원</title>
