@@ -1,7 +1,7 @@
 
 
 git add .
-git commit -m "Updating: ILBE Politics"
+git commit -m "Today"
 git push
 
 
