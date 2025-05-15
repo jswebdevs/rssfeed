@@ -13,7 +13,7 @@ HEADERS = {
                   "Chrome/122.0.0.0 Safari/537.36"
 }
 START_PAGE = 2
-END_PAGE = 3
+END_PAGE = 101
 
 def main():
     all_posts = []
