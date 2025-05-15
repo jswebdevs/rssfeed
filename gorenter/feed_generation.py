@@ -84,8 +84,7 @@ def generate_rss_feed(items, output_file=FEED_FILE):
 
         etree.SubElement(item_elem, "title").text = title
         etree.SubElement(item_elem, "link").text = link
-        etree.SubElement(item_elem, "category").text = "모두"
-        etree.SubElement(item_elem, "category").text = "기분"
+
         for category in categories:
             etree.SubElement(item_elem, "category").text = category
         etree.SubElement(item_elem, "{http://purl.org/dc/elements/1.1/}creator").text = "슈파슈파"

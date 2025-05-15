@@ -4,14 +4,14 @@ from log import log_step
 from bs4 import BeautifulSoup
 import re
 import mimetypes
-
 import os
+import requests
+
 # Ensure feed.xml is written in the current folder (where this script is)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FEED_FILE = os.path.join(BASE_DIR, "feed.xml")
 
 def generate_rss_feed(items, output_file=FEED_FILE):
-    # Create RSS root with dc, content, and wp namespaces
     rss = etree.Element("rss", version="2.0", nsmap={
         "dc": "http://purl.org/dc/elements/1.1/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -19,13 +19,11 @@ def generate_rss_feed(items, output_file=FEED_FILE):
     })
     channel = etree.SubElement(rss, "channel")
 
-    # Channel metadata
     etree.SubElement(channel, "title").text = "Ggoorr RSS Feed"
     etree.SubElement(channel, "link").text = "https://ggoorr.net/"
     etree.SubElement(channel, "description").text = "RSS feed generated from ggoorr.net"
     etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
 
-    # Track GUIDs to ensure uniqueness
     seen_guids = set()
 
     for idx, item in enumerate(items):
@@ -41,30 +39,35 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         featured_image = (item.get('featured_image') or '').strip()
         categories = item.get('categories', [])
 
-        # Ensure unique GUID
         guid = link
         if guid in seen_guids:
             guid = f"{link}-{idx}"
             log_step(f"Duplicate GUID detected for link {link}, using {guid}")
         seen_guids.add(guid)
 
-        # Log raw content, featured image, and categories to verify input
         log_step(f"Raw content for item {idx + 1}: {content[:500]}{'...' if len(content) > 500 else ''}")
         log_step(f"Featured image for item {idx + 1}: {featured_image}")
         log_step(f"Categories for item {idx + 1}: {categories}")
 
-        # Modify content to ensure proper formatting
         modified_content = modify_content(content)
 
-        # Create plain text description (truncate HTML-stripped content)
         soup = BeautifulSoup(modified_content, 'html.parser')
-        plain_text = soup.get_text(strip=True)[:200]  # First 200 chars for description
+        plain_text = soup.get_text(strip=True)[:200]
 
-        # Log video tags
         video_tags = soup.find_all('video')
+        for video in video_tags:
+            src = video.get('src', '')
+            if src:
+                try:
+                    response = requests.head(src, timeout=5)
+                    log_step(f"Video URL {src} status: {response.status_code}, Content-Type: {response.headers.get('Content-Type')}")
+                    if response.status_code != 200 or 'video/' not in response.headers.get('Content-Type', ''):
+                        log_step(f"Warning: Video URL {src} may not be accessible or is not a video")
+                except Exception as e:
+                    log_step(f"Error validating video URL {src}: {str(e)}")
+
         log_step(f"Video tags for item {idx + 1}: {[str(v) for v in video_tags]}")
 
-        # Detailed log for debugging
         log_step(
             f"==============\n"
             f"Item {idx + 1}:\n"
@@ -79,36 +82,25 @@ def generate_rss_feed(items, output_file=FEED_FILE):
             f"=============="
         )
 
-        # Item fields
         etree.SubElement(item_elem, "title").text = title
         etree.SubElement(item_elem, "link").text = link
-        # Add hardcoded categories
-        etree.SubElement(item_elem, "category").text = "모두"
-        etree.SubElement(item_elem, "category").text = "소식"
-        # Add original categories
+
         for category in categories:
             etree.SubElement(item_elem, "category").text = category
         etree.SubElement(item_elem, "{http://purl.org/dc/elements/1.1/}creator").text = "슈파슈파"
         etree.SubElement(item_elem, "guid", isPermaLink="true").text = guid
 
-        # Add description with plain text
         description_elem = etree.SubElement(item_elem, "description")
         description_elem.text = plain_text or ""
 
-        # Add content:encoded with full HTML in CDATA
         content_elem = etree.SubElement(item_elem, "{http://purl.org/rss/1.0/modules/content/}encoded")
-        if modified_content:
-            content_elem.text = etree.CDATA(modified_content)
-        else:
-            content_elem.text = ""
+        content_elem.text = etree.CDATA(modified_content) if modified_content else ""
 
-        # Add enclosure for featured image
         if featured_image and featured_image.startswith('http'):
             mime_type, _ = mimetypes.guess_type(featured_image)
             if not mime_type:
-                mime_type = 'image/jpeg'  # Fallback for images
+                mime_type = 'image/jpeg'
             etree.SubElement(item_elem, "enclosure", url=featured_image, type=mime_type, length="0")
-            # Add WordPress post thumbnail
             postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
             etree.SubElement(postmeta_elem, "meta_key").text = "_thumbnail_id"
             etree.SubElement(postmeta_elem, "meta_value").text = featured_image
@@ -119,6 +111,7 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         log_step(f"RSS feed written to {output_file}, total items: {len(items)}")
     except Exception as e:
         log_step(f"Failed to write RSS feed: {str(e)}")
+
 
 def modify_content(content):
     soup = BeautifulSoup(content, 'html.parser')
@@ -134,27 +127,27 @@ def modify_content(content):
         elif tag.name == 'img':
             img_url = tag.get('src', '')
             if img_url:
-                img_attrs = {
-                    'width': tag.get('width', ''),
-                    'height': tag.get('height', ''),
-                    'src': img_url,
-                    'alt': tag.get('alt', '')
-                }
-                img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v)}/>"
+                img_attrs = tag.attrs.copy()
+                img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v is not None)}/>"
                 modified_elements.append(f'</br>{img_tag}</br>')
             else:
                 log_step(f"Skipping img tag with no src: {str(tag)}")
         elif tag.name == 'video':
             video_url = tag.get('src', '')
             if video_url:
-                video_attrs = {
-                    'src': video_url,
-                    'controls': 'controls',
-                    'width': '360px',
-                    'height': 'auto'
-                }
-                video_tag = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
+                log_step(f"Input video tag attributes: {tag.attrs}")
+                video_attrs = tag.attrs.copy()
+                attr_strings = []
+                for k, v in video_attrs.items():
+                    if v is None:
+                        continue
+                    elif v == '' or v is True:
+                        attr_strings.append(k)
+                    else:
+                        attr_strings.append(f'{k}="{v}"')
+                video_tag = f"<video {' '.join(attr_strings)}></video>"
                 modified_elements.append(f'</br>{video_tag}</br>')
+                log_step(f"Output video tag: {video_tag}")
             else:
                 log_step(f"Skipping video tag with no src: {str(tag)}")
         elif tag.name in ['iframe', 'a']:
