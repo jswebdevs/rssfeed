@@ -127,7 +127,7 @@ def modify_content(content):
                     'alt': tag.get('alt', '')
                 }
                 img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v)}/>"
-                modified_elements.append(f'<p>{img_tag}</p>')
+                modified_elements.append(f'</br>{img_tag}</br>')
             else:
                 log_step(f"Skipping img tag with no src: {str(tag)}")
         elif tag.name == 'video':
@@ -140,7 +140,7 @@ def modify_content(content):
                     'height': 'auto'
                 }
                 video_tag = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
-                modified_elements.append(f'<p>{video_tag}</p>')
+                modified_elements.append(f'</br>{video_tag}</br>')
             else:
                 log_step(f"Skipping video tag with no src: {str(tag)}")
         elif tag.name in ['iframe', 'a']:
@@ -151,20 +151,20 @@ def modify_content(content):
                 if youtube_match:
                     video_id = youtube_match.group(1)
                     iframe_tag = (
-                        f'<p><iframe width="360px" height="auto" '
+                        f'</br><iframe width="360px" height="auto" '
                         f'src="https://www.youtube.com/embed/{video_id}" '
-                        f'frameborder="0" allowfullscreen></iframe></p>'
+                        f'frameborder="0" allowfullscreen></iframe></br>'
                     )
                     modified_elements.append(iframe_tag)
                 elif vimeo_match:
                     video_id = vimeo_match.group(1)
                     iframe_tag = (
-                        f'<p><iframe width="360px" height="auto" '
+                        f'</br><iframe width="360px" height="auto" '
                         f'src="https://player.vimeo.com/video/{video_id}" '
-                        f'frameborder="0" allowfullscreen></iframe></p>'
+                        f'frameborder="0" allowfullscreen></iframe></br>'
                     )
                     modified_elements.append(iframe_tag)
                 else:
-                    modified_elements.append(f'<p><a href="{url}">Watch Video</a></p>')
+                    modified_elements.append(f'</br><a href="{url}">Watch Video</a></br>')
 
     return ''.join(modified_elements)
