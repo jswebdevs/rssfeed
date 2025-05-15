@@ -5,8 +5,8 @@ from log import log_step
 
 
 
-BASE_URL = "https://www.fmkorea.com/"
-TARGET_URL = BASE_URL + "/index.php?mid=best&page={page_number}"
+BASE_URL = "https://ggoorr.net"
+TARGET_URL = BASE_URL + "/enter/page/{page_number}"
 
 
 HEADERS = {
@@ -14,8 +14,8 @@ HEADERS = {
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/122.0.0.0 Safari/537.36"
 }
-START_PAGE = 2
-END_PAGE = 2
+START_PAGE = 1
+END_PAGE = 50
 
 def main():
     all_posts = []
