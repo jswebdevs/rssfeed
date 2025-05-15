@@ -121,17 +121,15 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         log_step(f"Failed to write RSS feed: {str(e)}")
 
 def modify_content(content):
-    """Modify HTML content with original image URLs, video URLs, and YouTube/Vimeo embeds, no newlines."""
     soup = BeautifulSoup(content, 'html.parser')
     modified_elements = []
 
-    # Regex for YouTube and Vimeo video IDs
     youtube_regex = r'(?:youtube\.com/(?:watch\?v=|embed/)|youtu\.be/)([a-zA-Z0-9_-]{11})'
     vimeo_regex = r'(?:vimeo\.com/(?:video/|embed/)?)(\d+)'
 
     for tag in soup.find_all(['p', 'img', 'video', 'iframe', 'a']):
         if tag.name == 'p':
-            if tag.get_text(strip=True):  # Skip empty <p> tags
+            if tag.get_text(strip=True):
                 modified_elements.append(str(tag))
         elif tag.name == 'img':
             img_url = tag.get('src', '')
@@ -152,14 +150,14 @@ def modify_content(content):
                 video_attrs = {
                     'src': video_url,
                     'controls': 'controls',
-                    'width': tag.get('width', '560'),
-                    'height': tag.get('height', '315')
+                    'width': '360px',
+                    'height': 'auto'
                 }
                 video_tag = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
                 modified_elements.append(f'<p>{video_tag}</p>')
             else:
                 log_step(f"Skipping video tag with no src: {str(tag)}")
-        elif tag.name == 'iframe' or tag.name == 'a':
+        elif tag.name in ['iframe', 'a']:
             url = tag.get('src') if tag.name == 'iframe' else tag.get('href', '')
             if url:
                 youtube_match = re.search(youtube_regex, url)
@@ -167,7 +165,7 @@ def modify_content(content):
                 if youtube_match:
                     video_id = youtube_match.group(1)
                     iframe_tag = (
-                        f'<p><iframe width="560" height="315" '
+                        f'<p><iframe width="360px" height="auto" '
                         f'src="https://www.youtube.com/embed/{video_id}" '
                         f'frameborder="0" allowfullscreen></iframe></p>'
                     )
@@ -175,7 +173,7 @@ def modify_content(content):
                 elif vimeo_match:
                     video_id = vimeo_match.group(1)
                     iframe_tag = (
-                        f'<p><iframe width="560" height="315" '
+                        f'<p><iframe width="360px" height="auto" '
                         f'src="https://player.vimeo.com/video/{video_id}" '
                         f'frameborder="0" allowfullscreen></iframe></p>'
                     )

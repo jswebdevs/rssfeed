@@ -136,8 +136,8 @@ def modify_content(content):
                 video_attrs = {
                     'src': video_url,
                     'controls': 'controls',
-                    'width': tag.get('width', '560'),
-                    'height': tag.get('height', '315')
+                    'width': '360px',
+                    'height': 'auto'
                 }
                 video_tag = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
                 modified_elements.append(f'<p>{video_tag}</p>')
@@ -151,7 +151,7 @@ def modify_content(content):
                 if youtube_match:
                     video_id = youtube_match.group(1)
                     iframe_tag = (
-                        f'<p><iframe width="560" height="315" '
+                        f'<p><iframe width="360px" height="auto" '
                         f'src="https://www.youtube.com/embed/{video_id}" '
                         f'frameborder="0" allowfullscreen></iframe></p>'
                     )
@@ -159,7 +159,7 @@ def modify_content(content):
                 elif vimeo_match:
                     video_id = vimeo_match.group(1)
                     iframe_tag = (
-                        f'<p><iframe width="560" height="315" '
+                        f'<p><iframe width="360px" height="auto" '
                         f'src="https://player.vimeo.com/video/{video_id}" '
                         f'frameborder="0" allowfullscreen></iframe></p>'
                     )
