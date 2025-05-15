@@ -34,7 +34,8 @@ def get_full_content(post_url, headers):
                     else:
                         src = 'https://cdn.ggoorr.net/files/attach' + src
                 tag['src'] = src
-                tag['width'] = '720px'
+                if 'width' not in tag.attrs:
+                    tag['width'] = '720px'
 
                 image_urls.append(src)
                 tag_str = str(tag)
@@ -45,6 +46,7 @@ def get_full_content(post_url, headers):
                 poster = tag.get('poster', '')
 
                 if not src:
+                    log_step(f"Skipping video tag with no src: {str(tag)}")
                     continue
 
                 if not src.startswith('http'):
@@ -58,25 +60,29 @@ def get_full_content(post_url, headers):
                     else:
                         poster = 'https://cdn.ggoorr.net/files/attach' + poster
 
-                tag['src'] = src
-                tag['poster'] = poster
-                tag['controls'] = 'controls'
-                tag['width'] = '720px'
+                video_attrs = tag.attrs.copy()
+                video_attrs['src'] = src
+                if poster:
+                    video_attrs['poster'] = poster
+                if 'controls' not in video_attrs:
+                    video_attrs['controls'] = ''
+                if 'width' not in video_attrs:
+                    video_attrs['width'] = '720px'
+
+                log_step(f"Video tag attributes for {post_url}: {video_attrs}")
 
                 video_urls.append(src)
-                tag_str = str(tag)
-                elements.append(f'<p>{tag_str}</p>')
 
-            elif tag.name == 'source':
-                parent_video = tag.find_parent('video')
-                if parent_video:
-                    src = tag.get('src', '')
-                    if src and not src.startswith('http'):
-                        if src.startswith('/files/attach'):
-                            src = 'https://cdn.ggoorr.net' + src
-                        else:
-                            src = 'https://cdn.ggoorr.net/files/attach' + src
-                        tag['src'] = src
+                attr_strings = []
+                for k, v in video_attrs.items():
+                    if v is None:
+                        continue
+                    elif v == '' or v is True:
+                        attr_strings.append(k)
+                    else:
+                        attr_strings.append(f'{k}="{v}"')
+                video_tag = f"<video {' '.join(attr_strings)}></video>"
+                elements.append(f'<p>{video_tag}</p>')
 
         cleaned_html = ''.join(elements)
 

@@ -5,13 +5,13 @@ from bs4 import BeautifulSoup
 import re
 import mimetypes
 import os
+import requests
 
 # Ensure feed.xml is written in the current folder (where this script is)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FEED_FILE = os.path.join(BASE_DIR, "feed.xml")
 
 def generate_rss_feed(items, output_file=FEED_FILE):
-    # Create RSS root with dc, content, and wp namespaces
     rss = etree.Element("rss", version="2.0", nsmap={
         "dc": "http://purl.org/dc/elements/1.1/",
         "content": "http://purl.org/rss/1.0/modules/content/",
@@ -19,13 +19,11 @@ def generate_rss_feed(items, output_file=FEED_FILE):
     })
     channel = etree.SubElement(rss, "channel")
 
-    # Channel metadata
     etree.SubElement(channel, "title").text = "Ggoorr RSS Feed"
     etree.SubElement(channel, "link").text = "https://ggoorr.net/"
     etree.SubElement(channel, "description").text = "RSS feed generated from ggoorr.net"
     etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
 
-    # Track GUIDs to ensure uniqueness
     seen_guids = set()
 
     for idx, item in enumerate(items):
@@ -41,7 +39,6 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         featured_image = (item.get('featured_image') or '').strip()
         categories = item.get('categories', [])
 
-        # Ensure unique GUID
         guid = link
         if guid in seen_guids:
             guid = f"{link}-{idx}"
@@ -58,6 +55,17 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         plain_text = soup.get_text(strip=True)[:200]
 
         video_tags = soup.find_all('video')
+        for video in video_tags:
+            src = video.get('src', '')
+            if src:
+                try:
+                    response = requests.head(src, timeout=5)
+                    log_step(f"Video URL {src} status: {response.status_code}, Content-Type: {response.headers.get('Content-Type')}")
+                    if response.status_code != 200 or 'video/' not in response.headers.get('Content-Type', ''):
+                        log_step(f"Warning: Video URL {src} may not be accessible or is not a video")
+                except Exception as e:
+                    log_step(f"Error validating video URL {src}: {str(e)}")
+
         log_step(f"Video tags for item {idx + 1}: {[str(v) for v in video_tags]}")
 
         log_step(
@@ -113,9 +121,6 @@ def modify_content(content):
     youtube_regex = r'(?:youtube\.com/(?:watch\?v=|embed/)|youtu\.be/)([a-zA-Z0-9_-]{11})'
     vimeo_regex = r'(?:vimeo\.com/(?:video/|embed/)?)(\d+)'
 
-    # Known boolean attributes for HTML5 video tags
-    boolean_attrs = {'autoplay', 'controls', 'loop', 'muted', 'playsinline'}
-
     for tag in soup.find_all(['p', 'img', 'video', 'iframe', 'a']):
         if tag.name == 'p':
             if tag.get_text(strip=True):
@@ -123,30 +128,27 @@ def modify_content(content):
         elif tag.name == 'img':
             img_url = tag.get('src', '')
             if img_url:
-                img_attrs = {
-                    'width': tag.get('width', ''),
-                    'height': tag.get('height', ''),
-                    'src': img_url,
-                    'alt': tag.get('alt', '')
-                }
-                img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v)}/>"
+                img_attrs = tag.attrs.copy()
+                img_tag = f"<img {' '.join(f'{k}=\"{v}\"' for k, v in img_attrs.items() if v is not None)}/>"
                 modified_elements.append(f'</br>{img_tag}</br>')
             else:
                 log_step(f"Skipping img tag with no src: {str(tag)}")
         elif tag.name == 'video':
             video_url = tag.get('src', '')
             if video_url:
-                # Include all attributes without filtering
-                video_attrs = tag.attrs
-                # Format attributes: boolean attributes (e.g., loop, muted) appear without value
+                log_step(f"Input video tag attributes: {tag.attrs}")
+                video_attrs = tag.attrs.copy()
                 attr_strings = []
                 for k, v in video_attrs.items():
-                    if k in boolean_attrs and (v in {k, True, 'true', ''} or v is True):
-                        attr_strings.append(k)  # Output as <video loop>
+                    if v is None:
+                        continue
+                    elif v == '' or v is True:
+                        attr_strings.append(k)
                     else:
-                        attr_strings.append(f'{k}="{v}"')  # Output as <video src="...">
+                        attr_strings.append(f'{k}="{v}"')
                 video_tag = f"<video {' '.join(attr_strings)}></video>"
                 modified_elements.append(f'</br>{video_tag}</br>')
+                log_step(f"Output video tag: {video_tag}")
             else:
                 log_step(f"Skipping video tag with no src: {str(tag)}")
         elif tag.name in ['iframe', 'a']:
