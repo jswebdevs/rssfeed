@@ -113,6 +113,9 @@ def modify_content(content):
     youtube_regex = r'(?:youtube\.com/(?:watch\?v=|embed/)|youtu\.be/)([a-zA-Z0-9_-]{11})'
     vimeo_regex = r'(?:vimeo\.com/(?:video/|embed/)?)(\d+)'
 
+    # Known boolean attributes for HTML5 video tags
+    boolean_attrs = {'autoplay', 'controls', 'loop', 'muted', 'playsinline'}
+
     for tag in soup.find_all(['p', 'img', 'video', 'iframe', 'a']):
         if tag.name == 'p':
             if tag.get_text(strip=True):
@@ -133,13 +136,16 @@ def modify_content(content):
         elif tag.name == 'video':
             video_url = tag.get('src', '')
             if video_url:
-                video_attrs = {
-                    'src': video_url,
-                    'controls': 'controls',
-                    'width': '360px',
-                    'height': 'auto'
-                }
-                video_tag = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
+                # Include all attributes without filtering
+                video_attrs = tag.attrs
+                # Format attributes: boolean attributes (e.g., loop, muted) appear without value
+                attr_strings = []
+                for k, v in video_attrs.items():
+                    if k in boolean_attrs and (v in {k, True, 'true', ''} or v is True):
+                        attr_strings.append(k)  # Output as <video loop>
+                    else:
+                        attr_strings.append(f'{k}="{v}"')  # Output as <video src="...">
+                video_tag = f"<video {' '.join(attr_strings)}></video>"
                 modified_elements.append(f'</br>{video_tag}</br>')
             else:
                 log_step(f"Skipping video tag with no src: {str(tag)}")

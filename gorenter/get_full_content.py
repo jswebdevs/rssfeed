@@ -8,15 +8,13 @@ def get_full_content(post_url, headers):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        content_root = soup.find('div', class_='slatc-content')
+        content_root = soup.find('div', class_='xe_content')
         if not content_root:
             log_step(f"Content container not found: {post_url}")
             return '', ''
 
-        # Log raw HTML of content_root
         log_step(f"Raw content HTML: {str(content_root)[:500]}{'...' if len(str(content_root)) > 500 else ''}")
 
-        # Remove comments
         for comment in content_root.find_all(string=lambda text: isinstance(text, Comment)):
             comment.extract()
 
@@ -24,82 +22,93 @@ def get_full_content(post_url, headers):
         image_urls = []
         video_urls = []
 
-        for tag in content_root.find_all(['p', 'img', 'video']):
-            if tag.name == 'p' and not tag.get_text(strip=True):
-                continue  # skip empty <p>
+        for tag in content_root.descendants:
+            if isinstance(tag, str):
+                continue
 
             if tag.name == 'img':
                 src = tag.get('src', '')
                 if not src.startswith('http'):
-                    src = 'https://cdn.ggoorr.net/files/attach' + src if not src.startswith('/files/attach') else 'https://cdn.ggoorr.net' + src
-                tag.attrs = {
-                    'src': src,
-                    'alt': tag.get('alt', ''),
-                    'width': tag.get('width', ''),
-                    'height': tag.get('height', '')
-                }
+                    if src.startswith('/files/attach'):
+                        src = 'https://cdn.ggoorr.net' + src
+                    else:
+                        src = 'https://cdn.ggoorr.net/files/attach' + src
+                tag['src'] = src
+                tag['width'] = '720px'
+
                 image_urls.append(src)
-                elements.append(f'<p>{str(tag)}</p>')  # Wrap img in p tag
+                tag_str = str(tag)
+                elements.append(f'<p>{tag_str}</p>')
 
             elif tag.name == 'video':
                 src = tag.get('src', '')
                 poster = tag.get('poster', '')
 
                 if not src:
-                    log_step(f"Skipping video tag with no src: {str(tag)}")
                     continue
 
-                # Correct video src and poster paths
                 if not src.startswith('http'):
-                    src = 'https://cdn.ggoorr.net/files/attach' + src if not src.startswith('/files/attach') else 'https://cdn.ggoorr.net' + src
+                    if src.startswith('/files/attach'):
+                        src = 'https://cdn.ggoorr.net' + src
+                    else:
+                        src = 'https://cdn.ggoorr.net/files/attach' + src
                 if poster and not poster.startswith('http'):
-                    poster = 'https://cdn.ggoorr.net/files/attach' + poster if not poster.startswith('/files/attach') else 'https://cdn.ggoorr.net' + poster
+                    if poster.startswith('/files/attach'):
+                        poster = 'https://cdn.ggoorr.net' + poster
+                    else:
+                        poster = 'https://cdn.ggoorr.net/files/attach' + poster
 
-                tag.attrs = {
-                    'src': src,
-                    'poster': poster,
-                    'controls': 'controls',
-                    'width': tag.get('width', '560'),
-                    'height': tag.get('height', '315')
-                }
+                tag['src'] = src
+                tag['poster'] = poster
+                tag['controls'] = 'controls'
+                tag['width'] = '720px'
+
                 video_urls.append(src)
-                elements.append(f'<p>{str(tag)}</p>')  # Wrap video in p tag
+                tag_str = str(tag)
+                elements.append(f'<p>{tag_str}</p>')
+
+            elif tag.name == 'source':
+                parent_video = tag.find_parent('video')
+                if parent_video:
+                    src = tag.get('src', '')
+                    if src and not src.startswith('http'):
+                        if src.startswith('/files/attach'):
+                            src = 'https://cdn.ggoorr.net' + src
+                        else:
+                            src = 'https://cdn.ggoorr.net/files/attach' + src
+                        tag['src'] = src
 
         cleaned_html = ''.join(elements)
 
-        # Log all video URLs
         log_step(f"Video URLs for post {post_url}: {video_urls}")
 
-        # Select featured image
         featured_image = None
         if image_urls:
             featured_image = image_urls[0]
-            # Validate image URL
             try:
                 img_response = requests.head(featured_image, headers=headers, timeout=5)
                 log_step(f"Featured image {featured_image} status: {img_response.status_code}")
                 if img_response.status_code != 200:
-                    log_step(f"Invalid featured image {featured_image}, status: {img_response.status_code}")
                     featured_image = None
             except Exception as e:
                 log_step(f"Error validating featured image {featured_image}: {str(e)}")
                 featured_image = None
 
-        # If no image found, try using video poster
         if not featured_image and content_root.find('video'):
             poster = content_root.find('video').get('poster', '')
             if poster:
                 if not poster.startswith('http'):
-                    poster = 'https://cdn.ggoorr.net/files/attach' + poster if not poster.startswith('/files/attach') else 'https://cdn.ggoorr.net' + poster
-                featured_image = poster
+                    if poster.startswith('/files/attach'):
+                        poster = 'https://cdn.ggoorr.net' + poster
+                    else:
+                        poster = 'https://cdn.ggoorr.net/files/attach' + poster
                 try:
                     poster_response = requests.head(poster, headers=headers, timeout=5)
-                    log_step(f"Featured image (poster) {featured_image} status: {poster_response.status_code}")
-                    if poster_response.status_code != 200:
-                        featured_image = None
+                    log_step(f"Featured image (poster) {poster} status: {poster_response.status_code}")
+                    if poster_response.status_code == 200:
+                        featured_image = poster
                 except Exception as e:
-                    log_step(f"Error validating featured image (poster) {featured_image}: {str(e)}")
-                    featured_image = None
+                    log_step(f"Error validating featured image (poster) {poster}: {str(e)}")
 
         log_step(
             f"==============\n"
