@@ -5,7 +5,7 @@
     <link>https://ggoorr.net/</link>
     <description>RSS feed generated from ggoorr.net</description>
     <lastBuildDate>Wed, 14 May 2025 11:05:52 GMT</lastBuildDate>
-    <item>
+    <!-- <item>
       <title>리즈시절 비욘세 미모 위엄</title>
       <link>https://ggoorr.net/thisthat/17882414?category=17748967</link>
       <category>유머</category>
@@ -169,7 +169,7 @@
         <wp:meta_key>_thumbnail_id</wp:meta_key>
         <wp:meta_value>https://cdn.ggoorr.net/files/attach/images/109/252/882/017/fcb3477360b2904e580737a38b24fcf0.jpg</wp:meta_value>
       </wp:postmeta>
-    </item>
+    </item> -->
     <item>
       <title>테무산 마동석을 만난 찐동석</title>
       <link>https://ggoorr.net/thisthat/17882240?category=17748967</link>
