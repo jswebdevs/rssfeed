@@ -4,7 +4,7 @@
     <title>Ggoorr RSS Feed</title>
     <link>https://ggoorr.net/</link>
     <description>RSS feed generated from ggoorr.net</description>
-    <lastBuildDate>Thu, 15 May 2025 19:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 19:22:05 GMT</lastBuildDate>
     <item>
       <title>얼차려 훈련병 고문 사망 사건 근황</title>
       <link>https://ggoorr.net/thisthat/17884320?category=17748969</link>
@@ -586,7 +586,12 @@
       <dc:creator>슈파슈파</dc:creator>
       <guid isPermaLink="true">https://ggoorr.net/thisthat/17852245/page/3?category=17748969</guid>
       <description></description>
-      <content:encoded></content:encoded>
+      <content:encoded><![CDATA[</br><img alt="001.png.jpg" data-cke-saved-src="/files/attach/images/109/245/852/017/df0dbb4b2261349e40fefd3c165a89cb.jpg" data-file-srl="17852246" editor_component="image_link" height="2069" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/245/852/017/df0dbb4b2261349e40fefd3c165a89cb.jpg" width="900"/></br></br><img alt="002.png.jpg" data-cke-saved-src="/files/attach/images/109/245/852/017/28f1f9337972900242e32bc53fb109f6.jpg" data-file-srl="17852247" editor_component="image_link" height="671" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/109/245/852/017/28f1f9337972900242e32bc53fb109f6.jpg" width="900"/></br>]]></content:encoded>
+      <enclosure url="https://cdn.ggoorr.net/files/attach/images/109/245/852/017/df0dbb4b2261349e40fefd3c165a89cb.jpg" type="image/jpeg" length="0"/>
+      <wp:postmeta>
+        <meta_key>_thumbnail_id</meta_key>
+        <meta_value>https://cdn.ggoorr.net/files/attach/images/109/245/852/017/df0dbb4b2261349e40fefd3c165a89cb.jpg</meta_value>
+      </wp:postmeta>
     </item>
     <item>
       <title>누군가 신분증 도용해서 대출 받아도 피해자가 갚아라 판결</title>
