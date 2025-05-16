@@ -2,9 +2,14 @@ import requests
 from bs4 import BeautifulSoup, Comment
 from log import log_step
 
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+
+
 def get_full_content(post_url, headers):
     try:
-        response = requests.get(post_url, headers=headers, timeout=10)
+        response = requests.get(post_url, headers=headers, timeout=10, verify=False)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
 
