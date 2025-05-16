@@ -4,18 +4,13 @@ from get_full_content import get_full_content
 from feed_generation import generate_rss_feed
 from log import log_step
 
-BASE_URL = "https://theqoo.net"
-TARGET_URL = BASE_URL + "/love?page={page_number}"
+BASE_URL = "https://zdnet.co.kr"
+TARGET_URL = BASE_URL + "/newskey/?lstcode=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&page={page_number}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/122.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://theqoo.net/",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
+                  "Chrome/122.0.0.0 Safari/537.36"
 }
 
 START_PAGE = 1
