@@ -4,7 +4,7 @@ from log import log_step
 
 def get_full_content(post_url, headers, verify= False):
     try:
-        response = requests.get(post_url, headers=headers, timeout=10)
+        response = requests.get(post_url, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
 

@@ -14,7 +14,7 @@ def get_links_and_titles(page_url, base_url, headers, verify= False):
         soup = BeautifulSoup(response.text, 'html.parser')
         
         # Select the anchor tags that hold the titles
-        articles = soup.select('td.title a')
+        articles = soup.select('.title a')
         
         # Log the exact raw HTML of the anchor tags
         log_step(f"Raw anchor tags for titles: {[str(a) for a in articles]}")
