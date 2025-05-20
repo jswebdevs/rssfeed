@@ -1,116 +1,70 @@
-import requests
 from bs4 import BeautifulSoup, Comment
 from log import log_step
+from playwright.sync_api import sync_playwright
+import requests
 
-def get_full_content(post_url, headers, verify=False):
+def get_full_content(post_url, headers):
     try:
-        response = requests.get(post_url, timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(extra_http_headers=headers)
+            page = context.new_page()
 
-        # Updated to the correct article body container
-        article_body = soup.find('div', id='articleBody')
-        if not article_body:
-            log_step(f"Content container not found: {post_url}")
-            return '', ''
+            page.goto(post_url, timeout=10000)
+            page.wait_for_selector('.xe_content', timeout=5000)
+            html = page.content()
+            browser.close()
 
-        content_root = article_body.find('div', style=lambda x: x and 'font-size' in x)
+        soup = BeautifulSoup(html, 'lxml')
+        content_root = soup.find('div', class_='xe_content')
         if not content_root:
-            log_step(f"Content sub-container not found: {post_url}")
+            log_step(f"No .xe_content found at {post_url}")
             return '', ''
 
-        # Remove all ad-related divs
-        for ad_class in ['view_ad', 'mt_bn_box', 'iwmads']:
-            for ad_div in content_root.find_all('div', class_=ad_class):
-                ad_div.decompose()
-
-        # Remove HTML comments
+        # Remove comments
         for comment in content_root.find_all(string=lambda text: isinstance(text, Comment)):
             comment.extract()
 
-        elements = []
+        # Fix URLs in <img> and <video>
         image_urls = []
         video_urls = []
-
-        for tag in content_root.descendants:
-            if isinstance(tag, str):
-                continue
-
-            # Handle image tags
+        for tag in content_root.find_all(['img', 'video']):
             if tag.name == 'img':
                 src = tag.get('src', '')
-                if not src.startswith('http'):
-                    if src.startswith('/F01') or src.startswith('//'):
-                        src = 'https:' + src
-                    else:
-                        src = 'https://zdnet.co.kr' + src  # fallback base
-
+                if src and not src.startswith('http'):
+                    src = 'https://cdn.ggoorr.net' + src if src.startswith('/files/attach') else 'https://cdn.ggoorr.net/files/attach' + src
                 tag['src'] = src
                 tag['width'] = '720px'
                 image_urls.append(src)
-                elements.append(f'<p>{str(tag)}</p>')
 
-            # Handle video tags
-            elif tag.name == 'video':
+            if tag.name == 'video':
                 src = tag.get('src', '')
                 poster = tag.get('poster', '')
 
-                if not src:
-                    log_step(f"Skipping video with no src: {str(tag)}")
-                    continue
-
-                if not src.startswith('http'):
-                    src = 'https://zdnet.co.kr' + src
+                if src and not src.startswith('http'):
+                    src = 'https://cdn.ggoorr.net' + src if src.startswith('/files/attach') else 'https://cdn.ggoorr.net/files/attach' + src
                 if poster and not poster.startswith('http'):
-                    poster = 'https://zdnet.co.kr' + poster
+                    poster = 'https://cdn.ggoorr.net' + poster if poster.startswith('/files/attach') else 'https://cdn.ggoorr.net/files/attach' + poster
 
-                video_attrs = tag.attrs.copy()
-                video_attrs['src'] = src
-                if poster:
-                    video_attrs['poster'] = poster
-                video_attrs.setdefault('controls', '')
-                video_attrs.setdefault('width', '720px')
-
-                attr_strs = []
-                for k, v in video_attrs.items():
-                    if v == '' or v is True:
-                        attr_strs.append(k)
-                    else:
-                        attr_strs.append(f'{k}="{v}"')
-
-                video_tag = f"<video {' '.join(attr_strs)}></video>"
-                elements.append(f'<p>{video_tag}</p>')
+                tag['src'] = src
+                tag['poster'] = poster
+                tag['width'] = '720px'
+                if 'controls' not in tag.attrs:
+                    tag['controls'] = ''
                 video_urls.append(src)
 
-            # Preserve paragraphs and captions
-            elif tag.name in ['p', 'figcaption', 'h2', 'ul', 'ol', 'li', 'figure']:
-                elements.append(str(tag))
+        cleaned_html = str(content_root)
 
-        cleaned_html = ''.join(elements)
-
-        # Try to get a featured image
-        featured_image = None
-        if image_urls:
-            featured_image = image_urls[0]
+        # Pick featured image
+        featured_image = image_urls[0] if image_urls else None
+        if featured_image:
             try:
-                img_response = requests.head(featured_image, headers=headers, timeout=5)
-                if img_response.status_code != 200:
+                response = requests.head(featured_image, headers=headers, timeout=5)
+                if response.status_code != 200:
                     featured_image = None
             except Exception as e:
-                log_step(f"Error validating image {featured_image}: {e}")
+                log_step(f"Failed to verify featured image {featured_image}: {str(e)}")
                 featured_image = None
-
-        # Fallback: use video poster
-        if not featured_image and content_root.find('video'):
-            poster = content_root.find('video').get('poster', '')
-            if poster and not poster.startswith('http'):
-                poster = 'https://zdnet.co.kr' + poster
-            try:
-                poster_response = requests.head(poster, headers=headers, timeout=5)
-                if poster_response.status_code == 200:
-                    featured_image = poster
-            except Exception as e:
-                log_step(f"Error validating video poster {poster}: {e}")
 
         log_step(
             f"==============\n"
