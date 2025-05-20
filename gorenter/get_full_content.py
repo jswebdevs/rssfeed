@@ -42,13 +42,19 @@ def get_full_content(post_url, headers):
                 elements.append(f'<p>{tag_str}</p>')
 
             elif tag.name == 'video':
+                # Extract all specified video attributes
                 src = tag.get('src', '')
                 poster = tag.get('poster', '')
+                data_file_srl = tag.get('data-file-srl', '')
+                idm_id = tag.get('__idm_id__', '')
+                id_attr = tag.get('id', '')
+                playsinline = tag.get('playsinline', '')
 
                 if not src:
                     log_step(f"Skipping video tag with no src: {str(tag)}")
                     continue
 
+                # Convert relative URLs to absolute
                 if not src.startswith('http'):
                     if src.startswith('/files/attach'):
                         src = 'https://cdn.ggoorr.net' + src
@@ -60,10 +66,19 @@ def get_full_content(post_url, headers):
                     else:
                         poster = 'https://cdn.ggoorr.net/files/attach' + poster
 
+                # Copy all attributes and ensure required ones are included
                 video_attrs = tag.attrs.copy()
                 video_attrs['src'] = src
                 if poster:
                     video_attrs['poster'] = poster
+                if data_file_srl:
+                    video_attrs['data-file-srl'] = data_file_srl
+                if idm_id:
+                    video_attrs['__idm_id__'] = idm_id
+                if id_attr:
+                    video_attrs['id'] = id_attr
+                if playsinline or 'playsinline' in tag.attrs:
+                    video_attrs['playsinline'] = playsinline
                 if 'controls' not in video_attrs:
                     video_attrs['controls'] = ''
                 if 'width' not in video_attrs:
@@ -73,6 +88,7 @@ def get_full_content(post_url, headers):
 
                 video_urls.append(src)
 
+                # Construct video tag with all attributes
                 attr_strings = []
                 for k, v in video_attrs.items():
                     if v is None:
@@ -125,7 +141,9 @@ def get_full_content(post_url, headers):
             f"Featured Image: {featured_image}\n"
             f"Image URLs: {image_urls}\n"
             f"Video URLs: {video_urls}\n"
+            f"idmid: {idm_id}"
             f"=============="
+            
         )
 
         return cleaned_html, featured_image
