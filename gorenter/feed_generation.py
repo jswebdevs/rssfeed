@@ -22,8 +22,8 @@ def generate_rss_feed(items, output_file=FEED_FILE):
     etree.SubElement(channel, "title").text = "Ggoorr RSS Feed"
     etree.SubElement(channel, "link").text = "https://ggoorr.net/"
     etree.SubElement(channel, "description").text = "RSS feed generated from ggoorr.net"
-    # Convert 10:37 AM +06 (May 20, 2025) to UTC: 04:37 AM GMT
-    etree.SubElement(channel, "lastBuildDate").text = "Tue, 20 May 2025 04:37:00 GMT"
+    # Convert 10:44 AM +06 (May 20, 2025) to UTC: 04:44 AM GMT
+    etree.SubElement(channel, "lastBuildDate").text = "Tue, 20 May 2025 04:44:00 GMT"
 
     seen_guids = set()
 
@@ -38,7 +38,7 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         item_type = item.get('type', 'article')
 
         if item_type == 'article':
-            # Handle article items (unchanged)
+            # Handle article items
             title = (item.get('title') or '').strip() or f"Untitled Post {idx + 1}"
             link = (item.get('link') or '').strip() or f"https://ggoorr.net/placeholder/{idx + 1}"
             content = (item.get('content') or '').strip()
