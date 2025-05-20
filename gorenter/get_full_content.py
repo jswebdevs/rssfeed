@@ -47,7 +47,7 @@ def get_full_content(post_url, headers):
                 src = tag.get('src', '')
                 poster = tag.get('poster', '')
                 data_file_srl = tag.get('data-file-srl', '')
-                idm_id = tag.get('__idm_id__', '') or ''  # Forcefully include __idm_id__, even if empty
+                idm_id = tag.get('__idm_id__', '')  # Forcefully include __idm_id__
                 id_attr = tag.get('id', '')
                 playsinline = tag.get('playsinline', '')
 
@@ -70,10 +70,9 @@ def get_full_content(post_url, headers):
                 # Copy all attributes and ensure required ones are included
                 video_attrs = tag.attrs.copy()
                 video_attrs['src'] = src
-                if poster:
-                    video_attrs['poster'] = poster
+                video_attrs['poster'] = poster or ''
                 video_attrs['data-file-srl'] = data_file_srl or ''
-                video_attrs['__idm_id__'] = idm_id
+                video_attrs['__idm_id__'] = idm_id  # Ensure __idm_id__ is included
                 video_attrs['id'] = id_attr or ''
                 video_attrs['playsinline'] = playsinline or ''
                 if 'controls' not in video_attrs:
