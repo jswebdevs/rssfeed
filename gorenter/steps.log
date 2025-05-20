@@ -1,5 +1,5 @@
-[2025-05-20 10:46:07] Scraping page 1: https://ggoorr.net/enter/page/1
-[2025-05-20 10:46:09] Raw HTML content for https://ggoorr.net/enter/page/1: <!DOCTYPE html>
+[2025-05-20 10:49:49] Scraping page 1: https://ggoorr.net/enter/page/1
+[2025-05-20 10:49:50] Raw HTML content for https://ggoorr.net/enter/page/1: <!DOCTYPE html>
 <html lang="ko">
 <head>
 
@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="Rhymix">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-<meta name="csrf-token" content="7NQA2GeJukiaiP6k" />
+<meta name="csrf-token" content="45lA4PbFXQB2L88b" />
 <meta name="keywords" content="꾸르넷, 꾸르잼, 알린넷, 익명, 커뮤니티" />
 <meta name="description" content="꾸르잼 커뮤니티" />
 <meta name="document_hide_mid_list" content="" />
@@ -17,110 +17,148 @@
 
 <!-- CSS -->
 <link rel="stylesheet" ...
-[2025-05-20 10:46:09] Raw anchor tags for titles: ['<a class="lu-title lddu-title" href="/enter/17892719/page/1">\n타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892327/page/1">\n이주은 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892256/page/1">\n안귀령 한복 핏\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892036/page/1">\n악뮤 수현 근황\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892029/page/1">\n정형돈 저작권료에 의문이 생긴 지드래곤\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891973/page/1">\n걸그룹 여자아이돌 언더붑 모음\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891968/page/1">\n조여정 20대 시절 몸매\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891824/page/1">\n뒤에서 찍은 설윤 뒤태\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891758/page/1">\n가죽 홀터넥 의상 허벅지 벨트 아이브 장원영\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891737/page/1">\n트리플에스 공유빈\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891727/page/1">\n종종 나오는 유재석 매운맛\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891696/page/1">\n인사하다 뻣뻣함을 감지한 강호동\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891683/page/1">\n해외에서 과감했던 있지 유나 하이레그 착장\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891603/page/1">\n배우 박해수가 연극하면서 가장 기억에 남았던 관객\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891542/page/1">\n??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891527/page/1">\n신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891488/page/1">\n꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891470/page/1">\n옆에서 본 권은비 굴곡 검정 원피스\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891202/page/1">\n차주영\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891197/page/1">\n김민지 아나운서\t\t\t\t\t</a>']
-[2025-05-20 10:46:09] Found title: 타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유 with link: /enter/17892719/page/1
-[2025-05-20 10:46:09] Categories for title '타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유': ['연예']
-[2025-05-20 10:46:09] Found title: 이주은 치어리더 with link: /enter/17892327/page/1
-[2025-05-20 10:46:09] Categories for title '이주은 치어리더': ['치어리더']
-[2025-05-20 10:46:09] Found title: 안귀령 한복 핏 with link: /enter/17892256/page/1
-[2025-05-20 10:46:09] Categories for title '안귀령 한복 핏': ['아나운서']
-[2025-05-20 10:46:09] Found title: 악뮤 수현 근황 with link: /enter/17892036/page/1
-[2025-05-20 10:46:09] Categories for title '악뮤 수현 근황': ['연예']
-[2025-05-20 10:46:09] Found title: 정형돈 저작권료에 의문이 생긴 지드래곤 with link: /enter/17892029/page/1
-[2025-05-20 10:46:09] Categories for title '정형돈 저작권료에 의문이 생긴 지드래곤': ['연예']
-[2025-05-20 10:46:09] Found title: 걸그룹 여자아이돌 언더붑 모음 with link: /enter/17891973/page/1
-[2025-05-20 10:46:09] Categories for title '걸그룹 여자아이돌 언더붑 모음': ['연예']
-[2025-05-20 10:46:09] Found title: 조여정 20대 시절 몸매 with link: /enter/17891968/page/1
-[2025-05-20 10:46:09] Categories for title '조여정 20대 시절 몸매': ['연예']
-[2025-05-20 10:46:09] Found title: 뒤에서 찍은 설윤 뒤태 with link: /enter/17891824/page/1
-[2025-05-20 10:46:09] Categories for title '뒤에서 찍은 설윤 뒤태': ['아이돌']
-[2025-05-20 10:46:09] Found title: 가죽 홀터넥 의상 허벅지 벨트 아이브 장원영 with link: /enter/17891758/page/1
-[2025-05-20 10:46:09] Categories for title '가죽 홀터넥 의상 허벅지 벨트 아이브 장원영': ['아이돌']
-[2025-05-20 10:46:09] Found title: 트리플에스 공유빈 with link: /enter/17891737/page/1
-[2025-05-20 10:46:09] Categories for title '트리플에스 공유빈': ['아이돌']
-[2025-05-20 10:46:09] Found title: 종종 나오는 유재석 매운맛 with link: /enter/17891727/page/1
-[2025-05-20 10:46:09] Categories for title '종종 나오는 유재석 매운맛': ['연예']
-[2025-05-20 10:46:09] Found title: 인사하다 뻣뻣함을 감지한 강호동 with link: /enter/17891696/page/1
-[2025-05-20 10:46:09] Categories for title '인사하다 뻣뻣함을 감지한 강호동': ['연예']
-[2025-05-20 10:46:09] Found title: 해외에서 과감했던 있지 유나 하이레그 착장 with link: /enter/17891683/page/1
-[2025-05-20 10:46:09] Categories for title '해외에서 과감했던 있지 유나 하이레그 착장': ['아이돌']
-[2025-05-20 10:46:09] Found title: 배우 박해수가 연극하면서 가장 기억에 남았던 관객 with link: /enter/17891603/page/1
-[2025-05-20 10:46:09] Categories for title '배우 박해수가 연극하면서 가장 기억에 남았던 관객': ['연예']
-[2025-05-20 10:46:09] Found title: ??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요 with link: /enter/17891542/page/1
-[2025-05-20 10:46:09] Categories for title '??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요': ['아이돌']
-[2025-05-20 10:46:09] Found title: 신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스 with link: /enter/17891527/page/1
-[2025-05-20 10:46:09] Categories for title '신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스': ['아이돌']
-[2025-05-20 10:46:09] Found title: 꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나 with link: /enter/17891488/page/1
-[2025-05-20 10:46:09] Categories for title '꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나': ['아이돌']
-[2025-05-20 10:46:09] Found title: 옆에서 본 권은비 굴곡 검정 원피스 with link: /enter/17891470/page/1
-[2025-05-20 10:46:09] Categories for title '옆에서 본 권은비 굴곡 검정 원피스': ['아이돌']
-[2025-05-20 10:46:09] Found title: 차주영 with link: /enter/17891202/page/1
-[2025-05-20 10:46:09] Categories for title '차주영': ['연예']
-[2025-05-20 10:46:09] Found title: 김민지 아나운서 with link: /enter/17891197/page/1
-[2025-05-20 10:46:09] Categories for title '김민지 아나운서': ['아나운서']
-[2025-05-20 10:46:09] Found 20 posts on https://ggoorr.net/enter/page/1
-[2025-05-20 10:46:10] Raw content HTML: <div class="document_17892719_14523564 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" data-file-srl="17892720" editor_component="image_link" fetchpriority="high" height="6169" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" width="550"/></p>
+[2025-05-20 10:49:50] Raw anchor tags for titles: ['<a class="lu-title lddu-title" href="/enter/17892719/page/1">\n타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892327/page/1">\n이주은 치어리더\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892256/page/1">\n안귀령 한복 핏\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892036/page/1">\n악뮤 수현 근황\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17892029/page/1">\n정형돈 저작권료에 의문이 생긴 지드래곤\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891973/page/1">\n걸그룹 여자아이돌 언더붑 모음\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891968/page/1">\n조여정 20대 시절 몸매\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891824/page/1">\n뒤에서 찍은 설윤 뒤태\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891758/page/1">\n가죽 홀터넥 의상 허벅지 벨트 아이브 장원영\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891737/page/1">\n트리플에스 공유빈\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891727/page/1">\n종종 나오는 유재석 매운맛\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891696/page/1">\n인사하다 뻣뻣함을 감지한 강호동\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891683/page/1">\n해외에서 과감했던 있지 유나 하이레그 착장\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891603/page/1">\n배우 박해수가 연극하면서 가장 기억에 남았던 관객\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891542/page/1">\n??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891527/page/1">\n신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891488/page/1">\n꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891470/page/1">\n옆에서 본 권은비 굴곡 검정 원피스\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891202/page/1">\n차주영\t\t\t\t\t</a>', '<a class="lu-title lddu-title" href="/enter/17891197/page/1">\n김민지 아나운서\t\t\t\t\t</a>']
+[2025-05-20 10:49:50] Found title: 타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유 with link: /enter/17892719/page/1
+[2025-05-20 10:49:50] Categories for title '타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유': ['연예']
+[2025-05-20 10:49:50] Found title: 이주은 치어리더 with link: /enter/17892327/page/1
+[2025-05-20 10:49:50] Categories for title '이주은 치어리더': ['치어리더']
+[2025-05-20 10:49:50] Found title: 안귀령 한복 핏 with link: /enter/17892256/page/1
+[2025-05-20 10:49:50] Categories for title '안귀령 한복 핏': ['아나운서']
+[2025-05-20 10:49:50] Found title: 악뮤 수현 근황 with link: /enter/17892036/page/1
+[2025-05-20 10:49:50] Categories for title '악뮤 수현 근황': ['연예']
+[2025-05-20 10:49:50] Found title: 정형돈 저작권료에 의문이 생긴 지드래곤 with link: /enter/17892029/page/1
+[2025-05-20 10:49:50] Categories for title '정형돈 저작권료에 의문이 생긴 지드래곤': ['연예']
+[2025-05-20 10:49:50] Found title: 걸그룹 여자아이돌 언더붑 모음 with link: /enter/17891973/page/1
+[2025-05-20 10:49:50] Categories for title '걸그룹 여자아이돌 언더붑 모음': ['연예']
+[2025-05-20 10:49:50] Found title: 조여정 20대 시절 몸매 with link: /enter/17891968/page/1
+[2025-05-20 10:49:50] Categories for title '조여정 20대 시절 몸매': ['연예']
+[2025-05-20 10:49:50] Found title: 뒤에서 찍은 설윤 뒤태 with link: /enter/17891824/page/1
+[2025-05-20 10:49:50] Categories for title '뒤에서 찍은 설윤 뒤태': ['아이돌']
+[2025-05-20 10:49:50] Found title: 가죽 홀터넥 의상 허벅지 벨트 아이브 장원영 with link: /enter/17891758/page/1
+[2025-05-20 10:49:50] Categories for title '가죽 홀터넥 의상 허벅지 벨트 아이브 장원영': ['아이돌']
+[2025-05-20 10:49:50] Found title: 트리플에스 공유빈 with link: /enter/17891737/page/1
+[2025-05-20 10:49:50] Categories for title '트리플에스 공유빈': ['아이돌']
+[2025-05-20 10:49:50] Found title: 종종 나오는 유재석 매운맛 with link: /enter/17891727/page/1
+[2025-05-20 10:49:50] Categories for title '종종 나오는 유재석 매운맛': ['연예']
+[2025-05-20 10:49:50] Found title: 인사하다 뻣뻣함을 감지한 강호동 with link: /enter/17891696/page/1
+[2025-05-20 10:49:50] Categories for title '인사하다 뻣뻣함을 감지한 강호동': ['연예']
+[2025-05-20 10:49:50] Found title: 해외에서 과감했던 있지 유나 하이레그 착장 with link: /enter/17891683/page/1
+[2025-05-20 10:49:50] Categories for title '해외에서 과감했던 있지 유나 하이레그 착장': ['아이돌']
+[2025-05-20 10:49:50] Found title: 배우 박해수가 연극하면서 가장 기억에 남았던 관객 with link: /enter/17891603/page/1
+[2025-05-20 10:49:50] Categories for title '배우 박해수가 연극하면서 가장 기억에 남았던 관객': ['연예']
+[2025-05-20 10:49:50] Found title: ??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요 with link: /enter/17891542/page/1
+[2025-05-20 10:49:50] Categories for title '??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요': ['아이돌']
+[2025-05-20 10:49:50] Found title: 신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스 with link: /enter/17891527/page/1
+[2025-05-20 10:49:50] Categories for title '신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스': ['아이돌']
+[2025-05-20 10:49:50] Found title: 꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나 with link: /enter/17891488/page/1
+[2025-05-20 10:49:50] Categories for title '꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나': ['아이돌']
+[2025-05-20 10:49:50] Found title: 옆에서 본 권은비 굴곡 검정 원피스 with link: /enter/17891470/page/1
+[2025-05-20 10:49:50] Categories for title '옆에서 본 권은비 굴곡 검정 원피스': ['아이돌']
+[2025-05-20 10:49:50] Found title: 차주영 with link: /enter/17891202/page/1
+[2025-05-20 10:49:50] Categories for title '차주영': ['연예']
+[2025-05-20 10:49:50] Found title: 김민지 아나운서 with link: /enter/17891197/page/1
+[2025-05-20 10:49:50] Categories for title '김민지 아나운서': ['아나운서']
+[2025-05-20 10:49:50] Found 20 posts on https://ggoorr.net/enter/page/1
+[2025-05-20 10:49:50] Raw content HTML: <div class="document_17892719_14523564 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" data-file-srl="17892720" editor_component="image_link" fetchpriority="high" height="6169" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" width="550"/></p>
 <p> </p>
 <p><img alt="002.webp" data-cke-saved-src="/files/attach/images/124/719/892/017/eaa...
-[2025-05-20 10:46:10] Video URLs for post https://ggoorr.net/enter/17892719/page/1: []
-[2025-05-20 10:46:11] Featured image https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg status: 200
-[2025-05-20 10:46:11] Error fetching content from https://ggoorr.net/enter/17892719/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:11] Added content for: 타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유 (link: https://ggoorr.net/enter/17892719, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:12] Raw content HTML: <div class="document_17892327_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17892328" height="1280" poster="/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" src="/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" width="720"></video>
+[2025-05-20 10:49:50] Video URLs for post https://ggoorr.net/enter/17892719/page/1: []
+[2025-05-20 10:49:51] Featured image https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg status: 200
+[2025-05-20 10:49:51] ==============
+title: 타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17892719/page/1
+content: <p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" data-file-srl="17892720" editor_component="image_link" fetchpriority="high" height="6169" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" width="550"/></p><p><img alt="002.webp" data-cke-saved-src="/files/attach/images/124/719/892/017/eaa477959cb2d30ca3fb7e8644ba2048.webp" data-file-srl="17892721" editor_componen...
+length: 685
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/719/892/017/eaa477959cb2d30ca3fb7e8644ba2048.webp']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:51] Added content for: 타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유 (link: https://ggoorr.net/enter/17892719, content length: 685, categories: ['연예'])
+[2025-05-20 10:49:51] Raw content HTML: <div class="document_17892327_8319256 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17892328" height="1280" poster="/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" src="/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" width="720"></video>
 <p> </p>
 <p></p><video controls="" data-file-srl="17892329" height="1280" poster="/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg" src="/files/attach/images/134...
-[2025-05-20 10:46:12] Video tag attributes for https://ggoorr.net/enter/17892327/page/1: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg', 'controls': '', 'data-file-srl': '17892328'}
-[2025-05-20 10:46:12] Video tag attributes for https://ggoorr.net/enter/17892327/page/1: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg', 'controls': '', 'data-file-srl': '17892329'}
-[2025-05-20 10:46:12] Video tag attributes for https://ggoorr.net/enter/17892327/page/1: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg', 'controls': '', 'data-file-srl': '17892330'}
-[2025-05-20 10:46:12] Video URLs for post https://ggoorr.net/enter/17892327/page/1: ['https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4']
-[2025-05-20 10:46:12] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg status: 200
-[2025-05-20 10:46:12] ==============
+[2025-05-20 10:49:51] Video tag attributes for https://ggoorr.net/enter/17892327/page/1: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg', 'controls': '', 'data-file-srl': '17892328', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:51] Video tag attributes for https://ggoorr.net/enter/17892327/page/1: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg', 'controls': '', 'data-file-srl': '17892329', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:51] Video tag attributes for https://ggoorr.net/enter/17892327/page/1: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg', 'controls': '', 'data-file-srl': '17892330', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:51] Video URLs for post https://ggoorr.net/enter/17892327/page/1: ['https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4']
+[2025-05-20 10:49:51] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg status: 200
+[2025-05-20 10:49:51] ==============
 title: 이주은 치어리더 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17892327/page/1
-content: <p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328"></video></p><p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec...
-length: 867
+content: <p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328" __idm_id__ id playsinline></video></p><p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/ima...
+length: 945
 Featured Image: https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4']
-idmid: ==============
-[2025-05-20 10:46:12] Added content for: 이주은 치어리더 (link: https://ggoorr.net/enter/17892327, content length: 867, categories: ['치어리더'])
-[2025-05-20 10:46:13] Raw content HTML: <div class="document_17892256_8319256 rhymix_content xe_content"><p><img alt="JJyar.webp" data-cke-saved-src="/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" data-file-srl="17892257" editor_component="image_link" fetchpriority="high" height="529" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" width="800"/></p>
+__idm_id__: ['', '', '']
+==============
+[2025-05-20 10:49:51] Added content for: 이주은 치어리더 (link: https://ggoorr.net/enter/17892327, content length: 945, categories: ['치어리더'])
+[2025-05-20 10:49:52] Raw content HTML: <div class="document_17892256_8319256 rhymix_content xe_content"><p><img alt="JJyar.webp" data-cke-saved-src="/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" data-file-srl="17892257" editor_component="image_link" fetchpriority="high" height="529" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" width="800"/></p>
 <p> </p></div>
-[2025-05-20 10:46:13] Video URLs for post https://ggoorr.net/enter/17892256/page/1: []
-[2025-05-20 10:46:13] Featured image https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp status: 200
-[2025-05-20 10:46:13] Error fetching content from https://ggoorr.net/enter/17892256/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:13] Added content for: 안귀령 한복 핏 (link: https://ggoorr.net/enter/17892256, content length: 0, categories: ['아나운서'])
-[2025-05-20 10:46:14] Raw content HTML: <div class="document_17892036_11171895 rhymix_content xe_content"><p><img alt="e_sf32504002_8283adffa5e5d33f9edaa3b921ab99826f30b14a.jpg" data-cke-saved-src="/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" data-file-srl="17892037" editor_component="image_link" fetchpriority="high" height="768" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" width="600"/></p>
+[2025-05-20 10:49:52] Video URLs for post https://ggoorr.net/enter/17892256/page/1: []
+[2025-05-20 10:49:52] Featured image https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp status: 200
+[2025-05-20 10:49:52] ==============
+title: 안귀령 한복 핏 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17892256/page/1
+content: <p><img alt="JJyar.webp" data-cke-saved-src="/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" data-file-srl="17892257" editor_component="image_link" fetchpriority="high" height="529" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" width="800"/></p>
+length: 345
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:52] Added content for: 안귀령 한복 핏 (link: https://ggoorr.net/enter/17892256, content length: 345, categories: ['아나운서'])
+[2025-05-20 10:49:52] Raw content HTML: <div class="document_17892036_11171895 rhymix_content xe_content"><p><img alt="e_sf32504002_8283adffa5e5d33f9edaa3b921ab99826f30b14a.jpg" data-cke-saved-src="/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" data-file-srl="17892037" editor_component="image_link" fetchpriority="high" height="768" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" width="600"/></p>
 <p> </p></div>
-[2025-05-20 10:46:14] Video URLs for post https://ggoorr.net/enter/17892036/page/1: []
-[2025-05-20 10:46:14] Featured image https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg status: 200
-[2025-05-20 10:46:14] Error fetching content from https://ggoorr.net/enter/17892036/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:14] Added content for: 악뮤 수현 근황 (link: https://ggoorr.net/enter/17892036, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:14] Raw content HTML: <div class="document_17892029_11171895 rhymix_content xe_content"><p><img alt="a_w390752002_4f9fb7eaa2b5deac7af6beabf5f9ee49d979b1d6.jpg" data-cke-saved-src="/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" data-file-srl="17892030" editor_component="image_link" fetchpriority="high" height="8058" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" width="1078"/></p>
+[2025-05-20 10:49:52] Video URLs for post https://ggoorr.net/enter/17892036/page/1: []
+[2025-05-20 10:49:52] Featured image https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg status: 200
+[2025-05-20 10:49:52] ==============
+title: 악뮤 수현 근황 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17892036/page/1
+content: <p><img alt="e_sf32504002_8283adffa5e5d33f9edaa3b921ab99826f30b14a.jpg" data-cke-saved-src="/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" data-file-srl="17892037" editor_component="image_link" fetchpriority="high" height="768" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" width="600"/></p>
+length: 390
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:52] Added content for: 악뮤 수현 근황 (link: https://ggoorr.net/enter/17892036, content length: 390, categories: ['연예'])
+[2025-05-20 10:49:53] Raw content HTML: <div class="document_17892029_11171895 rhymix_content xe_content"><p><img alt="a_w390752002_4f9fb7eaa2b5deac7af6beabf5f9ee49d979b1d6.jpg" data-cke-saved-src="/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" data-file-srl="17892030" editor_component="image_link" fetchpriority="high" height="8058" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" width="1078"/></p>
 <p> </p></div>
-[2025-05-20 10:46:14] Video URLs for post https://ggoorr.net/enter/17892029/page/1: []
-[2025-05-20 10:46:14] Featured image https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg status: 200
-[2025-05-20 10:46:14] Error fetching content from https://ggoorr.net/enter/17892029/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:14] Added content for: 정형돈 저작권료에 의문이 생긴 지드래곤 (link: https://ggoorr.net/enter/17892029, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:15] Raw content HTML: <div class="document_17891973_17621184 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17891974" height="1138" poster="/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" src="/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" width="640"></video>
+[2025-05-20 10:49:53] Video URLs for post https://ggoorr.net/enter/17892029/page/1: []
+[2025-05-20 10:49:53] Featured image https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg status: 200
+[2025-05-20 10:49:53] ==============
+title: 정형돈 저작권료에 의문이 생긴 지드래곤 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17892029/page/1
+content: <p><img alt="a_w390752002_4f9fb7eaa2b5deac7af6beabf5f9ee49d979b1d6.jpg" data-cke-saved-src="/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" data-file-srl="17892030" editor_component="image_link" fetchpriority="high" height="8058" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" width="1078"/></p>
+length: 392
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:53] Added content for: 정형돈 저작권료에 의문이 생긴 지드래곤 (link: https://ggoorr.net/enter/17892029, content length: 392, categories: ['연예'])
+[2025-05-20 10:49:54] Raw content HTML: <div class="document_17891973_17621184 rhymix_content xe_content"><p></p><video controls="" data-file-srl="17891974" height="1138" poster="/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" src="/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" width="640"></video>
 <p></p><video controls="" data-file-srl="17891975" height="1222" poster="/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg" src="/files/attach/images/124/973/891...
-[2025-05-20 10:46:15] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '640', 'height': '1138', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg', 'controls': '', 'data-file-srl': '17891974'}
-[2025-05-20 10:46:15] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '650', 'height': '1222', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg', 'controls': '', 'data-file-srl': '17891975'}
-[2025-05-20 10:46:15] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '960', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg', 'controls': '', 'data-file-srl': '17891976'}
-[2025-05-20 10:46:15] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '880', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg', 'controls': '', 'data-file-srl': '17891977'}
-[2025-05-20 10:46:15] Video URLs for post https://ggoorr.net/enter/17891973/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4']
-[2025-05-20 10:46:16] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg status: 200
-[2025-05-20 10:46:16] ==============
+[2025-05-20 10:49:54] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '640', 'height': '1138', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg', 'controls': '', 'data-file-srl': '17891974', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:54] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '650', 'height': '1222', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg', 'controls': '', 'data-file-srl': '17891975', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:54] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '960', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg', 'controls': '', 'data-file-srl': '17891976', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:54] Video tag attributes for https://ggoorr.net/enter/17891973/page/1: {'width': '880', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg', 'controls': '', 'data-file-srl': '17891977', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:54] Video URLs for post https://ggoorr.net/enter/17891973/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4']
+[2025-05-20 10:49:54] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg status: 200
+[2025-05-20 10:49:54] ==============
 title: 걸그룹 여자아이돌 언더붑 모음 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891973/page/1
-content: <p><video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974"></video></p><p><video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1...
-length: 1156
+content: <p><video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974" __idm_id__ id playsinline></video></p><p><video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/ima...
+length: 1260
 Featured Image: https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4']
-idmid: ==============
-[2025-05-20 10:46:16] Added content for: 걸그룹 여자아이돌 언더붑 모음 (link: https://ggoorr.net/enter/17891973, content length: 1156, categories: ['연예'])
-[2025-05-20 10:46:16] Raw content HTML: <div class="document_17891968_17621184 rhymix_content xe_content"><p> </p>
+__idm_id__: ['', '', '', '']
+==============
+[2025-05-20 10:49:54] Added content for: 걸그룹 여자아이돌 언더붑 모음 (link: https://ggoorr.net/enter/17891973, content length: 1260, categories: ['연예'])
+[2025-05-20 10:49:54] Raw content HTML: <div class="document_17891968_17621184 rhymix_content xe_content"><p> </p>
 <p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg"/></p>
 <p> </p>
 <p><img alt="" data-loaded="true" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990643755.jpg"/></p>
@@ -128,547 +166,609 @@ idmid: ==============
 <p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990696340.jpg"/></p>
 <p> </p>
 <p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/...
-[2025-05-20 10:46:16] Video URLs for post https://ggoorr.net/enter/17891968/page/1: []
-[2025-05-20 10:46:18] Featured image https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg status: 200
-[2025-05-20 10:46:18] Error fetching content from https://ggoorr.net/enter/17891968/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:18] Added content for: 조여정 20대 시절 몸매 (link: https://ggoorr.net/enter/17891968, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:19] Raw content HTML: <div class="document_17891824_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891825" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" preload="auto" src="/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" width="480"></video>
+[2025-05-20 10:49:54] Video URLs for post https://ggoorr.net/enter/17891968/page/1: []
+[2025-05-20 10:49:55] Featured image https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg status: 200
+[2025-05-20 10:49:55] ==============
+title: 조여정 20대 시절 몸매 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17891968/page/1
+content: <p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg" width="720px"/></p><p><img alt="" data-loaded="true" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990643755.jpg" width="720px"/></p><p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990696340.jpg" width="720px"/></p><p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990419048.jpg" width="720px"/></p>
+length: 483
+Featured Image: https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg
+Image URLs: ['https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg', 'https://image.fomos.kr/contents/images/board/2025/0316/1742101990643755.jpg', 'https://image.fomos.kr/contents/images/board/2025/0316/1742101990696340.jpg', 'https://image.fomos.kr/contents/images/board/2025/0316/1742101990419048.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:55] Added content for: 조여정 20대 시절 몸매 (link: https://ggoorr.net/enter/17891968, content length: 483, categories: ['연예'])
+[2025-05-20 10:49:56] Raw content HTML: <div class="document_17891824_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891825" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" preload="auto" src="/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" width="480"></video>
 <p> </p>
 <p></p><video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source ...
-[2025-05-20 10:46:19] Video tag attributes for https://ggoorr.net/enter/17891824/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg', 'controls': '', 'data-file-srl': '17891825'}
-[2025-05-20 10:46:19] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/vSI6alI.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:19] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/18s2PCs.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:19] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/zHFVJi9.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:19] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/IBqBvjP.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:19] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yZybJ5h.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:19] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/S91r0O5.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:19] Video URLs for post https://ggoorr.net/enter/17891824/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4']
-[2025-05-20 10:46:19] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg status: 200
-[2025-05-20 10:46:19] ==============
+[2025-05-20 10:49:56] Video tag attributes for https://ggoorr.net/enter/17891824/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg', 'controls': '', 'data-file-srl': '17891825', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/vSI6alI.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/18s2PCs.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/zHFVJi9.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/IBqBvjP.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yZybJ5h.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/S91r0O5.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Video URLs for post https://ggoorr.net/enter/17891824/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4']
+[2025-05-20 10:49:56] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg status: 200
+[2025-05-20 10:49:56] ==============
 title: 뒤에서 찍은 설윤 뒤태 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891824/page/1
-content: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825"></video></p>
-length: 335
+content: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825" __idm_id__ id></video></p>
+length: 349
 Featured Image: https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4']
-idmid: ==============
-[2025-05-20 10:46:19] Added content for: 뒤에서 찍은 설윤 뒤태 (link: https://ggoorr.net/enter/17891824, content length: 335, categories: ['아이돌'])
-[2025-05-20 10:46:20] Raw content HTML: <div class="document_17891758_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891759" height="854" loop="" muted="" poster="/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" src="/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" width="632"></video>
+__idm_id__: ['']
+==============
+[2025-05-20 10:49:56] Added content for: 뒤에서 찍은 설윤 뒤태 (link: https://ggoorr.net/enter/17891824, content length: 349, categories: ['아이돌'])
+[2025-05-20 10:49:56] Raw content HTML: <div class="document_17891758_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891759" height="854" loop="" muted="" poster="/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" src="/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" width="632"></video>
 <p> </p>
 <p></p><video autoplay="" controls="" height="768" loop="" muted="" playsinline="" preload="auto" width="854"><source src="https://imgur.com/qx20m5C...
-[2025-05-20 10:46:20] Video tag attributes for https://ggoorr.net/enter/17891758/page/1: {'autoplay': '', 'muted': '', 'loop': '', 'width': '632', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg', 'controls': '', 'data-file-srl': '17891759'}
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="768" loop="" muted="" playsinline="" preload="auto" width="854"><source src="https://imgur.com/qx20m5C.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="632"><source src="https://imgur.com/smM13iS.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="632"><source src="https://imgur.com/ICxavXE.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="632"><source src="https://imgur.com/Y8IXYkk.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/iACsoYa.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/Gp76BSj.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/RIvcxVC.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Video tag attributes for https://ggoorr.net/enter/17891758/page/1: {'autoplay': '', 'muted': '', 'loop': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg', 'controls': '', 'data-file-srl': '17891762'}
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/49Yvypm.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/MLy7Ydm.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/JBzGaa8.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/e6nQTAd.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/A1qgofI.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yO6jFnn.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:20] Video URLs for post https://ggoorr.net/enter/17891758/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4']
-[2025-05-20 10:46:20] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg status: 200
-[2025-05-20 10:46:20] ==============
+[2025-05-20 10:49:56] Video tag attributes for https://ggoorr.net/enter/17891758/page/1: {'autoplay': '', 'muted': '', 'loop': '', 'width': '632', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg', 'controls': '', 'data-file-srl': '17891759', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="768" loop="" muted="" playsinline="" preload="auto" width="854"><source src="https://imgur.com/qx20m5C.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="632"><source src="https://imgur.com/smM13iS.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="632"><source src="https://imgur.com/ICxavXE.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="632"><source src="https://imgur.com/Y8IXYkk.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/iACsoYa.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/Gp76BSj.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/RIvcxVC.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Video tag attributes for https://ggoorr.net/enter/17891758/page/1: {'autoplay': '', 'muted': '', 'loop': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg', 'controls': '', 'data-file-srl': '17891762', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/49Yvypm.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/MLy7Ydm.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/JBzGaa8.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/e6nQTAd.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/A1qgofI.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yO6jFnn.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:56] Video URLs for post https://ggoorr.net/enter/17891758/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4']
+[2025-05-20 10:49:56] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg status: 200
+[2025-05-20 10:49:56] ==============
 title: 가죽 홀터넥 의상 허벅지 벨트 아이브 장원영 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891758/page/1
-content: <p><video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759"></video></p><p><video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="https://cdn.ggoorr.net/file...
-length: 616
+content: <p><video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759" __idm_id__ id playsinline></video></p><p><video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="h...
+length: 668
 Featured Image: https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4']
-idmid: ==============
-[2025-05-20 10:46:20] Added content for: 가죽 홀터넥 의상 허벅지 벨트 아이브 장원영 (link: https://ggoorr.net/enter/17891758, content length: 616, categories: ['아이돌'])
-[2025-05-20 10:46:21] Raw content HTML: <div class="document_17891737_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" data-file-srl="17891738" editor_component="image_link" fetchpriority="high" height="1272" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" width="854"/></p>
+__idm_id__: ['', '']
+==============
+[2025-05-20 10:49:56] Added content for: 가죽 홀터넥 의상 허벅지 벨트 아이브 장원영 (link: https://ggoorr.net/enter/17891758, content length: 668, categories: ['아이돌'])
+[2025-05-20 10:49:56] Raw content HTML: <div class="document_17891737_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" data-file-srl="17891738" editor_component="image_link" fetchpriority="high" height="1272" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" width="854"/></p>
 <p> </p>
 <p><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/5557...
-[2025-05-20 10:46:21] Video URLs for post https://ggoorr.net/enter/17891737/page/1: []
-[2025-05-20 10:46:21] Featured image https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg status: 200
-[2025-05-20 10:46:21] Error fetching content from https://ggoorr.net/enter/17891737/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:21] Added content for: 트리플에스 공유빈 (link: https://ggoorr.net/enter/17891737, content length: 0, categories: ['아이돌'])
-[2025-05-20 10:46:22] Raw content HTML: <div class="document_17891727_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" data-file-srl="17891728" editor_component="image_link" fetchpriority="high" height="2964" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" width="500"/></p>
+[2025-05-20 10:49:56] Video URLs for post https://ggoorr.net/enter/17891737/page/1: []
+[2025-05-20 10:49:56] Featured image https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg status: 200
+[2025-05-20 10:49:56] ==============
+title: 트리플에스 공유빈 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17891737/page/1
+content: <p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" data-file-srl="17891738" editor_component="image_link" fetchpriority="high" height="1272" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" width="854"/></p><p><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/5557d5466f2b7f04c85206822939d3a6.jpg" data-file-srl="17891739" editor_component=...
+length: 2387
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/737/891/017/5557d5466f2b7f04c85206822939d3a6.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/737/891/017/3c0fbd689e100b03b954e3ea559ace7f.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/737/891/017/f46ae0463514e363ca347489597c2869.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/737/891/017/54c8d1c28ac330595550e92e858fe97d.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/737/891/017/9e93b666945879f9d84abbdfa74fac4c.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/737/891/017/22220ab80065a16dd344bbebc7b9cdd7.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:56] Added content for: 트리플에스 공유빈 (link: https://ggoorr.net/enter/17891737, content length: 2387, categories: ['아이돌'])
+[2025-05-20 10:49:57] Raw content HTML: <div class="document_17891727_15464532 rhymix_content xe_content"><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" data-file-srl="17891728" editor_component="image_link" fetchpriority="high" height="2964" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" width="500"/></p>
 <p> </p>
 <p><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/ff48...
-[2025-05-20 10:46:22] Video URLs for post https://ggoorr.net/enter/17891727/page/1: []
-[2025-05-20 10:46:22] Featured image https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg status: 200
-[2025-05-20 10:46:22] Error fetching content from https://ggoorr.net/enter/17891727/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:22] Added content for: 종종 나오는 유재석 매운맛 (link: https://ggoorr.net/enter/17891727, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:23] Raw content HTML: <div class="document_17891696_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" height="420" loop="" muted="" playsinline="" src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" width="624"></video>
+[2025-05-20 10:49:57] Video URLs for post https://ggoorr.net/enter/17891727/page/1: []
+[2025-05-20 10:49:57] Featured image https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg status: 200
+[2025-05-20 10:49:57] ==============
+title: 종종 나오는 유재석 매운맛 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17891727/page/1
+content: <p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" data-file-srl="17891728" editor_component="image_link" fetchpriority="high" height="2964" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" width="500"/></p><p><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/ff48c3d0f49fc553006b75a13398a204.jpg" data-file-srl="17891729" editor_component=...
+length: 1023
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/727/891/017/ff48c3d0f49fc553006b75a13398a204.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/727/891/017/211c6707a2a9b4558c90e6dd05a3c44b.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:57] Added content for: 종종 나오는 유재석 매운맛 (link: https://ggoorr.net/enter/17891727, content length: 1023, categories: ['연예'])
+[2025-05-20 10:49:57] Raw content HTML: <div class="document_17891696_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" height="420" loop="" muted="" playsinline="" src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" width="624"></video>
 <p> </p>
 <p>1박2일 시즌1 강원도 화천편</p></div>
-[2025-05-20 10:46:23] Video tag attributes for https://ggoorr.net/enter/17891696/page/1: {'width': '624', 'height': '420', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891697', 'data-saved-src': '/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', 'controls': ''}
-[2025-05-20 10:46:23] Video URLs for post https://ggoorr.net/enter/17891696/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4']
-[2025-05-20 10:46:23] ==============
+[2025-05-20 10:49:57] Video tag attributes for https://ggoorr.net/enter/17891696/page/1: {'width': '624', 'height': '420', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891697', 'data-saved-src': '/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', '__idm_id__': '', 'id': '', 'controls': ''}
+[2025-05-20 10:49:57] Video URLs for post https://ggoorr.net/enter/17891696/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4']
+[2025-05-20 10:49:57] ==============
 title: 인사하다 뻣뻣함을 감지한 강호동 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891696/page/1
-content: <p><video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" controls></video></p>
-length: 306
+content: <p><video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" __idm_id__ id controls></video></p>
+length: 320
 Featured Image: None
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4']
-idmid: ==============
-[2025-05-20 10:46:23] Added content for: 인사하다 뻣뻣함을 감지한 강호동 (link: https://ggoorr.net/enter/17891696, content length: 306, categories: ['연예'])
-[2025-05-20 10:46:23] Raw content HTML: <div class="document_17891683_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891684" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" preload="auto" src="/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" width="444"></video>
+__idm_id__: ['']
+==============
+[2025-05-20 10:49:57] Added content for: 인사하다 뻣뻣함을 감지한 강호동 (link: https://ggoorr.net/enter/17891696, content length: 320, categories: ['연예'])
+[2025-05-20 10:49:58] Raw content HTML: <div class="document_17891683_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891684" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" preload="auto" src="/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" width="444"></video>
 <p> </p>
 <p></p><video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="432"><source ...
-[2025-05-20 10:46:23] Video tag attributes for https://ggoorr.net/enter/17891683/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '444', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg', 'controls': '', 'data-file-srl': '17891684'}
-[2025-05-20 10:46:23] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="432"><source src="https://imgur.com/P3CXt1a.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:23] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/CPjiBJS.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:23] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/DiMjkpt.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:23] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yHP5RWb.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:23] Video URLs for post https://ggoorr.net/enter/17891683/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4']
-[2025-05-20 10:46:24] Featured image https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg status: 200
-[2025-05-20 10:46:24] ==============
+[2025-05-20 10:49:58] Video tag attributes for https://ggoorr.net/enter/17891683/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '444', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg', 'controls': '', 'data-file-srl': '17891684', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:49:58] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="432"><source src="https://imgur.com/P3CXt1a.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:58] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/CPjiBJS.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:58] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/DiMjkpt.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:58] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/yHP5RWb.mp4" type="video/mp4"/></video>
+[2025-05-20 10:49:58] Video URLs for post https://ggoorr.net/enter/17891683/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4']
+[2025-05-20 10:49:58] Featured image https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg status: 200
+[2025-05-20 10:49:58] ==============
 title: 해외에서 과감했던 있지 유나 하이레그 착장 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891683/page/1
-content: <p><video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684"></video></p><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg" data-file-srl="17891685" editor_component="image...
-length: 1358
+content: <p><video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684" __idm_id__ id></video></p><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg" data-file-srl="17891685" editor_co...
+length: 1372
 Featured Image: https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg
 Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/af5a4e8e94b43796ea630751a31a54b0.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/ca4749939b8ed1b57b3b52a5a079a1e0.jpg']
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4']
-idmid: ==============
-[2025-05-20 10:46:24] Added content for: 해외에서 과감했던 있지 유나 하이레그 착장 (link: https://ggoorr.net/enter/17891683, content length: 1358, categories: ['아이돌'])
-[2025-05-20 10:46:24] Raw content HTML: <div class="document_17891603_15464532 rhymix_content xe_content"><p><img alt="배우 박해수가 연극하면서 가장 기억에 남았던 관객.jpg" data-cke-saved-src="/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" data-file-srl="17891604" editor_component="image_link" fetchpriority="high" height="11364" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" width="779"/></p>
+__idm_id__: ['']
+==============
+[2025-05-20 10:49:58] Added content for: 해외에서 과감했던 있지 유나 하이레그 착장 (link: https://ggoorr.net/enter/17891683, content length: 1372, categories: ['아이돌'])
+[2025-05-20 10:49:58] Raw content HTML: <div class="document_17891603_15464532 rhymix_content xe_content"><p><img alt="배우 박해수가 연극하면서 가장 기억에 남았던 관객.jpg" data-cke-saved-src="/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" data-file-srl="17891604" editor_component="image_link" fetchpriority="high" height="11364" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" width="779"/></p>
 <p> </p></div>
-[2025-05-20 10:46:24] Video URLs for post https://ggoorr.net/enter/17891603/page/1: []
-[2025-05-20 10:46:24] Featured image https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg status: 200
-[2025-05-20 10:46:24] Error fetching content from https://ggoorr.net/enter/17891603/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:24] Added content for: 배우 박해수가 연극하면서 가장 기억에 남았던 관객 (link: https://ggoorr.net/enter/17891603, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:25] Raw content HTML: <div class="document_17891542_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" height="380" loop="" muted="" playsinline="" src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" width="678"></video>
+[2025-05-20 10:49:58] Video URLs for post https://ggoorr.net/enter/17891603/page/1: []
+[2025-05-20 10:49:58] Featured image https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg status: 200
+[2025-05-20 10:49:58] ==============
+title: 배우 박해수가 연극하면서 가장 기억에 남았던 관객 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17891603/page/1
+content: <p><img alt="배우 박해수가 연극하면서 가장 기억에 남았던 관객.jpg" data-cke-saved-src="/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" data-file-srl="17891604" editor_component="image_link" fetchpriority="high" height="11364" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" width="779"/></p>
+length: 366
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:49:58] Added content for: 배우 박해수가 연극하면서 가장 기억에 남았던 관객 (link: https://ggoorr.net/enter/17891603, content length: 366, categories: ['연예'])
+[2025-05-20 10:49:59] Raw content HTML: <div class="document_17891542_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" height="380" loop="" muted="" playsinline="" src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" width="678"></video>
 <p> </p>
 <p>ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ귀여운 츄</p></div>
-[2025-05-20 10:46:25] Video tag attributes for https://ggoorr.net/enter/17891542/page/1: {'width': '678', 'height': '380', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891543', 'data-saved-src': '/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', 'controls': ''}
-[2025-05-20 10:46:25] Video URLs for post https://ggoorr.net/enter/17891542/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4']
-[2025-05-20 10:46:25] ==============
+[2025-05-20 10:49:59] Video tag attributes for https://ggoorr.net/enter/17891542/page/1: {'width': '678', 'height': '380', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891543', 'data-saved-src': '/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', '__idm_id__': '', 'id': '', 'controls': ''}
+[2025-05-20 10:49:59] Video URLs for post https://ggoorr.net/enter/17891542/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4']
+[2025-05-20 10:49:59] ==============
 title: ??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891542/page/1
-content: <p><video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" controls></video></p>
-length: 306
+content: <p><video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" __idm_id__ id controls></video></p>
+length: 320
 Featured Image: None
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4']
-idmid: ==============
-[2025-05-20 10:46:25] Added content for: ??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요 (link: https://ggoorr.net/enter/17891542, content length: 306, categories: ['아이돌'])
-[2025-05-20 10:46:26] Raw content HTML: <div class="document_17891527_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" height="546" loop="" muted="" playsinline="" src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" width="410"></video>
+__idm_id__: ['']
+==============
+[2025-05-20 10:49:59] Added content for: ??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요 (link: https://ggoorr.net/enter/17891542, content length: 320, categories: ['아이돌'])
+[2025-05-20 10:49:59] Raw content HTML: <div class="document_17891527_15464532 rhymix_content xe_content"><p></p><video autoplay="" data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" height="546" loop="" muted="" playsinline="" src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" width="410"></video>
 <p> </p></div>
-[2025-05-20 10:46:26] Video tag attributes for https://ggoorr.net/enter/17891527/page/1: {'width': '410', 'height': '546', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891528', 'data-saved-src': '/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', 'controls': ''}
-[2025-05-20 10:46:26] Video URLs for post https://ggoorr.net/enter/17891527/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4']
-[2025-05-20 10:46:26] ==============
+[2025-05-20 10:49:59] Video tag attributes for https://ggoorr.net/enter/17891527/page/1: {'width': '410', 'height': '546', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891528', 'data-saved-src': '/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', '__idm_id__': '', 'id': '', 'controls': ''}
+[2025-05-20 10:49:59] Video URLs for post https://ggoorr.net/enter/17891527/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4']
+[2025-05-20 10:49:59] ==============
 title: 신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891527/page/1
-content: <p><video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" controls></video></p>
-length: 306
+content: <p><video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" __idm_id__ id controls></video></p>
+length: 320
 Featured Image: None
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4']
-idmid: ==============
-[2025-05-20 10:46:26] Added content for: 신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스 (link: https://ggoorr.net/enter/17891527, content length: 306, categories: ['아이돌'])
-[2025-05-20 10:46:26] Raw content HTML: <div class="document_17891488_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891489" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" preload="auto" src="/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" width="466"></video>
+__idm_id__: ['']
+==============
+[2025-05-20 10:49:59] Added content for: 신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스 (link: https://ggoorr.net/enter/17891527, content length: 320, categories: ['아이돌'])
+[2025-05-20 10:50:00] Raw content HTML: <div class="document_17891488_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891489" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" preload="auto" src="/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" width="466"></video>
 <p> </p>
 <p></p><video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" wi...
-[2025-05-20 10:46:26] Video tag attributes for https://ggoorr.net/enter/17891488/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '466', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg', 'controls': '', 'data-file-srl': '17891489'}
-[2025-05-20 10:46:26] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/SKIMD2m.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:26] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="3" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/cBO3ixi.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:26] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="5" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/I0e3eP0.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:26] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="4" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/vj6kL7F.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:26] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="0" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/lf0b9HF.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:26] Video URLs for post https://ggoorr.net/enter/17891488/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4']
-[2025-05-20 10:46:26] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg status: 200
-[2025-05-20 10:46:26] ==============
+[2025-05-20 10:50:00] Video tag attributes for https://ggoorr.net/enter/17891488/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '466', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg', 'controls': '', 'data-file-srl': '17891489', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="2" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/SKIMD2m.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="3" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/cBO3ixi.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="5" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/I0e3eP0.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="4" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/vj6kL7F.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" data-ebeglcfo="0" height="854" loop="" muted="" playsinline="" preload="auto" width="466"><source src="https://imgur.com/lf0b9HF.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Video URLs for post https://ggoorr.net/enter/17891488/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4']
+[2025-05-20 10:50:00] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg status: 200
+[2025-05-20 10:50:00] ==============
 title: 꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891488/page/1
-content: <p><video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489"></video></p>
-length: 335
+content: <p><video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489" __idm_id__ id></video></p>
+length: 349
 Featured Image: https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4']
-idmid: ==============
-[2025-05-20 10:46:26] Added content for: 꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나 (link: https://ggoorr.net/enter/17891488, content length: 335, categories: ['아이돌'])
-[2025-05-20 10:46:27] Raw content HTML: <div class="document_17891470_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891471" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" preload="auto" src="/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" width="480"></video>
+__idm_id__: ['']
+==============
+[2025-05-20 10:50:00] Added content for: 꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나 (link: https://ggoorr.net/enter/17891488, content length: 349, categories: ['아이돌'])
+[2025-05-20 10:50:00] Raw content HTML: <div class="document_17891470_15464532 rhymix_content xe_content"><p></p><video autoplay="" controls="" data-file-srl="17891471" height="854" loop="" muted="" playsinline="" poster="/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" preload="auto" src="/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" width="480"></video>
 <p> </p>
 <p></p><video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source ...
-[2025-05-20 10:46:27] Video tag attributes for https://ggoorr.net/enter/17891470/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg', 'controls': '', 'data-file-srl': '17891471'}
-[2025-05-20 10:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/tqQsVIh.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/LNain7k.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:27] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/cFAjHlN.mp4" type="video/mp4"/></video>
-[2025-05-20 10:46:27] Video URLs for post https://ggoorr.net/enter/17891470/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4']
-[2025-05-20 10:46:27] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg status: 200
-[2025-05-20 10:46:27] ==============
+[2025-05-20 10:50:00] Video tag attributes for https://ggoorr.net/enter/17891470/page/1: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg', 'controls': '', 'data-file-srl': '17891471', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/tqQsVIh.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/LNain7k.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Skipping video tag with no src: <video autoplay="" controls="" height="854" loop="" muted="" playsinline="" preload="auto" width="480"><source src="https://imgur.com/cFAjHlN.mp4" type="video/mp4"/></video>
+[2025-05-20 10:50:00] Video URLs for post https://ggoorr.net/enter/17891470/page/1: ['https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4']
+[2025-05-20 10:50:01] Featured image (poster) https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg status: 200
+[2025-05-20 10:50:01] ==============
 title: 옆에서 본 권은비 굴곡 검정 원피스 - 방송/연예 - 꾸르
 link: https://ggoorr.net/enter/17891470/page/1
-content: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471"></video></p>
-length: 335
+content: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471" __idm_id__ id></video></p>
+length: 349
 Featured Image: https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg
 Image URLs: []
 Video URLs: ['https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4']
-idmid: ==============
-[2025-05-20 10:46:27] Added content for: 옆에서 본 권은비 굴곡 검정 원피스 (link: https://ggoorr.net/enter/17891470, content length: 335, categories: ['아이돌'])
-[2025-05-20 10:46:28] Raw content HTML: <div class="document_17891202_8319256 rhymix_content xe_content"><p><img alt="2109082634_rGtcw3Y4_KQoRpVduLFINBCHl.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" data-file-srl="17891203" editor_component="image_link" fetchpriority="high" height="1066" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" width="854"/></p>
+__idm_id__: ['']
+==============
+[2025-05-20 10:50:01] Added content for: 옆에서 본 권은비 굴곡 검정 원피스 (link: https://ggoorr.net/enter/17891470, content length: 349, categories: ['아이돌'])
+[2025-05-20 10:50:01] Raw content HTML: <div class="document_17891202_8319256 rhymix_content xe_content"><p><img alt="2109082634_rGtcw3Y4_KQoRpVduLFINBCHl.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" data-file-srl="17891203" editor_component="image_link" fetchpriority="high" height="1066" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" width="854"/></p>
 <p> </p>
 <p><img alt="2109082634_wUvDOqxi_NfRQZ6TsjpghJue2.j...
-[2025-05-20 10:46:28] Video URLs for post https://ggoorr.net/enter/17891202/page/1: []
-[2025-05-20 10:46:28] Featured image https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg status: 200
-[2025-05-20 10:46:28] Error fetching content from https://ggoorr.net/enter/17891202/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:28] Added content for: 차주영 (link: https://ggoorr.net/enter/17891202, content length: 0, categories: ['연예'])
-[2025-05-20 10:46:29] Raw content HTML: <div class="document_17891197_8319256 rhymix_content xe_content"><p><img alt="3555410767_TPhtDqnw_J1lX9M7maeOZCjNd.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" data-file-srl="17891198" editor_component="image_link" fetchpriority="high" height="854" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" width="854"/></p>
+[2025-05-20 10:50:01] Video URLs for post https://ggoorr.net/enter/17891202/page/1: []
+[2025-05-20 10:50:02] Featured image https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg status: 200
+[2025-05-20 10:50:02] ==============
+title: 차주영 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17891202/page/1
+content: <p><img alt="2109082634_rGtcw3Y4_KQoRpVduLFINBCHl.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" data-file-srl="17891203" editor_component="image_link" fetchpriority="high" height="1066" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" width="854"/></p><p><img alt="2109082634_wUvDOqxi_NfRQZ6TsjpghJue2.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/fd8e72bca7e797...
+length: 4488
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/fd8e72bca7e797528bdffd3a3835bf2e.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/0601b81410a3ca83f4525625a3aaa369.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/05c194149cdbb74b2b1236db0d1e1d7a.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/91f839a84578e0d7c52653a28f29f2ee.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/27c6f0c4bd11a718d2383622b21c4f38.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/61d3ad569d778a0dcf6690233d82d869.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e395f10b35780a9ffa020a4596cd2c8a.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/7d85215da9898347adb84134dcc133be.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/84fefd98de45dc8a49f0ba4bb298177c.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/94770d3fefc9c9c4c641ba2e6cea5d0a.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/202/891/017/06cdb329c77664b8a23893fd8317f1cc.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:50:02] Added content for: 차주영 (link: https://ggoorr.net/enter/17891202, content length: 4488, categories: ['연예'])
+[2025-05-20 10:50:03] Raw content HTML: <div class="document_17891197_8319256 rhymix_content xe_content"><p><img alt="3555410767_TPhtDqnw_J1lX9M7maeOZCjNd.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" data-file-srl="17891198" editor_component="image_link" fetchpriority="high" height="854" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" width="854"/></p>
 <p> </p>
 <p><img alt="3555410767_PONhxLRe_2kif0GuwHJrzUDCK.jp...
-[2025-05-20 10:46:29] Video URLs for post https://ggoorr.net/enter/17891197/page/1: []
-[2025-05-20 10:46:29] Featured image https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg status: 200
-[2025-05-20 10:46:29] Error fetching content from https://ggoorr.net/enter/17891197/page/1: cannot access local variable 'idm_id' where it is not associated with a value
-[2025-05-20 10:46:29] Added content for: 김민지 아나운서 (link: https://ggoorr.net/enter/17891197, content length: 0, categories: ['아나운서'])
-[2025-05-20 10:46:29] Total posts collected: 20
-[2025-05-20 10:46:29] Raw content for item 1: 
-[2025-05-20 10:46:29] Featured image for item 1: 
-[2025-05-20 10:46:29] Categories for item 1: ['연예']
-[2025-05-20 10:46:29] Video tags for item 1: []
-[2025-05-20 10:46:29] ==============
+[2025-05-20 10:50:03] Video URLs for post https://ggoorr.net/enter/17891197/page/1: []
+[2025-05-20 10:50:03] Featured image https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg status: 200
+[2025-05-20 10:50:03] ==============
+title: 김민지 아나운서 - 방송/연예 - 꾸르
+link: https://ggoorr.net/enter/17891197/page/1
+content: <p><img alt="3555410767_TPhtDqnw_J1lX9M7maeOZCjNd.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" data-file-srl="17891198" editor_component="image_link" fetchpriority="high" height="854" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" width="854"/></p><p><img alt="3555410767_PONhxLRe_2kif0GuwHJrzUDCK.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/9dcd67329719611...
+length: 746
+Featured Image: https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg
+Image URLs: ['https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg', 'https://cdn.ggoorr.net/files/attach/images/124/197/891/017/9dcd67329719611713548c5dcac607d6.jpg']
+Video URLs: []
+__idm_id__: []
+==============
+[2025-05-20 10:50:03] Added content for: 김민지 아나운서 (link: https://ggoorr.net/enter/17891197, content length: 746, categories: ['아나운서'])
+[2025-05-20 10:50:03] Total posts collected: 20
+[2025-05-20 10:50:03] Raw content for item 1: <p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" data-file-srl="17892720" editor_component="image_link" fetchpriority="high" height="6169" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" width="550"/></p><p><img alt="002.webp" data-cke-saved-src="/files/attach/images/124/719/892/017/eaa477959cb2d30ca3fb7e8644ba2048.webp" data-file-srl="17892721" editor_componen...
+[2025-05-20 10:50:03] Featured image for item 1: https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg
+[2025-05-20 10:50:03] Categories for item 1: ['연예']
+[2025-05-20 10:50:03] Video tags for item 1: []
+[2025-05-20 10:50:03] ==============
 Item 1 (article):
 title: 타블로 학력위조 누명사건때 다른 멤버들이 못 도와준 이유
 link: https://ggoorr.net/enter/17892719
 guid: https://ggoorr.net/enter/17892719
-content: 
-length: 0
+content: </br><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" data-file-srl="17892720" editor_component="image_link" fetchpriority="high" height="6169" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg" width="550"/></br></br><img alt="002.webp" data-cke-saved-src="/files/attach/images/124/719/892/017/eaa477959cb2d30ca3fb7e8644ba2048.webp" data-file-srl="17892721" editor_com...
+length: 691
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/719/892/017/64de9804d1e215d75bfd0bb78e8fc271.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:29] Raw content for item 2: <p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328"></video></p><p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec...
-[2025-05-20 10:46:29] Featured image for item 2: https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg
-[2025-05-20 10:46:29] Categories for item 2: ['치어리더']
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg', 'controls': '', 'data-file-srl': '17892328'}
-[2025-05-20 10:46:29] Output video tag: <video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328"></video>
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg', 'controls': '', 'data-file-srl': '17892329'}
-[2025-05-20 10:46:29] Output video tag: <video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg" controls data-file-srl="17892329"></video>
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg', 'controls': '', 'data-file-srl': '17892330'}
-[2025-05-20 10:46:29] Output video tag: <video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg" controls data-file-srl="17892330"></video>
-[2025-05-20 10:46:29] Video URL https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:29] Video URL https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:29] Video URL https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:29] Video tags for item 2: ['<video controls="" data-file-srl="17892328" height="1280" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" width="720"></video>', '<video controls="" data-file-srl="17892329" height="1280" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" width="720"></video>', '<video controls="" data-file-srl="17892330" height="1280" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4" width="720"></video>']
-[2025-05-20 10:46:29] ==============
+[2025-05-20 10:50:03] Raw content for item 2: <p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328" __idm_id__ id playsinline></video></p><p><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/ima...
+[2025-05-20 10:50:03] Featured image for item 2: https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg
+[2025-05-20 10:50:03] Categories for item 2: ['치어리더']
+[2025-05-20 10:50:03] Input video tag attributes: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg', 'controls': '', 'data-file-srl': '17892328', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:03] Output video tag: <video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:03] Input video tag attributes: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg', 'controls': '', 'data-file-srl': '17892329', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:03] Output video tag: <video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg" controls data-file-srl="17892329" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:03] Input video tag attributes: {'width': '720', 'height': '1280', 'src': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg', 'controls': '', 'data-file-srl': '17892330', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:03] Output video tag: <video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg" controls data-file-srl="17892330" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:03] Video URL https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video tags for item 2: ['<video __idm_id__="" controls="" data-file-srl="17892328" height="1280" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" width="720"></video>', '<video __idm_id__="" controls="" data-file-srl="17892329" height="1280" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c8a5ec3e5f8897a5ef161835e072d56e.jpg" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" width="720"></video>', '<video __idm_id__="" controls="" data-file-srl="17892330" height="1280" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/78ba20feb63efed9af0e832b144548d5.jpg" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/27b6916c1697639a1402047b9900242c.mp4" width="720"></video>']
+[2025-05-20 10:50:04] ==============
 Item 2 (article):
 title: 이주은 치어리더
 link: https://ggoorr.net/enter/17892327
 guid: https://ggoorr.net/enter/17892327
-content: </br><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328"></video></br></br><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/c...
-length: 876
+content: </br><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/214be73c940a8302aed3857854e44dd0.mp4" poster="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg" controls data-file-srl="17892328" __idm_id__ id playsinline></video></br></br><video width="720" height="1280" src="https://cdn.ggoorr.net/files/attach/images/134/327/892/017/4b0db4675f720e9167d8b1c687c4d29d.mp4" poster="https://cdn.ggoorr.net/files/attac...
+length: 954
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/134/327/892/017/792be3fa42546ada7616241a1c0a6621.jpg
 categories: ['치어리더']
 ==============
-[2025-05-20 10:46:29] Raw content for item 3: 
-[2025-05-20 10:46:29] Featured image for item 3: 
-[2025-05-20 10:46:29] Categories for item 3: ['아나운서']
-[2025-05-20 10:46:29] Video tags for item 3: []
-[2025-05-20 10:46:29] ==============
+[2025-05-20 10:50:04] Raw content for item 3: <p><img alt="JJyar.webp" data-cke-saved-src="/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" data-file-srl="17892257" editor_component="image_link" fetchpriority="high" height="529" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" width="800"/></p>
+[2025-05-20 10:50:04] Featured image for item 3: https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp
+[2025-05-20 10:50:04] Categories for item 3: ['아나운서']
+[2025-05-20 10:50:04] Video tags for item 3: []
+[2025-05-20 10:50:04] ==============
 Item 3 (article):
 title: 안귀령 한복 핏
 link: https://ggoorr.net/enter/17892256
 guid: https://ggoorr.net/enter/17892256
-content: 
-length: 0
+content: </br><img alt="JJyar.webp" data-cke-saved-src="/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" data-file-srl="17892257" editor_component="image_link" fetchpriority="high" height="529" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp" width="800"/></br>
+length: 348
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/256/892/017/492792dcc1c1ca9925045245e4440373.webp
 categories: ['아나운서']
 ==============
-[2025-05-20 10:46:29] Raw content for item 4: 
-[2025-05-20 10:46:29] Featured image for item 4: 
-[2025-05-20 10:46:29] Categories for item 4: ['연예']
-[2025-05-20 10:46:29] Video tags for item 4: []
-[2025-05-20 10:46:29] ==============
+[2025-05-20 10:50:04] Raw content for item 4: <p><img alt="e_sf32504002_8283adffa5e5d33f9edaa3b921ab99826f30b14a.jpg" data-cke-saved-src="/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" data-file-srl="17892037" editor_component="image_link" fetchpriority="high" height="768" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" width="600"/></p>
+[2025-05-20 10:50:04] Featured image for item 4: https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg
+[2025-05-20 10:50:04] Categories for item 4: ['연예']
+[2025-05-20 10:50:04] Video tags for item 4: []
+[2025-05-20 10:50:04] ==============
 Item 4 (article):
 title: 악뮤 수현 근황
 link: https://ggoorr.net/enter/17892036
 guid: https://ggoorr.net/enter/17892036
-content: 
-length: 0
+content: </br><img alt="e_sf32504002_8283adffa5e5d33f9edaa3b921ab99826f30b14a.jpg" data-cke-saved-src="/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" data-file-srl="17892037" editor_component="image_link" fetchpriority="high" height="768" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg" width="600"/></br>
+length: 393
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/036/892/017/86e35352c58c6ca0223171b44ae9138f.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:29] Raw content for item 5: 
-[2025-05-20 10:46:29] Featured image for item 5: 
-[2025-05-20 10:46:29] Categories for item 5: ['연예']
-[2025-05-20 10:46:29] Video tags for item 5: []
-[2025-05-20 10:46:29] ==============
+[2025-05-20 10:50:04] Raw content for item 5: <p><img alt="a_w390752002_4f9fb7eaa2b5deac7af6beabf5f9ee49d979b1d6.jpg" data-cke-saved-src="/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" data-file-srl="17892030" editor_component="image_link" fetchpriority="high" height="8058" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" width="1078"/></p>
+[2025-05-20 10:50:04] Featured image for item 5: https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg
+[2025-05-20 10:50:04] Categories for item 5: ['연예']
+[2025-05-20 10:50:04] Video tags for item 5: []
+[2025-05-20 10:50:04] ==============
 Item 5 (article):
 title: 정형돈 저작권료에 의문이 생긴 지드래곤
 link: https://ggoorr.net/enter/17892029
 guid: https://ggoorr.net/enter/17892029
-content: 
-length: 0
+content: </br><img alt="a_w390752002_4f9fb7eaa2b5deac7af6beabf5f9ee49d979b1d6.jpg" data-cke-saved-src="/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" data-file-srl="17892030" editor_component="image_link" fetchpriority="high" height="8058" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg" width="1078"/></br>
+length: 395
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/029/892/017/1673a0483ddbb37f4f94d2441831d343.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:29] Raw content for item 6: <p><video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974"></video></p><p><video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1...
-[2025-05-20 10:46:29] Featured image for item 6: https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg
-[2025-05-20 10:46:29] Categories for item 6: ['연예']
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '640', 'height': '1138', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg', 'controls': '', 'data-file-srl': '17891974'}
-[2025-05-20 10:46:29] Output video tag: <video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974"></video>
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '650', 'height': '1222', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg', 'controls': '', 'data-file-srl': '17891975'}
-[2025-05-20 10:46:29] Output video tag: <video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg" controls data-file-srl="17891975"></video>
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '960', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg', 'controls': '', 'data-file-srl': '17891976'}
-[2025-05-20 10:46:29] Output video tag: <video width="960" height="1480" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg" controls data-file-srl="17891976"></video>
-[2025-05-20 10:46:29] Input video tag attributes: {'width': '880', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg', 'controls': '', 'data-file-srl': '17891977'}
-[2025-05-20 10:46:29] Output video tag: <video width="880" height="1480" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg" controls data-file-srl="17891977"></video>
-[2025-05-20 10:46:30] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:30] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 6: ['<video controls="" data-file-srl="17891974" height="1138" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" width="640"></video>', '<video controls="" data-file-srl="17891975" height="1222" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" width="650"></video>', '<video controls="" data-file-srl="17891976" height="1480" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4" width="960"></video>', '<video controls="" data-file-srl="17891977" height="1480" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4" width="880"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:04] Raw content for item 6: <p><video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974" __idm_id__ id playsinline></video></p><p><video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/ima...
+[2025-05-20 10:50:04] Featured image for item 6: https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg
+[2025-05-20 10:50:04] Categories for item 6: ['연예']
+[2025-05-20 10:50:04] Input video tag attributes: {'width': '640', 'height': '1138', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg', 'controls': '', 'data-file-srl': '17891974', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:04] Output video tag: <video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:04] Input video tag attributes: {'width': '650', 'height': '1222', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg', 'controls': '', 'data-file-srl': '17891975', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:04] Output video tag: <video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg" controls data-file-srl="17891975" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:04] Input video tag attributes: {'width': '960', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg', 'controls': '', 'data-file-srl': '17891976', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:04] Output video tag: <video width="960" height="1480" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg" controls data-file-srl="17891976" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:04] Input video tag attributes: {'width': '880', 'height': '1480', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg', 'controls': '', 'data-file-srl': '17891977', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:04] Output video tag: <video width="880" height="1480" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg" controls data-file-srl="17891977" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video tags for item 6: ['<video __idm_id__="" controls="" data-file-srl="17891974" height="1138" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" width="640"></video>', '<video __idm_id__="" controls="" data-file-srl="17891975" height="1222" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3940c1f16829b7063754575b34464de0.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" width="650"></video>', '<video __idm_id__="" controls="" data-file-srl="17891976" height="1480" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/6104672ef882f73358b8970b824020b9.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/1c4f389e211137c4ea2fc56af2db0011.mp4" width="960"></video>', '<video __idm_id__="" controls="" data-file-srl="17891977" height="1480" id="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/96820a5b454d8950856444a98b1c4c8b.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/a2ca4c757f6e5ba47b28b0cc4b891702.mp4" width="880"></video>']
+[2025-05-20 10:50:04] ==============
 Item 6 (article):
 title: 걸그룹 여자아이돌 언더붑 모음
 link: https://ggoorr.net/enter/17891973
 guid: https://ggoorr.net/enter/17891973
-content: </br><video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974"></video></br></br><video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/3...
-length: 1168
+content: </br><video width="640" height="1138" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/30ac4d78ca9a7d9cdc808b4ec8d3b495.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg" controls data-file-srl="17891974" __idm_id__ id playsinline></video></br></br><video width="650" height="1222" src="https://cdn.ggoorr.net/files/attach/images/124/973/891/017/cfae88a453a976901e9276f2092e65e3.mp4" poster="https://cdn.ggoorr.net/files/attac...
+length: 1272
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/973/891/017/50d716b40cf1c06c23b191f7e30cfe64.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:31] Raw content for item 7: 
-[2025-05-20 10:46:31] Featured image for item 7: 
-[2025-05-20 10:46:31] Categories for item 7: ['연예']
-[2025-05-20 10:46:31] Video tags for item 7: []
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:04] Raw content for item 7: <p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg" width="720px"/></p><p><img alt="" data-loaded="true" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990643755.jpg" width="720px"/></p><p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990696340.jpg" width="720px"/></p><p><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990419048.jpg" width="720px"/></p>
+[2025-05-20 10:50:04] Featured image for item 7: https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg
+[2025-05-20 10:50:04] Categories for item 7: ['연예']
+[2025-05-20 10:50:04] Video tags for item 7: []
+[2025-05-20 10:50:04] ==============
 Item 7 (article):
 title: 조여정 20대 시절 몸매
 link: https://ggoorr.net/enter/17891968
 guid: https://ggoorr.net/enter/17891968
-content: 
-length: 0
+content: </br><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg" width="720px"/></br></br><img alt="" data-loaded="true" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990643755.jpg" width="720px"/></br></br><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990696340.jpg" width="720px"/></br></br><img alt="" src="https://image.fomos.kr/contents/images/board/2025/0316/1742101990419048.jpg" width="720px"/></br>
+length: 495
 plain_text: 
-featured_image: 
+featured_image: https://image.fomos.kr/contents/images/board/2025/0316/1742101990525175.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:31] Raw content for item 8: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825"></video></p>
-[2025-05-20 10:46:31] Featured image for item 8: https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg
-[2025-05-20 10:46:31] Categories for item 8: ['아이돌']
-[2025-05-20 10:46:31] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg', 'controls': '', 'data-file-srl': '17891825'}
-[2025-05-20 10:46:31] Output video tag: <video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825"></video>
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 8: ['<video autoplay="" controls="" data-file-srl="17891825" height="854" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" width="480"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:04] Raw content for item 8: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825" __idm_id__ id></video></p>
+[2025-05-20 10:50:04] Featured image for item 8: https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg
+[2025-05-20 10:50:04] Categories for item 8: ['아이돌']
+[2025-05-20 10:50:04] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg', 'controls': '', 'data-file-srl': '17891825', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:50:04] Output video tag: <video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825" __idm_id__ id></video>
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:04] Video tags for item 8: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891825" height="854" id="" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" width="480"></video>']
+[2025-05-20 10:50:04] ==============
 Item 8 (article):
 title: 뒤에서 찍은 설윤 뒤태
 link: https://ggoorr.net/enter/17891824
 guid: https://ggoorr.net/enter/17891824
-content: </br><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825"></video></br>
-length: 338
+content: </br><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/2b3526a687902c55b78d1f8a0efec87b.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg" controls data-file-srl="17891825" __idm_id__ id></video></br>
+length: 352
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/824/891/017/097f6227e3a97f17fbc448e142369f1a.jpg
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:31] Raw content for item 9: <p><video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759"></video></p><p><video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="https://cdn.ggoorr.net/file...
-[2025-05-20 10:46:31] Featured image for item 9: https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg
-[2025-05-20 10:46:31] Categories for item 9: ['아이돌']
-[2025-05-20 10:46:31] Input video tag attributes: {'autoplay': '', 'muted': '', 'loop': '', 'width': '632', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg', 'controls': '', 'data-file-srl': '17891759'}
-[2025-05-20 10:46:31] Output video tag: <video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759"></video>
-[2025-05-20 10:46:31] Input video tag attributes: {'autoplay': '', 'muted': '', 'loop': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg', 'controls': '', 'data-file-srl': '17891762'}
-[2025-05-20 10:46:31] Output video tag: <video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg" controls data-file-srl="17891762"></video>
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 9: ['<video autoplay="" controls="" data-file-srl="17891759" height="854" loop="" muted="" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" width="632"></video>', '<video autoplay="" controls="" data-file-srl="17891762" height="854" loop="" muted="" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" width="480"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:04] Raw content for item 9: <p><video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759" __idm_id__ id playsinline></video></p><p><video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="h...
+[2025-05-20 10:50:04] Featured image for item 9: https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg
+[2025-05-20 10:50:04] Categories for item 9: ['아이돌']
+[2025-05-20 10:50:04] Input video tag attributes: {'autoplay': '', 'muted': '', 'loop': '', 'width': '632', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg', 'controls': '', 'data-file-srl': '17891759', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:04] Output video tag: <video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:04] Input video tag attributes: {'autoplay': '', 'muted': '', 'loop': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg', 'controls': '', 'data-file-srl': '17891762', '__idm_id__': '', 'id': '', 'playsinline': ''}
+[2025-05-20 10:50:04] Output video tag: <video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg" controls data-file-srl="17891762" __idm_id__ id playsinline></video>
+[2025-05-20 10:50:04] Video URL https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 9: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891759" height="854" id="" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" width="632"></video>', '<video __idm_id__="" autoplay="" controls="" data-file-srl="17891762" height="854" id="" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/f1447594d119176859d182c1c1b6a210.jpg" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" width="480"></video>']
+[2025-05-20 10:50:05] ==============
 Item 9 (article):
 title: 가죽 홀터넥 의상 허벅지 벨트 아이브 장원영
 link: https://ggoorr.net/enter/17891758
 guid: https://ggoorr.net/enter/17891758
-content: </br><video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759"></video></br></br><video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" poster="https://cdn.ggoorr.net...
-length: 622
+content: </br><video autoplay muted loop width="632" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/b0e08dbbbf1e6e90f857908022ca37c8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg" controls data-file-srl="17891759" __idm_id__ id playsinline></video></br></br><video autoplay muted loop width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/758/891/017/4b3554529fbd624d6b437a7fb57b7cc1.mp4" post...
+length: 674
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/758/891/017/6b737f7fed432c692b81158566259e37.jpg
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:31] Raw content for item 10: 
-[2025-05-20 10:46:31] Featured image for item 10: 
-[2025-05-20 10:46:31] Categories for item 10: ['아이돌']
-[2025-05-20 10:46:31] Video tags for item 10: []
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 10: <p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" data-file-srl="17891738" editor_component="image_link" fetchpriority="high" height="1272" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" width="854"/></p><p><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/5557d5466f2b7f04c85206822939d3a6.jpg" data-file-srl="17891739" editor_component=...
+[2025-05-20 10:50:05] Featured image for item 10: https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg
+[2025-05-20 10:50:05] Categories for item 10: ['아이돌']
+[2025-05-20 10:50:05] Video tags for item 10: []
+[2025-05-20 10:50:05] ==============
 Item 10 (article):
 title: 트리플에스 공유빈
 link: https://ggoorr.net/enter/17891737
 guid: https://ggoorr.net/enter/17891737
-content: 
-length: 0
+content: </br><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" data-file-srl="17891738" editor_component="image_link" fetchpriority="high" height="1272" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg" width="854"/></br></br><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/737/891/017/5557d5466f2b7f04c85206822939d3a6.jpg" data-file-srl="17891739" editor_compo...
+length: 2408
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/737/891/017/ca9841465ba318bdf6057c0b79af674b.jpg
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:31] Raw content for item 11: 
-[2025-05-20 10:46:31] Featured image for item 11: 
-[2025-05-20 10:46:31] Categories for item 11: ['연예']
-[2025-05-20 10:46:31] Video tags for item 11: []
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 11: <p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" data-file-srl="17891728" editor_component="image_link" fetchpriority="high" height="2964" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" width="500"/></p><p><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/ff48c3d0f49fc553006b75a13398a204.jpg" data-file-srl="17891729" editor_component=...
+[2025-05-20 10:50:05] Featured image for item 11: https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg
+[2025-05-20 10:50:05] Categories for item 11: ['연예']
+[2025-05-20 10:50:05] Video tags for item 11: []
+[2025-05-20 10:50:05] ==============
 Item 11 (article):
 title: 종종 나오는 유재석 매운맛
 link: https://ggoorr.net/enter/17891727
 guid: https://ggoorr.net/enter/17891727
-content: 
-length: 0
+content: </br><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" data-file-srl="17891728" editor_component="image_link" fetchpriority="high" height="2964" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg" width="500"/></br></br><img alt="002.jpg" data-cke-saved-src="/files/attach/images/124/727/891/017/ff48c3d0f49fc553006b75a13398a204.jpg" data-file-srl="17891729" editor_compo...
+length: 1032
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/727/891/017/bc99159e5a79fe875983087bb32bbdcc.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:31] Raw content for item 12: <p><video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" controls></video></p>
-[2025-05-20 10:46:31] Featured image for item 12: 
-[2025-05-20 10:46:31] Categories for item 12: ['연예']
-[2025-05-20 10:46:31] Input video tag attributes: {'width': '624', 'height': '420', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891697', 'data-saved-src': '/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', 'controls': ''}
-[2025-05-20 10:46:31] Output video tag: <video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" controls></video>
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 12: ['<video autoplay="" controls="" data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" height="420" loop="" muted="" playsinline="" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" width="624"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 12: <p><video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" __idm_id__ id controls></video></p>
+[2025-05-20 10:50:05] Featured image for item 12: 
+[2025-05-20 10:50:05] Categories for item 12: ['연예']
+[2025-05-20 10:50:05] Input video tag attributes: {'width': '624', 'height': '420', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891697', 'data-saved-src': '/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4', '__idm_id__': '', 'id': '', 'controls': ''}
+[2025-05-20 10:50:05] Output video tag: <video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" __idm_id__ id controls></video>
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 12: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" height="420" id="" loop="" muted="" playsinline="" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" width="624"></video>']
+[2025-05-20 10:50:05] ==============
 Item 12 (article):
 title: 인사하다 뻣뻣함을 감지한 강호동
 link: https://ggoorr.net/enter/17891696
 guid: https://ggoorr.net/enter/17891696
-content: </br><video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" controls></video></br>
-length: 309
+content: </br><video width="624" height="420" src="https://cdn.ggoorr.net/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" muted playsinline autoplay loop data-file-srl="17891697" data-saved-src="/files/attach/images/124/696/891/017/65429ecbcba277a8096ebf5b27478378.mp4" __idm_id__ id controls></video></br>
+length: 323
 plain_text: 
 featured_image: 
 categories: ['연예']
 ==============
-[2025-05-20 10:46:31] Raw content for item 13: <p><video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684"></video></p><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg" data-file-srl="17891685" editor_component="image...
-[2025-05-20 10:46:31] Featured image for item 13: https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg
-[2025-05-20 10:46:31] Categories for item 13: ['아이돌']
-[2025-05-20 10:46:31] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '444', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg', 'controls': '', 'data-file-srl': '17891684'}
-[2025-05-20 10:46:31] Output video tag: <video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684"></video>
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 13: ['<video autoplay="" controls="" data-file-srl="17891684" height="854" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" width="444"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 13: <p><video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684" __idm_id__ id></video></p><p><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg" data-file-srl="17891685" editor_co...
+[2025-05-20 10:50:05] Featured image for item 13: https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg
+[2025-05-20 10:50:05] Categories for item 13: ['아이돌']
+[2025-05-20 10:50:05] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '444', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg', 'controls': '', 'data-file-srl': '17891684', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:50:05] Output video tag: <video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684" __idm_id__ id></video>
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 13: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891684" height="854" id="" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" width="444"></video>']
+[2025-05-20 10:50:05] ==============
 Item 13 (article):
 title: 해외에서 과감했던 있지 유나 하이레그 착장
 link: https://ggoorr.net/enter/17891683
 guid: https://ggoorr.net/enter/17891683
-content: </br><video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684"></video></br></br><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg" data-file-srl="17891685" editor_component="...
-length: 1370
+content: </br><video autoplay loop preload="auto" playsinline muted width="444" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/e4420563450cfc76fd2bd8a2a0e4c038.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/683/891/017/21a5eb79ef9660b40577a1c6d5b75927.jpg" controls data-file-srl="17891684" __idm_id__ id></video></br></br><img alt="001.jpg" data-cke-saved-src="/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg" data-file-srl="17891685" edit...
+length: 1384
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/683/891/017/734b7747e63a94bcf8ec91df182bdfb2.jpg
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:31] Raw content for item 14: 
-[2025-05-20 10:46:31] Featured image for item 14: 
-[2025-05-20 10:46:31] Categories for item 14: ['연예']
-[2025-05-20 10:46:31] Video tags for item 14: []
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 14: <p><img alt="배우 박해수가 연극하면서 가장 기억에 남았던 관객.jpg" data-cke-saved-src="/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" data-file-srl="17891604" editor_component="image_link" fetchpriority="high" height="11364" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" width="779"/></p>
+[2025-05-20 10:50:05] Featured image for item 14: https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg
+[2025-05-20 10:50:05] Categories for item 14: ['연예']
+[2025-05-20 10:50:05] Video tags for item 14: []
+[2025-05-20 10:50:05] ==============
 Item 14 (article):
 title: 배우 박해수가 연극하면서 가장 기억에 남았던 관객
 link: https://ggoorr.net/enter/17891603
 guid: https://ggoorr.net/enter/17891603
-content: 
-length: 0
+content: </br><img alt="배우 박해수가 연극하면서 가장 기억에 남았던 관객.jpg" data-cke-saved-src="/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" data-file-srl="17891604" editor_component="image_link" fetchpriority="high" height="11364" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg" width="779"/></br>
+length: 369
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/603/891/017/5d276741139df3633d31cf7677695800.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:31] Raw content for item 15: <p><video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" controls></video></p>
-[2025-05-20 10:46:31] Featured image for item 15: 
-[2025-05-20 10:46:31] Categories for item 15: ['아이돌']
-[2025-05-20 10:46:31] Input video tag attributes: {'width': '678', 'height': '380', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891543', 'data-saved-src': '/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', 'controls': ''}
-[2025-05-20 10:46:31] Output video tag: <video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" controls></video>
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 15: ['<video autoplay="" controls="" data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" height="380" loop="" muted="" playsinline="" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" width="678"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 15: <p><video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" __idm_id__ id controls></video></p>
+[2025-05-20 10:50:05] Featured image for item 15: 
+[2025-05-20 10:50:05] Categories for item 15: ['아이돌']
+[2025-05-20 10:50:05] Input video tag attributes: {'width': '678', 'height': '380', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891543', 'data-saved-src': '/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4', '__idm_id__': '', 'id': '', 'controls': ''}
+[2025-05-20 10:50:05] Output video tag: <video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" __idm_id__ id controls></video>
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 15: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" height="380" id="" loop="" muted="" playsinline="" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" width="678"></video>']
+[2025-05-20 10:50:05] ==============
 Item 15 (article):
 title: ??? : 대한민국에서 걸그룹으로 살기가 사실 쉽지 않아요
 link: https://ggoorr.net/enter/17891542
 guid: https://ggoorr.net/enter/17891542
-content: </br><video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" controls></video></br>
-length: 309
+content: </br><video width="678" height="380" src="https://cdn.ggoorr.net/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" muted playsinline autoplay loop data-file-srl="17891543" data-saved-src="/files/attach/images/124/542/891/017/d3e59e73f8adb36ea86f02b6dcbef8ec.mp4" __idm_id__ id controls></video></br>
+length: 323
 plain_text: 
 featured_image: 
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:31] Raw content for item 16: <p><video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" controls></video></p>
-[2025-05-20 10:46:31] Featured image for item 16: 
-[2025-05-20 10:46:31] Categories for item 16: ['아이돌']
-[2025-05-20 10:46:31] Input video tag attributes: {'width': '410', 'height': '546', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891528', 'data-saved-src': '/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', 'controls': ''}
-[2025-05-20 10:46:31] Output video tag: <video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" controls></video>
-[2025-05-20 10:46:31] Video URL https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:31] Video tags for item 16: ['<video autoplay="" controls="" data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" height="546" loop="" muted="" playsinline="" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" width="410"></video>']
-[2025-05-20 10:46:31] ==============
+[2025-05-20 10:50:05] Raw content for item 16: <p><video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" __idm_id__ id controls></video></p>
+[2025-05-20 10:50:05] Featured image for item 16: 
+[2025-05-20 10:50:05] Categories for item 16: ['아이돌']
+[2025-05-20 10:50:05] Input video tag attributes: {'width': '410', 'height': '546', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', 'muted': '', 'playsinline': '', 'autoplay': '', 'loop': '', 'data-file-srl': '17891528', 'data-saved-src': '/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4', '__idm_id__': '', 'id': '', 'controls': ''}
+[2025-05-20 10:50:05] Output video tag: <video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" __idm_id__ id controls></video>
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 16: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" height="546" id="" loop="" muted="" playsinline="" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" width="410"></video>']
+[2025-05-20 10:50:05] ==============
 Item 16 (article):
 title: 신곡 뮤비 촬영하는 24인조 걸그룹 트리플에스
 link: https://ggoorr.net/enter/17891527
 guid: https://ggoorr.net/enter/17891527
-content: </br><video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" controls></video></br>
-length: 309
+content: </br><video width="410" height="546" src="https://cdn.ggoorr.net/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" muted playsinline autoplay loop data-file-srl="17891528" data-saved-src="/files/attach/images/124/527/891/017/0d650fd6d0497a6b9c7e3bffc2823183.mp4" __idm_id__ id controls></video></br>
+length: 323
 plain_text: 
 featured_image: 
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:31] Raw content for item 17: <p><video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489"></video></p>
-[2025-05-20 10:46:31] Featured image for item 17: https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg
-[2025-05-20 10:46:31] Categories for item 17: ['아이돌']
-[2025-05-20 10:46:31] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '466', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg', 'controls': '', 'data-file-srl': '17891489'}
-[2025-05-20 10:46:31] Output video tag: <video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489"></video>
-[2025-05-20 10:46:32] Video URL https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:32] Video tags for item 17: ['<video autoplay="" controls="" data-file-srl="17891489" height="854" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" width="466"></video>']
-[2025-05-20 10:46:32] ==============
+[2025-05-20 10:50:05] Raw content for item 17: <p><video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489" __idm_id__ id></video></p>
+[2025-05-20 10:50:05] Featured image for item 17: https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg
+[2025-05-20 10:50:05] Categories for item 17: ['아이돌']
+[2025-05-20 10:50:05] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '466', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg', 'controls': '', 'data-file-srl': '17891489', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:50:05] Output video tag: <video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489" __idm_id__ id></video>
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 17: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891489" height="854" id="" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" width="466"></video>']
+[2025-05-20 10:50:05] ==============
 Item 17 (article):
 title: 꽉끼는 검정 핫팬츠 허벅지 히메컷 에스파 카리나
 link: https://ggoorr.net/enter/17891488
 guid: https://ggoorr.net/enter/17891488
-content: </br><video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489"></video></br>
-length: 338
+content: </br><video autoplay loop preload="auto" playsinline muted width="466" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/07813329f5ef54e9a96cf440df2a3d42.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg" controls data-file-srl="17891489" __idm_id__ id></video></br>
+length: 352
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/488/891/017/bdc6428f0e9dfebb2ebbf8904a9397c3.jpg
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:32] Raw content for item 18: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471"></video></p>
-[2025-05-20 10:46:32] Featured image for item 18: https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg
-[2025-05-20 10:46:32] Categories for item 18: ['아이돌']
-[2025-05-20 10:46:32] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg', 'controls': '', 'data-file-srl': '17891471'}
-[2025-05-20 10:46:32] Output video tag: <video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471"></video>
-[2025-05-20 10:46:32] Video URL https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4 status: 200, Content-Type: video/mp4
-[2025-05-20 10:46:32] Video tags for item 18: ['<video autoplay="" controls="" data-file-srl="17891471" height="854" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" width="480"></video>']
-[2025-05-20 10:46:32] ==============
+[2025-05-20 10:50:05] Raw content for item 18: <p><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471" __idm_id__ id></video></p>
+[2025-05-20 10:50:05] Featured image for item 18: https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg
+[2025-05-20 10:50:05] Categories for item 18: ['아이돌']
+[2025-05-20 10:50:05] Input video tag attributes: {'autoplay': '', 'loop': '', 'preload': 'auto', 'playsinline': '', 'muted': '', 'width': '480', 'height': '854', 'src': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4', 'poster': 'https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg', 'controls': '', 'data-file-srl': '17891471', '__idm_id__': '', 'id': ''}
+[2025-05-20 10:50:05] Output video tag: <video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471" __idm_id__ id></video>
+[2025-05-20 10:50:05] Video URL https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4 status: 200, Content-Type: video/mp4
+[2025-05-20 10:50:05] Video tags for item 18: ['<video __idm_id__="" autoplay="" controls="" data-file-srl="17891471" height="854" id="" loop="" muted="" playsinline="" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" preload="auto" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" width="480"></video>']
+[2025-05-20 10:50:05] ==============
 Item 18 (article):
 title: 옆에서 본 권은비 굴곡 검정 원피스
 link: https://ggoorr.net/enter/17891470
 guid: https://ggoorr.net/enter/17891470
-content: </br><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471"></video></br>
-length: 338
+content: </br><video autoplay loop preload="auto" playsinline muted width="480" height="854" src="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/a5bfa77970a3dd68c45156b9e96cd2d8.mp4" poster="https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg" controls data-file-srl="17891471" __idm_id__ id></video></br>
+length: 352
 plain_text: 
 featured_image: https://cdn.ggoorr.net/files/attach/images/124/470/891/017/8f9c09bb95ab7a1d7a268feae4c6c5bd.jpg
 categories: ['아이돌']
 ==============
-[2025-05-20 10:46:32] Raw content for item 19: 
-[2025-05-20 10:46:32] Featured image for item 19: 
-[2025-05-20 10:46:32] Categories for item 19: ['연예']
-[2025-05-20 10:46:32] Video tags for item 19: []
-[2025-05-20 10:46:32] ==============
+[2025-05-20 10:50:05] Raw content for item 19: <p><img alt="2109082634_rGtcw3Y4_KQoRpVduLFINBCHl.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" data-file-srl="17891203" editor_component="image_link" fetchpriority="high" height="1066" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" width="854"/></p><p><img alt="2109082634_wUvDOqxi_NfRQZ6TsjpghJue2.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/fd8e72bca7e797...
+[2025-05-20 10:50:05] Featured image for item 19: https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg
+[2025-05-20 10:50:05] Categories for item 19: ['연예']
+[2025-05-20 10:50:05] Video tags for item 19: []
+[2025-05-20 10:50:05] ==============
 Item 19 (article):
 title: 차주영
 link: https://ggoorr.net/enter/17891202
 guid: https://ggoorr.net/enter/17891202
-content: 
-length: 0
+content: </br><img alt="2109082634_rGtcw3Y4_KQoRpVduLFINBCHl.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" data-file-srl="17891203" editor_component="image_link" fetchpriority="high" height="1066" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg" width="854"/></br></br><img alt="2109082634_wUvDOqxi_NfRQZ6TsjpghJue2.jpg" data-cke-saved-src="/files/attach/images/124/202/891/017/fd8e72bca...
+length: 4524
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/202/891/017/e8dbe3351c06f3f87c42f019b49c9441.jpg
 categories: ['연예']
 ==============
-[2025-05-20 10:46:32] Raw content for item 20: 
-[2025-05-20 10:46:32] Featured image for item 20: 
-[2025-05-20 10:46:32] Categories for item 20: ['아나운서']
-[2025-05-20 10:46:32] Video tags for item 20: []
-[2025-05-20 10:46:32] ==============
+[2025-05-20 10:50:05] Raw content for item 20: <p><img alt="3555410767_TPhtDqnw_J1lX9M7maeOZCjNd.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" data-file-srl="17891198" editor_component="image_link" fetchpriority="high" height="854" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" width="854"/></p><p><img alt="3555410767_PONhxLRe_2kif0GuwHJrzUDCK.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/9dcd67329719611...
+[2025-05-20 10:50:05] Featured image for item 20: https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg
+[2025-05-20 10:50:05] Categories for item 20: ['아나운서']
+[2025-05-20 10:50:05] Video tags for item 20: []
+[2025-05-20 10:50:05] ==============
 Item 20 (article):
 title: 김민지 아나운서
 link: https://ggoorr.net/enter/17891197
 guid: https://ggoorr.net/enter/17891197
-content: 
-length: 0
+content: </br><img alt="3555410767_TPhtDqnw_J1lX9M7maeOZCjNd.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" data-file-srl="17891198" editor_component="image_link" fetchpriority="high" height="854" loading="lazy" src="https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg" width="854"/></br></br><img alt="3555410767_PONhxLRe_2kif0GuwHJrzUDCK.jpg" data-cke-saved-src="/files/attach/images/124/197/891/017/9dcd673297...
+length: 752
 plain_text: 
-featured_image: 
+featured_image: https://cdn.ggoorr.net/files/attach/images/124/197/891/017/056fbcb9cccc6a01038f9505afd53922.jpg
 categories: ['아나운서']
 ==============
-[2025-05-20 10:46:32] RSS feed written to E:\Korea\RSS Feed\gorenter\feed.xml, total items: 20
+[2025-05-20 10:50:05] RSS feed written to E:\Korea\RSS Feed\gorenter\feed.xml, total items: 20

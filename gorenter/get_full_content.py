@@ -21,6 +21,7 @@ def get_full_content(post_url, headers):
         elements = []
         image_urls = []
         video_urls = []
+        idm_ids = []
 
         for tag in content_root.descendants:
             if isinstance(tag, str):
@@ -46,7 +47,7 @@ def get_full_content(post_url, headers):
                 src = tag.get('src', '')
                 poster = tag.get('poster', '')
                 data_file_srl = tag.get('data-file-srl', '')
-                idm_id = tag.get('__idm_id__', '')
+                idm_id = tag.get('__idm_id__', '') or ''  # Forcefully include __idm_id__, even if empty
                 id_attr = tag.get('id', '')
                 playsinline = tag.get('playsinline', '')
 
@@ -71,14 +72,10 @@ def get_full_content(post_url, headers):
                 video_attrs['src'] = src
                 if poster:
                     video_attrs['poster'] = poster
-                if data_file_srl:
-                    video_attrs['data-file-srl'] = data_file_srl
-                if idm_id:
-                    video_attrs['__idm_id__'] = idm_id
-                if id_attr:
-                    video_attrs['id'] = id_attr
-                if playsinline or 'playsinline' in tag.attrs:
-                    video_attrs['playsinline'] = playsinline
+                video_attrs['data-file-srl'] = data_file_srl or ''
+                video_attrs['__idm_id__'] = idm_id
+                video_attrs['id'] = id_attr or ''
+                video_attrs['playsinline'] = playsinline or ''
                 if 'controls' not in video_attrs:
                     video_attrs['controls'] = ''
                 if 'width' not in video_attrs:
@@ -87,6 +84,7 @@ def get_full_content(post_url, headers):
                 log_step(f"Video tag attributes for {post_url}: {video_attrs}")
 
                 video_urls.append(src)
+                idm_ids.append(idm_id)
 
                 # Construct video tag with all attributes
                 attr_strings = []
@@ -141,9 +139,8 @@ def get_full_content(post_url, headers):
             f"Featured Image: {featured_image}\n"
             f"Image URLs: {image_urls}\n"
             f"Video URLs: {video_urls}\n"
-            f"idmid: {idm_id}"
+            f"__idm_id__: {idm_ids}\n"
             f"=============="
-            
         )
 
         return cleaned_html, featured_image
