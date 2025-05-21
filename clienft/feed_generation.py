@@ -7,7 +7,7 @@ import mimetypes
 import os
 import requests
 
-# Ensure feed.xml is written in the current folder
+# Ensure feed.xml is written in the current folder (where this script is)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FEED_FILE = os.path.join(BASE_DIR, "feed.xml")
 
@@ -19,11 +19,10 @@ def generate_rss_feed(items, output_file=FEED_FILE):
     })
     channel = etree.SubElement(rss, "channel")
 
-    etree.SubElement(channel, "title").text = "Ggoorr Enter RSS Feed"
+    etree.SubElement(channel, "title").text = "Clien RSS Feed"
     etree.SubElement(channel, "link").text = "https://clien.net/"
     etree.SubElement(channel, "description").text = "RSS feed generated from clien.net"
-    # Convert 09:54 AM +06 (May 21, 2025) to UTC: 03:54 AM GMT
-    etree.SubElement(channel, "lastBuildDate").text = "Wed, 21 May 2025 03:54:00 GMT"
+    etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
 
     seen_guids = set()
 
@@ -34,40 +33,11 @@ def generate_rss_feed(items, output_file=FEED_FILE):
 
         item_elem = etree.SubElement(channel, "item")
 
-        # Determine item type
-        item_type = item.get('type', 'article')
-
-        if item_type == 'article':
-            # Handle article items
-            title = (item.get('title') or '').strip() or f"Untitled Post {idx + 1}"
-            link = (item.get('link') or '').strip() or f"https://clien.net/placeholder/{idx + 1}"
-            content = (item.get('content') or '').strip()
-            featured_image = (item.get('featured_image') or '').strip()
-            categories = item.get('categories', [])
-        else:
-            # Handle video items
-            title = f"Video Item {idx + 1}" if not item.get('title') else item.get('title').strip()
-            link = item.get('src') or f"https://clien.net/video/{idx + 1}"
-            # Construct video tag with all specified attributes, ensuring __idm_id__ and id="player"
-            video_attrs = {
-                'src': item.get('src', ''),
-                'poster': item.get('poster', ''),
-                'data-file-srl': item.get('data-file-srl', ''),
-                '__idm_id__': item.get('__idm_id__', ''),  # Explicitly include __idm_id__, even if blank
-                'id': 'player',  # Force id="player" for all videos
-                'playsinline': item.get('playsinline', ''),
-                'controls': item.get('controls', ''),
-                'autoplay': item.get('autoplay', ''),
-                'loop': item.get('loop', ''),
-                'muted': item.get('muted', ''),
-                'preload': item.get('preload', ''),
-                'width': item.get('width', ''),
-                'height': item.get('height', '')
-            }
-            # Filter out empty attributes except __idm_id__ and id
-            content = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v or k in ['__idm_id__', 'id'])}></video>"
-            featured_image = item.get('poster', '')
-            categories = item.get('categories', [])
+        title = (item.get('title') or '').strip() or f"Untitled Post {idx + 1}"
+        link = (item.get('link') or '').strip() or f"https://clien.net/placeholder/{idx + 1}"
+        content = (item.get('content') or '').strip()
+        featured_image = (item.get('featured_image') or '').strip()
+        categories = item.get('categories', [])
 
         guid = link
         if guid in seen_guids:
@@ -78,8 +48,6 @@ def generate_rss_feed(items, output_file=FEED_FILE):
         log_step(f"Raw content for item {idx + 1}: {content[:500]}{'...' if len(content) > 500 else ''}")
         log_step(f"Featured image for item {idx + 1}: {featured_image}")
         log_step(f"Categories for item {idx + 1}: {categories}")
-        if item_type == 'video':
-            log_step(f"Video attributes for item {idx + 1}: {video_attrs}")
 
         modified_content = modify_content(content)
 
@@ -102,7 +70,7 @@ def generate_rss_feed(items, output_file=FEED_FILE):
 
         log_step(
             f"==============\n"
-            f"Item {idx + 1} ({item_type}):\n"
+            f"Item {idx + 1}:\n"
             f"title: {title}\n"
             f"link: {link}\n"
             f"guid: {guid}\n"
@@ -137,28 +105,13 @@ def generate_rss_feed(items, output_file=FEED_FILE):
             etree.SubElement(postmeta_elem, "meta_key").text = "_thumbnail_id"
             etree.SubElement(postmeta_elem, "meta_value").text = featured_image
 
-        # Handle video-specific attributes
-        if item_type == 'video':
-            # Add video src as an enclosure
-            if item.get('src'):
-                mime_type, _ = mimetypes.guess_type(item['src'])
-                if not mime_type:
-                    mime_type = 'video/mp4'  # Default for videos
-                etree.SubElement(item_elem, "enclosure", url=item['src'], type=mime_type, length="0")
-
-            # Add video attributes as WordPress metadata, ensuring __idm_id__ and id="player"
-            for attr in ['data-file-srl', '__idm_id__', 'id', 'playsinline', 'controls', 'autoplay', 'loop', 'muted', 'preload', 'width', 'height']:
-                if attr in item or attr in ['__idm_id__', 'id']:  # Include __idm_id__ and id even if blank
-                    postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
-                    etree.SubElement(postmeta_elem, "meta_key").text = f"video_{attr}"
-                    etree.SubElement(postmeta_elem, "meta_value").text = 'player' if attr == 'id' else item.get(attr, '')
-
     try:
         tree = etree.ElementTree(rss)
         tree.write(output_file, encoding="utf-8", xml_declaration=True, pretty_print=True)
         log_step(f"RSS feed written to {output_file}, total items: {len(items)}")
     except Exception as e:
         log_step(f"Failed to write RSS feed: {str(e)}")
+
 
 def modify_content(content):
     soup = BeautifulSoup(content, 'html.parser')
@@ -184,8 +137,6 @@ def modify_content(content):
             if video_url:
                 log_step(f"Input video tag attributes: {tag.attrs}")
                 video_attrs = tag.attrs.copy()
-                video_attrs['__idm_id__'] = video_attrs.get('__idm_id__', '')  # Ensure __idm_id__ is included
-                video_attrs['id'] = 'player'  # Force id="player" for all videos
                 attr_strings = []
                 for k, v in video_attrs.items():
                     if v is None:
