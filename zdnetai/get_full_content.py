@@ -10,7 +10,7 @@ def get_full_content(post_url, headers):
             context = browser.new_context(extra_http_headers=headers)
             page = context.new_page()
 
-            page.goto(post_url, timeout=10000)
+            page.goto(post_url, timeout=20000)
             page.wait_for_selector('.view_cont', timeout=5000)
             html = page.content()
             browser.close()
