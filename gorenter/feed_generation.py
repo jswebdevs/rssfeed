@@ -19,11 +19,11 @@ def generate_rss_feed(items, output_file=FEED_FILE):
     })
     channel = etree.SubElement(rss, "channel")
 
-    etree.SubElement(channel, "title").text = "Ggoorr RSS Feed"
+    etree.SubElement(channel, "title").text = "Ggoorr Enter RSS Feed"
     etree.SubElement(channel, "link").text = "https://ggoorr.net/"
     etree.SubElement(channel, "description").text = "RSS feed generated from ggoorr.net"
-    # Convert 09:51 AM +06 (May 21, 2025) to UTC: 03:51 AM GMT
-    etree.SubElement(channel, "lastBuildDate").text = "Wed, 21 May 2025 03:51:00 GMT"
+    # Convert 09:54 AM +06 (May 21, 2025) to UTC: 03:54 AM GMT
+    etree.SubElement(channel, "lastBuildDate").text = "Wed, 21 May 2025 03:54:00 GMT"
 
     seen_guids = set()
 
@@ -48,13 +48,13 @@ def generate_rss_feed(items, output_file=FEED_FILE):
             # Handle video items
             title = f"Video Item {idx + 1}" if not item.get('title') else item.get('title').strip()
             link = item.get('src') or f"https://ggoorr.net/video/{idx + 1}"
-            # Construct video tag with all specified attributes, ensuring __idm_id__ is included
+            # Construct video tag with all specified attributes, ensuring __idm_id__ and id="player"
             video_attrs = {
                 'src': item.get('src', ''),
                 'poster': item.get('poster', ''),
                 'data-file-srl': item.get('data-file-srl', ''),
                 '__idm_id__': item.get('__idm_id__', ''),  # Explicitly include __idm_id__, even if blank
-                'id': item.get('id', ''),
+                'id': 'player',  # Force id="player" for all videos
                 'playsinline': item.get('playsinline', ''),
                 'controls': item.get('controls', ''),
                 'autoplay': item.get('autoplay', ''),
@@ -64,8 +64,8 @@ def generate_rss_feed(items, output_file=FEED_FILE):
                 'width': item.get('width', ''),
                 'height': item.get('height', '')
             }
-            # Filter out empty attributes except __idm_id__
-            content = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v or k == '__idm_id__')}></video>"
+            # Filter out empty attributes except __idm_id__ and id
+            content = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v or k in ['__idm_id__', 'id'])}></video>"
             featured_image = item.get('poster', '')
             categories = item.get('categories', [])
 
@@ -146,12 +146,12 @@ def generate_rss_feed(items, output_file=FEED_FILE):
                     mime_type = 'video/mp4'  # Default for videos
                 etree.SubElement(item_elem, "enclosure", url=item['src'], type=mime_type, length="0")
 
-            # Add video attributes as WordPress metadata, ensuring __idm_id__ is included
+            # Add video attributes as WordPress metadata, ensuring __idm_id__ and id="player"
             for attr in ['data-file-srl', '__idm_id__', 'id', 'playsinline', 'controls', 'autoplay', 'loop', 'muted', 'preload', 'width', 'height']:
-                if attr in item or attr == '__idm_id__':  # Include __idm_id__ even if blank
+                if attr in item or attr in ['__idm_id__', 'id']:  # Include __idm_id__ and id even if blank
                     postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
                     etree.SubElement(postmeta_elem, "meta_key").text = f"video_{attr}"
-                    etree.SubElement(postmeta_elem, "meta_value").text = item.get(attr, '')
+                    etree.SubElement(postmeta_elem, "meta_value").text = 'player' if attr == 'id' else item.get(attr, '')
 
     try:
         tree = etree.ElementTree(rss)
@@ -185,6 +185,7 @@ def modify_content(content):
                 log_step(f"Input video tag attributes: {tag.attrs}")
                 video_attrs = tag.attrs.copy()
                 video_attrs['__idm_id__'] = video_attrs.get('__idm_id__', '')  # Ensure __idm_id__ is included
+                video_attrs['id'] = 'player'  # Force id="player" for all videos
                 attr_strings = []
                 for k, v in video_attrs.items():
                     if v is None:
