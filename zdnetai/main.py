@@ -14,7 +14,7 @@ HEADERS = {
 }
 
 START_PAGE = 1
-END_PAGE = 1  # You can increase this later
+END_PAGE = 2  # You can increase this later
 
 def main():
     all_posts = []

@@ -22,8 +22,8 @@ def generate_rss_feed(items, output_file=FEED_FILE):
     etree.SubElement(channel, "title").text = "Ggoorr RSS Feed"
     etree.SubElement(channel, "link").text = "https://ggoorr.net/"
     etree.SubElement(channel, "description").text = "RSS feed generated from ggoorr.net"
-    # Convert 10:44 AM +06 (May 20, 2025) to UTC: 04:44 AM GMT
-    etree.SubElement(channel, "lastBuildDate").text = "Tue, 20 May 2025 04:44:00 GMT"
+    # Convert 09:51 AM +06 (May 21, 2025) to UTC: 03:51 AM GMT
+    etree.SubElement(channel, "lastBuildDate").text = "Wed, 21 May 2025 03:51:00 GMT"
 
     seen_guids = set()
 
@@ -46,18 +46,26 @@ def generate_rss_feed(items, output_file=FEED_FILE):
             categories = item.get('categories', [])
         else:
             # Handle video items
-            title = f"Video Item {idx + 1}"  # Default title for videos
+            title = f"Video Item {idx + 1}" if not item.get('title') else item.get('title').strip()
             link = item.get('src') or f"https://ggoorr.net/video/{idx + 1}"
-            # Construct video tag with all specified attributes
+            # Construct video tag with all specified attributes, ensuring __idm_id__ is included
             video_attrs = {
                 'src': item.get('src', ''),
                 'poster': item.get('poster', ''),
                 'data-file-srl': item.get('data-file-srl', ''),
-                '__idm_id__': item.get('__idm_id__', ''),
+                '__idm_id__': item.get('__idm_id__', ''),  # Explicitly include __idm_id__, even if blank
                 'id': item.get('id', ''),
-                'playsinline': item.get('playsinline', '')
+                'playsinline': item.get('playsinline', ''),
+                'controls': item.get('controls', ''),
+                'autoplay': item.get('autoplay', ''),
+                'loop': item.get('loop', ''),
+                'muted': item.get('muted', ''),
+                'preload': item.get('preload', ''),
+                'width': item.get('width', ''),
+                'height': item.get('height', '')
             }
-            content = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v)}></video>"
+            # Filter out empty attributes except __idm_id__
+            content = f"<video {' '.join(f'{k}=\"{v}\"' for k, v in video_attrs.items() if v or k == '__idm_id__')}></video>"
             featured_image = item.get('poster', '')
             categories = item.get('categories', [])
 
@@ -138,12 +146,12 @@ def generate_rss_feed(items, output_file=FEED_FILE):
                     mime_type = 'video/mp4'  # Default for videos
                 etree.SubElement(item_elem, "enclosure", url=item['src'], type=mime_type, length="0")
 
-            # Add video attributes as WordPress metadata
-            for attr in ['data-file-srl', '__idm_id__', 'id', 'playsinline']:
-                if item.get(attr):
+            # Add video attributes as WordPress metadata, ensuring __idm_id__ is included
+            for attr in ['data-file-srl', '__idm_id__', 'id', 'playsinline', 'controls', 'autoplay', 'loop', 'muted', 'preload', 'width', 'height']:
+                if attr in item or attr == '__idm_id__':  # Include __idm_id__ even if blank
                     postmeta_elem = etree.SubElement(item_elem, "{http://wordpress.org/export/1.2/}postmeta")
                     etree.SubElement(postmeta_elem, "meta_key").text = f"video_{attr}"
-                    etree.SubElement(postmeta_elem, "meta_value").text = item[attr]
+                    etree.SubElement(postmeta_elem, "meta_value").text = item.get(attr, '')
 
     try:
         tree = etree.ElementTree(rss)
@@ -176,6 +184,7 @@ def modify_content(content):
             if video_url:
                 log_step(f"Input video tag attributes: {tag.attrs}")
                 video_attrs = tag.attrs.copy()
+                video_attrs['__idm_id__'] = video_attrs.get('__idm_id__', '')  # Ensure __idm_id__ is included
                 attr_strings = []
                 for k, v in video_attrs.items():
                     if v is None:

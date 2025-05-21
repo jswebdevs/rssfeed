@@ -11,14 +11,14 @@ def get_full_content(post_url, headers):
             page = context.new_page()
 
             page.goto(post_url, timeout=10000)
-            page.wait_for_selector('.xe_content', timeout=5000)
+            page.wait_for_selector('.view_cont', timeout=5000)
             html = page.content()
             browser.close()
 
         soup = BeautifulSoup(html, 'lxml')
-        content_root = soup.find('div', class_='xe_content')
+        content_root = soup.find('div', class_='view_cont')
         if not content_root:
-            log_step(f"No .xe_content found at {post_url}")
+            log_step(f"No .view_cont found at {post_url}")
             return '', ''
 
         # Remove comments
@@ -32,7 +32,7 @@ def get_full_content(post_url, headers):
             if tag.name == 'img':
                 src = tag.get('src', '')
                 if src and not src.startswith('http'):
-                    src = 'https://cdn.ggoorr.net' + src if src.startswith('/files/attach') else 'https://cdn.ggoorr.net/files/attach' + src
+                    src = 'https://image.zdnet.co.kr' + src if src.startswith('/files/attach') else 'https://image.zdnet.co.kr/files/attach' + src
                 tag['src'] = src
                 tag['width'] = '720px'
                 image_urls.append(src)
@@ -42,9 +42,9 @@ def get_full_content(post_url, headers):
                 poster = tag.get('poster', '')
 
                 if src and not src.startswith('http'):
-                    src = 'https://cdn.ggoorr.net' + src if src.startswith('/files/attach') else 'https://cdn.ggoorr.net/files/attach' + src
+                    src = 'https://image.zdnet.co.kr' + src if src.startswith('/files/attach') else 'https://image.zdnet.co.kr/files/attach' + src
                 if poster and not poster.startswith('http'):
-                    poster = 'https://cdn.ggoorr.net' + poster if poster.startswith('/files/attach') else 'https://cdn.ggoorr.net/files/attach' + poster
+                    poster = 'https://image.zdnet.co.kr' + poster if poster.startswith('/files/attach') else 'https://image.zdnet.co.kr/files/attach' + poster
 
                 tag['src'] = src
                 tag['poster'] = poster
