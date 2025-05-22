@@ -6,7 +6,7 @@ from log import log_step
 
 
 BASE_URL = "https://ggoorr.net"
-TARGET_URL = BASE_URL + "/main/category/17748977/page/2{page_number}"
+TARGET_URL = BASE_URL + "/main/category/17748977/page/{page_number}"
 
 
 HEADERS = {
