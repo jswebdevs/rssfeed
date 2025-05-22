@@ -11,10 +11,11 @@ folders = [
     #  "gorpolitics",
     #  "gorrelation",
     #  "gorhotdeals",
-    #  "clienft",
-    # "gorentertainment"
+    #  "gorannounce",
+       "clienft",
+    #  "gorentertainment"
     #  "ilbepolitics",
-    "gorannounce"
+    
 ]
 
 def clear_logs():

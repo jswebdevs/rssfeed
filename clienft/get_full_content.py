@@ -11,14 +11,14 @@ def get_full_content(post_url, headers):
             page = context.new_page()
 
             page.goto(post_url, timeout=10000)
-            page.wait_for_selector('.xe_content', timeout=5000)
+            page.wait_for_selector('.post_content', timeout=5000)
             html = page.content()
             browser.close()
 
         soup = BeautifulSoup(html, 'lxml')
-        content_root = soup.find('div', class_='xe_content')
+        content_root = soup.find('div', class_='post_content')
         if not content_root:
-            log_step(f"No .xe_content found at {post_url}")
+            log_step(f"No .post_content found at {post_url}")
             return '', ''
 
         # Remove comments
