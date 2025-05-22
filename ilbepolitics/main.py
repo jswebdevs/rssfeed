@@ -4,8 +4,8 @@ from feed_generation import generate_rss_feed
 from log import log_step
 
 
-BASE_URL = "https://www.ilbe.com/"
-TARGET_URL = BASE_URL + "list/polilbe?page={page_number}&listStyle=list"
+BASE_URL = "https://www.ilbe.com"
+TARGET_URL = BASE_URL + "/list/polilbe?page={page_number}&listStyle=list"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
