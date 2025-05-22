@@ -5,15 +5,16 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # List of project folders
 folders = [
-     "gorhumour",
-     "gorenter",
-     "gornews",
-     "gorpolitics",
-     "gorrelation",
-     "gorhotdeals",
+    #  "gorhumour",
+    #  "gorenter",
+    #  "gornews",
+    #  "gorpolitics",
+    #  "gorrelation",
+    #  "gorhotdeals",
     #  "clienft",
     # "gorentertainment"
-    #  "ilbepolitics"
+    #  "ilbepolitics",
+    "gorannounce"
 ]
 
 def clear_logs():
