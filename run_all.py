@@ -5,16 +5,16 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # List of project folders
 folders = [
-    #  "gorhumour",
-    #  "gorenter",
-    #  "gornews",
-    #  "gorpolitics",
-    #  "gorrelation",
-    #  "gorhotdeals",
-    #  "gorannounce",
-       "clienft",
-    #  "gorentertainment"
-    #  "ilbepolitics",
+     "gorhumour",
+     "gorenter",
+     "gornews",
+     "gorpolitics",
+     "gorrelation",
+     "gorhotdeals",
+     "gorannounce",
+     "clienft",
+
+
     
 ]
 
