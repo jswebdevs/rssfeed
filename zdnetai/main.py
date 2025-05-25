@@ -4,7 +4,7 @@ from feed_generation import generate_rss_feed
 from log import log_step
 
 BASE_URL = "https://zdnet.co.kr"
-TARGET_URL = BASE_URL + "/newskey/?lstcode=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&page=1{page_number}"
+TARGET_URL = BASE_URL + "/newskey/?lstcode=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&page={page_number}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
