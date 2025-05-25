@@ -1,18 +1,16 @@
-import time
 from get_link_and_title import get_links_and_titles
 from get_full_content import get_full_content
 from feed_generation import generate_rss_feed
 from log import log_step
 
 BASE_URL = "https://zdnet.co.kr"
-TARGET_URL = BASE_URL + "/newskey/?lstcode=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&page={page_number}"
+TARGET_URL = BASE_URL + "/newskey/?lstcode=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&page=1{page_number}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/122.0.0.0 Safari/537.36"
 }
-
 START_PAGE = 1
 END_PAGE = 1
 
@@ -25,32 +23,31 @@ def main():
         try:
             posts = get_links_and_titles(url, BASE_URL, HEADERS)
         except Exception as e:
-            log_step(f"Error fetching {url}: {str(e)}")
+            log_step(f"Failed to scrape page {page_num}: {str(e)}")
             continue
 
         for post in posts:
             try:
                 content, featured_image = get_full_content(post['link'], HEADERS)
+                # Validate post
                 if not post.get('title') or not post.get('link'):
                     log_step(f"Skipping invalid post: {post}")
                     continue
                 post['content'] = content
                 post['featured_image'] = featured_image
+                # Ensure categories is a list
                 post['categories'] = post.get('categories', [])
+                # Preprocess link to use /thisthat/ format
                 post['link'] = post['link'].replace('/main/', '/thisthat/').replace('/page/1', '')
-                log_step(f"Added content for: {post['title']} "
-                         f"(link: {post['link']}, content length: {len(content)}, "
-                         f"categories: {post['categories']})")
+                log_step(f"Added content for: {post['title']} (link: {post['link']}, content length: {len(content)}, categories: {post['categories']})")
                 all_posts.append(post)
             except Exception as e:
                 log_step(f"Failed to process post {post.get('title', 'unknown')}: {str(e)}")
                 continue
 
-            time.sleep(1.5)
-
-        time.sleep(2)
-
     log_step(f"Total posts collected: {len(all_posts)}")
+    
+    # Debug logging for items
     print(f"Total items to process: {len(all_posts)}")
     for idx, item in enumerate(all_posts):
         print(f"Item {idx + 1}: {item}")

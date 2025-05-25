@@ -166,6 +166,7 @@ def modify_content(content):
 
     youtube_regex = r'(?:youtube\.com/(?:watch\?v=|embed/)|youtu\.be/)([a-zA-Z0-9_-]{11})'
     vimeo_regex = r'(?:vimeo\.com/(?:video/|embed/)?)(\d+)'
+    base_url = "https://clienft.net"
 
     for tag in soup.find_all(['p', 'img', 'video', 'iframe', 'a']):
         if tag.name == 'p':
@@ -180,25 +181,31 @@ def modify_content(content):
             else:
                 log_step(f"Skipping img tag with no src: {str(tag)}")
         elif tag.name == 'video':
-            video_url = tag.get('src', '')
-            if video_url:
-                log_step(f"Input video tag attributes: {tag.attrs}")
-                video_attrs = tag.attrs.copy()
-                video_attrs['__idm_id__'] = video_attrs.get('__idm_id__', '')  # Ensure __idm_id__ is included
-                video_attrs['id'] = 'player'  # Force id="player" for all videos
-                attr_strings = []
-                for k, v in video_attrs.items():
-                    if v is None:
-                        continue
-                    elif v == '' or v is True:
-                        attr_strings.append(k)
-                    else:
-                        attr_strings.append(f'{k}="{v}"')
-                video_tag = f"<video {' '.join(attr_strings)}></video>"
-                modified_elements.append(f'</br>{video_tag}</br>')
-                log_step(f"Output video tag: {video_tag}")
-            else:
-                log_step(f"Skipping video tag with no src: {str(tag)}")
+            video_attrs = tag.attrs.copy()
+
+            # Remove data-saved-src
+            if 'data-saved-src' in video_attrs:
+                del video_attrs['data-saved-src']
+
+            # Fix relative src if needed
+            if 'src' in video_attrs and video_attrs['src'].startswith('/files/attach'):
+                video_attrs['src'] = base_url + video_attrs['src']
+
+            video_attrs['__idm_id__'] = video_attrs.get('__idm_id__', '')  # Always include
+            video_attrs['id'] = 'player'  # Always force this
+
+            attr_strings = []
+            for k, v in video_attrs.items():
+                if v is None:
+                    continue
+                elif v == '' or v is True:
+                    attr_strings.append(k)
+                else:
+                    attr_strings.append(f'{k}="{v}"')
+
+            video_tag = f"<video {' '.join(attr_strings)}></video>"
+            modified_elements.append(f'</br>{video_tag}</br>')
+            log_step(f"Output video tag: {video_tag}")
         elif tag.name in ['iframe', 'a']:
             url = tag.get('src') if tag.name == 'iframe' else tag.get('href', '')
             if url:
