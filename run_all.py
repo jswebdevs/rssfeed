@@ -13,7 +13,7 @@ folders = [
     #  "gorhotdeals",
     #  "gorannounce",
     #  "clienft",   
-    "zdnetai"
+     "zdnetai"
 ]
 
 def clear_logs():
