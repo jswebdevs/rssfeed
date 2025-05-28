@@ -14,7 +14,8 @@ folders = [
     #  "gorannounce",
     #  "clienft",   
     #  "zdnetai"
-    "goridol"
+    #  "goridol"
+    "nittertweet"
 ]
 
 def clear_logs():
