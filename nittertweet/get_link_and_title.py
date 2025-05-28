@@ -8,54 +8,44 @@ def get_links_and_titles(page_url, base_url, headers):
         response = requests.get(page_url, headers=headers, timeout=10)
         response.raise_for_status()
 
-        # Log the entire raw HTML response to understand what's being returned
-        log_step(f"Raw HTML content for {page_url}: {response.text[:500]}...")
-
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Select the anchor tags that hold the titles
-        articles = soup.select('a.lu-title')
-        
-        # Log the exact raw HTML of the anchor tags
-        log_step(f"Raw anchor tags for titles: {[str(a) for a in articles]}")
 
         results = []
 
-        for a in articles:
-            title = a.get_text(strip=True)  # Strip whitespace for clean titles
-            relative_link = a.get('href', '')
+        # Each tweet is within a <div class="timeline-item">
+        timeline_items = soup.select('div.timeline-item')
 
-            # Log the title and link
-            log_step(f"Found title: {title} with link: {relative_link}")
+        for item in timeline_items:
+            # Get tweet content (title)
+            content_div = item.select_one('div.tweet-content')
+            title = content_div.get_text(strip=True) if content_div else None
 
-            # Extract categories from <span class="category"><a class="lu-category in-info">
-            parent = a.find_parent('li', class_='lu')  # Navigate to <li class="lu lddu ...">
-            if parent:
-                category_elements = parent.select('span.category a.lu-category')
-                categories = [cat.get_text(strip=True) for cat in category_elements if cat.get_text(strip=True)]
-            else:
-                categories = []
-            
-            # Log categories
-            log_step(f"Categories for title '{title}': {categories}")
+            # Get link to the tweet
+            link_elem = item.select_one('a.tweet-link')
+            relative_link = link_elem['href'] if link_elem and 'href' in link_elem.attrs else None
 
-            if title and relative_link:
-                # Build the absolute link
-                full_link = urljoin(base_url, relative_link)
+            # Skip if either title or link is missing
+            if not title or not relative_link:
+                log_step(f"Skipping incomplete item: title='{title}', link='{relative_link}'")
+                continue
 
-                # Remove any fragment (like #comment_...)
-                if '#' in full_link:
-                    full_link = full_link.split('#')[0]
+            # Build the absolute link
+            full_link = urljoin(base_url, relative_link.split('#')[0])  # remove # fragments
 
-                results.append({
-                    'title': title,
-                    'link': full_link,
-                    'categories': categories
-                })
+            # Nitter does not use categories; empty list
+            categories = []
+
+            results.append({
+                'title': title,
+                'link': full_link,
+                'categories': categories
+            })
+
+            log_step(f"Found tweet: '{title}' at {full_link}")
 
         log_step(f"Found {len(results)} posts on {page_url}")
-        return results
+        return results, soup
 
     except Exception as e:
         log_step(f"Error fetching {page_url}: {str(e)}")
-        return []
+        return [], None
